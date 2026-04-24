@@ -1,0 +1,1794 @@
+﻿company,product_name,reference_id,review_year,cocoa_percent,company_location,rating,bean_type,bean_origin,is_dark,rating_grade
+A. Morin,Agua Grande,1876,2016,63.0,France,3.75,,,False,Premium
+A. Morin,Kpime,1676,2015,70.0,France,2.75,,,True,Poprawny
+A. Morin,Atsane,1676,2015,70.0,France,3.0,,,True,Poprawny
+A. Morin,Akata,1680,2015,70.0,France,3.5,,,True,Premium
+A. Morin,Quilla,1704,2015,70.0,France,3.5,,,True,Premium
+A. Morin,Carenero,1315,2014,70.0,France,2.75,Criollo,,True,Poprawny
+A. Morin,Cuba,1315,2014,70.0,France,3.5,,,True,Premium
+A. Morin,Sur del Lago,1315,2014,70.0,France,3.5,Criollo,,True,Premium
+A. Morin,Puerto Cabello,1319,2014,70.0,France,3.75,Criollo,,True,Premium
+A. Morin,Pablino,1319,2014,70.0,France,4.0,,,True,Premium
+A. Morin,Panama,1011,2013,70.0,France,2.75,,,True,Poprawny
+A. Morin,Madagascar,1011,2013,70.0,France,3.0,Criollo,madagascar,True,Poprawny
+A. Morin,Brazil,1011,2013,70.0,France,3.25,,,True,Premium
+A. Morin,Equateur,1011,2013,70.0,France,3.75,,,True,Premium
+A. Morin,Colombie,1015,2013,70.0,France,2.75,,,True,Poprawny
+A. Morin,Birmanie,1015,2013,70.0,France,3.0,,,True,Poprawny
+A. Morin,Papua New Guinea,1015,2013,70.0,France,3.25,,,True,Premium
+A. Morin,Chuao,1015,2013,70.0,France,4.0,Trinitario,,True,Premium
+A. Morin,Piura,1019,2013,70.0,France,3.25,,,True,Premium
+A. Morin,Chanchamayo Province,1019,2013,70.0,France,3.5,,,True,Premium
+A. Morin,Chanchamayo Province,1019,2013,63.0,France,4.0,,,False,Premium
+A. Morin,Bolivia,797,2012,70.0,France,3.5,,,True,Premium
+A. Morin,Peru,797,2012,63.0,France,3.75,,,False,Premium
+Acalli,"Chulucanas, El Platanal",1462,2015,70.0,U.S.A.,3.75,,,True,Premium
+Acalli,"Tumbes, Norandino",1470,2015,70.0,U.S.A.,3.75,Criollo,,True,Premium
+Adi,Vanua Levu,705,2011,60.0,Fiji,2.75,Trinitario,,False,Poprawny
+Adi,"Vanua Levu, Toto-A",705,2011,80.0,Fiji,3.25,Trinitario,,True,Premium
+Adi,Vanua Levu,705,2011,88.0,Fiji,3.5,Trinitario,,True,Premium
+Adi,"Vanua Levu, Ami-Ami-CA",705,2011,72.0,Fiji,3.5,Trinitario,,True,Premium
+Aequare (Gianduja),"Los Rios, Quevedo, Arriba",370,2009,55.0,Ecuador,2.75,Forastero (Arriba),,False,Poprawny
+Aequare (Gianduja),"Los Rios, Quevedo, Arriba",370,2009,70.0,Ecuador,3.0,Forastero (Arriba),,True,Poprawny
+Ah Cacao,Tabasco,316,2009,70.0,Mexico,3.0,Criollo,,True,Poprawny
+Akesson's (Pralus),"Bali (west), Sukrama Family, Melaya area",636,2011,75.0,Switzerland,3.75,Trinitario,,True,Premium
+Akesson's (Pralus),"Madagascar, Ambolikapiky P.",502,2010,75.0,Switzerland,2.75,Criollo,madagascar,True,Poprawny
+Akesson's (Pralus),"Monte Alegre, D. Badero",508,2010,75.0,Switzerland,2.75,Forastero,,True,Poprawny
+Alain Ducasse,Trinite,1215,2014,65.0,France,2.75,Trinitario,,False,Poprawny
+Alain Ducasse,Vietnam,1215,2014,75.0,France,2.75,Trinitario,,True,Poprawny
+Alain Ducasse,Madagascar,1215,2014,75.0,France,3.0,Trinitario,madagascar,True,Poprawny
+Alain Ducasse,Chuao,1061,2013,75.0,France,2.5,Trinitario,,True,Poprawny
+Alain Ducasse,"Piura, Perou",1173,2013,75.0,France,2.5,,,True,Poprawny
+Alexandre,"Winak Coop, Napo",1944,2017,70.0,Netherlands,3.5,Forastero (Nacional),,True,Premium
+Alexandre,"La Dalia, Matagalpa",1944,2017,70.0,Netherlands,3.5,"Criollo, Trinitario",,True,Premium
+Alexandre,Tien Giang,1944,2017,70.0,Netherlands,3.5,Trinitario,,True,Premium
+Alexandre,"Makwale Village, Kyela",1944,2017,70.0,Netherlands,3.5,Forastero,,True,Premium
+Altus aka Cao Artisan,Momotombo,1728,2016,60.0,U.S.A.,2.75,,,False,Poprawny
+Altus aka Cao Artisan,Acopagro,1728,2016,60.0,U.S.A.,3.0,,,False,Poprawny
+Altus aka Cao Artisan,CIAAB Coop,1732,2016,60.0,U.S.A.,2.5,,,False,Poprawny
+Altus aka Cao Artisan,Villa Andina,1732,2016,60.0,U.S.A.,2.5,,,False,Poprawny
+Altus aka Cao Artisan,Gruppo Salinas,1732,2016,60.0,U.S.A.,2.75,,,False,Poprawny
+Altus aka Cao Artisan,Sur del Lago,1125,2013,60.0,U.S.A.,2.5,,,False,Poprawny
+Altus aka Cao Artisan,Conacado,1125,2013,60.0,U.S.A.,3.0,Trinitario,,False,Poprawny
+Altus aka Cao Artisan,Bolivia,1129,2013,80.0,U.S.A.,3.25,,,True,Premium
+Altus aka Cao Artisan,Bolivia,1133,2013,60.0,U.S.A.,3.0,,,False,Poprawny
+Altus aka Cao Artisan,Peru,1133,2013,60.0,U.S.A.,3.25,,,False,Premium
+Amano,Morobe,725,2011,70.0,U.S.A.,4.0,,,True,Premium
+Amano,Los Rios,470,2010,70.0,U.S.A.,3.75,,,True,Premium
+Amano,Guayas,470,2010,70.0,U.S.A.,4.0,,,True,Premium
+Amano,Chuao,544,2010,70.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Amano,Montanya,363,2009,70.0,U.S.A.,3.0,,,True,Poprawny
+Amano,"Bali, Jembrana",304,2008,70.0,U.S.A.,2.75,,,True,Poprawny
+Amano,Madagascar,129,2007,70.0,U.S.A.,3.5,Trinitario,madagascar,True,Premium
+Amano,Cuyagua,147,2007,70.0,U.S.A.,3.0,,,True,Poprawny
+Amano,Ocumare,175,2007,70.0,U.S.A.,3.75,Criollo,,True,Premium
+Amatller (Simon Coll),Ghana,322,2009,70.0,Spain,3.0,Forastero,,True,Poprawny
+Amatller (Simon Coll),Ecuador,327,2009,70.0,Spain,2.75,,,True,Poprawny
+Amatller (Simon Coll),Ecuador,464,2009,85.0,Spain,2.75,,,True,Poprawny
+Amatller (Simon Coll),Ghana,464,2009,85.0,Spain,3.0,Forastero,,True,Poprawny
+Amazona,"LamasdelChanka, San Martin, Oro Verde coop",1145,2013,72.0,Peru,3.25,,,True,Premium
+Amazona,"Bellavista Gran Pajeten, San Martin",1145,2013,73.0,Peru,3.5,Trinitario,,True,Premium
+Ambrosia,Belize,1494,2015,64.0,Canada,3.0,Trinitario,,False,Poprawny
+Ambrosia,Madagascar,1494,2015,66.0,Canada,3.25,Trinitario,madagascar,False,Premium
+Ambrosia,Dominican Republic,1498,2015,75.0,Canada,3.25,,,True,Premium
+Ambrosia,Papua New Guinea,1498,2015,63.0,Canada,3.25,,,False,Premium
+Ambrosia,Venezuela,1498,2015,70.0,Canada,3.25,,,True,Premium
+Ambrosia,Peru,1498,2015,68.0,Canada,3.5,,,False,Premium
+Amedei,"Piura, Blanco de Criollo",979,2012,70.0,Italy,3.75,,,True,Premium
+Amedei,Porcelana,111,2007,70.0,Italy,4.0,Criollo (Porcelana),,True,Premium
+Amedei,Nine,111,2007,75.0,Italy,4.0,Blend,,True,Premium
+Amedei,Chuao,111,2007,70.0,Italy,5.0,Trinitario,,True,Elita
+Amedei,Ecuador,123,2007,70.0,Italy,3.0,Trinitario,,True,Poprawny
+Amedei,Jamaica,123,2007,70.0,Italy,3.0,Trinitario,,True,Poprawny
+Amedei,Grenada,123,2007,70.0,Italy,3.5,Trinitario,,True,Premium
+Amedei,Venezuela,123,2007,70.0,Italy,3.75,Trinitario (85% Criollo),,True,Premium
+Amedei,Madagascar,123,2007,70.0,Italy,4.0,Trinitario (85% Criollo),madagascar,True,Premium
+Amedei,Trinidad,129,2007,70.0,Italy,3.5,Trinitario,,True,Premium
+Amedei,Toscano Black,170,2007,63.0,Italy,3.5,Blend,,False,Premium
+Amedei,Toscano Black,40,2006,70.0,Italy,5.0,Blend,,True,Elita
+Amedei,Toscano Black,75,2006,66.0,Italy,4.0,Blend,,False,Premium
+AMMA,Catongo,1065,2013,75.0,Brazil,3.25,Forastero (Catongo),,True,Premium
+AMMA,"Monte Alegre, 3 diff. plantations",572,2010,85.0,Brazil,2.75,Forastero (Parazinho),,True,Poprawny
+AMMA,"Monte Alegre, 3 diff. plantations",572,2010,50.0,Brazil,3.75,Forastero (Parazinho),,False,Premium
+AMMA,"Monte Alegre, 3 diff. plantations",572,2010,75.0,Brazil,3.75,Forastero (Parazinho),,True,Premium
+AMMA,"Monte Alegre, 3 diff. plantations",572,2010,60.0,Brazil,4.0,Forastero (Parazinho),,False,Premium
+Anahata,Elvesia,1259,2014,75.0,U.S.A.,3.0,,,True,Poprawny
+Animas,Alto Beni,1852,2016,75.0,U.S.A.,3.5,,,True,Premium
+Ara,Madagascar,1375,2014,75.0,France,3.0,Trinitario,madagascar,True,Poprawny
+Ara,Chiapas,1379,2014,72.0,France,2.5,,,True,Poprawny
+Ara,Equateur,1379,2014,75.0,France,2.75,,,True,Poprawny
+Ara,Trincheras,1379,2014,75.0,France,3.0,,,True,Poprawny
+Arete,San Juan,1724,2016,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Arete,Kokoa Kamili,1724,2016,70.0,U.S.A.,3.75,,,True,Premium
+Arete,Tien Giang,1900,2016,73.0,U.S.A.,3.5,Trinitario,,True,Premium
+Arete,Hacienda Victoria,1904,2016,70.0,U.S.A.,3.25,,,True,Premium
+Arete,Costa Esmeraldas,1904,2016,70.0,U.S.A.,3.25,,,True,Premium
+Arete,Lachua,1904,2016,70.0,U.S.A.,3.5,,,True,Premium
+Arete,Rugoso,1904,2016,70.0,U.S.A.,3.75,,,True,Premium
+Arete,"La Masica, FHIA",1908,2016,70.0,U.S.A.,3.5,,,True,Premium
+Arete,"Coto Brus, Terciopelo",1908,2016,70.0,U.S.A.,4.0,,,True,Premium
+Arete,Phantom,1924,2016,70.0,U.S.A.,4.0,Forastero (Nacional),,True,Premium
+Arete,Elvesia,1928,2016,70.0,U.S.A.,3.75,,,True,Premium
+Arete,Matasawalevu,1928,2016,70.0,U.S.A.,3.25,,,True,Premium
+Arete,Lam Dong,1928,2016,73.0,U.S.A.,3.25,,,True,Premium
+Arete,Fazenda Camboa,1534,2015,70.0,U.S.A.,3.5,,,True,Premium
+Arete,Nacional,1534,2015,68.0,U.S.A.,3.5,Forastero (Nacional),,False,Premium
+Arete,"Puerto Quito, heirloom",1534,2015,70.0,U.S.A.,3.75,Forastero (Nacional),,True,Premium
+Arete,Oko Caribe,1598,2015,70.0,U.S.A.,3.5,,,True,Premium
+Arete,Maya Mountain,1598,2015,70.0,U.S.A.,3.75,Trinitario,,True,Premium
+Arete,Chuno,1598,2015,70.0,U.S.A.,4.0,"Criollo, Trinitario",,True,Premium
+Arete,Fazenda Camboa,1602,2015,75.0,U.S.A.,2.75,,,True,Poprawny
+Arete,Guatemala,1602,2015,70.0,U.S.A.,3.25,,,True,Premium
+Arete,Camino Verde,1602,2015,75.0,U.S.A.,3.5,,,True,Premium
+Artisan du Chocolat,"Trinidad, Heritage, Limited ed.",1193,2013,72.0,U.K.,3.25,Trinitario,,True,Premium
+Artisan du Chocolat,"Colombia, Casa Luker",947,2012,72.0,U.K.,3.75,,,True,Premium
+Artisan du Chocolat,Haiti,729,2011,72.0,U.K.,4.0,,,True,Premium
+Artisan du Chocolat,Panama,745,2011,72.0,U.K.,2.75,,,True,Poprawny
+Artisan du Chocolat,Venezuela,486,2010,100.0,U.K.,1.75,,,True,Rozczarowujący
+Artisan du Chocolat,Jamaica,531,2010,72.0,U.K.,3.75,Trinitario,,True,Premium
+Artisan du Chocolat,Costa Rica,600,2010,72.0,U.K.,3.25,,,True,Premium
+Artisan du Chocolat,Ba Ria Vung Tau Province,600,2010,72.0,U.K.,3.25,Trinitario,,True,Premium
+Artisan du Chocolat,Bali,600,2010,72.0,U.K.,3.5,,,True,Premium
+Artisan du Chocolat,"Ocumare, Venezuela",355,2009,75.0,U.K.,2.5,"Criollo, Trinitario",,True,Poprawny
+Artisan du Chocolat,Java,355,2009,72.0,U.K.,2.75,Trinitario,,True,Poprawny
+Artisan du Chocolat,Brazil Rio Doce,363,2009,72.0,U.K.,1.75,,,True,Rozczarowujący
+Artisan du Chocolat,Madagascar,363,2009,80.0,U.K.,3.0,"Criollo, Trinitario",madagascar,True,Poprawny
+Artisan du Chocolat,Peru,363,2009,75.0,U.K.,3.0,Criollo,,True,Poprawny
+Artisan du Chocolat,Dominican Republic,363,2009,72.0,U.K.,3.25,Trinitario,,True,Premium
+Artisan du Chocolat,Congo,300,2008,72.0,U.K.,3.75,Forastero,,True,Premium
+Artisan du Chocolat (Casa Luker),"Orinoqua Region, Arauca",1181,2013,72.0,U.K.,2.75,Trinitario,,True,Poprawny
+Askinosie,Mababa,1780,2016,68.0,U.S.A.,3.75,Trinitario,,False,Premium
+Askinosie,"Tenende, Uwate",647,2011,72.0,U.S.A.,3.75,Trinitario,,True,Premium
+Askinosie,Cortes,661,2011,70.0,U.S.A.,3.75,Trinitario,,True,Premium
+Askinosie,Davao,331,2009,77.0,U.S.A.,3.75,Trinitario,,True,Premium
+Askinosie,Xoconusco,141,2007,75.0,U.S.A.,2.5,Trinitario,,True,Poprawny
+Askinosie,San Jose del Tambo,175,2007,70.0,U.S.A.,3.0,Forastero (Arriba),,True,Poprawny
+Bahen & Co.,Houseblend,1474,2015,80.0,Australia,3.25,,,True,Premium
+Bahen & Co.,Papua New Guinea,1474,2015,70.0,Australia,3.5,,,True,Premium
+Bahen & Co.,Sambirano,995,2012,70.0,Australia,3.0,Trinitario,madagascar,True,Poprawny
+Bahen & Co.,Bahia,999,2012,70.0,Australia,2.5,,,True,Poprawny
+Bahen & Co.,Houseblend,999,2012,70.0,Australia,2.5,Blend,,True,Poprawny
+Bakau,"Bambamarca, 2015",1454,2015,70.0,Peru,2.75,,,True,Poprawny
+Bakau,"Huallabamba, 2015",1454,2015,70.0,Peru,3.5,,,True,Premium
+Bar Au Chocolat,Bahia,1554,2015,70.0,U.S.A.,3.5,,,True,Premium
+Bar Au Chocolat,Maranon Canyon,1295,2014,70.0,U.S.A.,4.0,Forastero (Nacional),,True,Premium
+Bar Au Chocolat,Duarte Province,983,2012,70.0,U.S.A.,3.25,,,True,Premium
+Bar Au Chocolat,Chiapas,983,2012,70.0,U.S.A.,3.5,,,True,Premium
+Bar Au Chocolat,Sambirano,983,2012,70.0,U.S.A.,3.75,Trinitario,madagascar,True,Premium
+Baravelli's,single estate,955,2012,80.0,Wales,2.75,,,True,Poprawny
+Batch,"Dominican Republic, Batch 3",1840,2016,65.0,U.S.A.,3.5,,,False,Premium
+Batch,Brazil,1868,2016,70.0,U.S.A.,3.75,,,True,Premium
+Batch,Ecuador,1880,2016,65.0,U.S.A.,3.25,,,False,Premium
+Beau Cacao,"Asajaya E, NW Borneo, b. #132/4500",1948,2017,73.0,U.K.,3.0,,,True,Poprawny
+Beau Cacao,"Serian E., NW Borneo, b. #134/3800",1948,2017,72.0,U.K.,3.25,,,True,Premium
+Beehive,"Brazil, Batch 20316",1784,2016,80.0,U.S.A.,2.75,,,True,Poprawny
+Beehive,"Dominican Republic, Batch 31616",1784,2016,70.0,U.S.A.,2.75,,,True,Poprawny
+Beehive,"Ecuador, Batch 31516",1784,2016,70.0,U.S.A.,2.75,,,True,Poprawny
+Beehive,Ecuador,1788,2016,90.0,U.S.A.,2.75,,,True,Poprawny
+Belcolade,Costa Rica,586,2010,64.0,Belgium,2.75,,,False,Poprawny
+Belcolade,Papua New Guinea,586,2010,64.0,Belgium,2.75,,,False,Poprawny
+Belcolade,Peru,586,2010,64.0,Belgium,2.75,,,False,Poprawny
+Belcolade,Ecuador,586,2010,71.0,Belgium,3.5,,,True,Premium
+Bellflower,"Kakao Kamili, Kilombero Valley",1800,2016,70.0,U.S.A.,3.5,"Criollo, Trinitario",,True,Premium
+Bellflower,"Alto Beni, Palos Blanco",1804,2016,70.0,U.S.A.,3.25,,,True,Premium
+Bellflower,"Oko Caribe, Duarte P.",1864,2016,70.0,U.S.A.,3.5,,,True,Premium
+Belyzium,"Belize south, low fermentation",1768,2016,83.0,Germany,2.75,Trinitario,,True,Poprawny
+Belyzium,Belize south,1768,2016,78.0,Germany,3.0,Trinitario,,True,Poprawny
+Belyzium,Belize south,1768,2016,83.0,Germany,3.5,Trinitario,,True,Premium
+Benoit Nihant,Baracoa,1141,2013,74.0,Belgium,3.5,Trinitario,,True,Premium
+Benoit Nihant,Chuao,1141,2013,74.0,Belgium,3.5,Criollo,,True,Premium
+Benoit Nihant,Cuyagua Village,1141,2013,74.0,Belgium,3.5,Criollo,,True,Premium
+Benoit Nihant,Rio Peripa H.,1141,2013,73.0,Belgium,4.0,Trinitario,,True,Premium
+Benoit Nihant,"Bali, Sukrama Bros. Farm, Melaya, 62hr C",757,2011,72.0,Belgium,4.0,Trinitario,,True,Premium
+Benoit Nihant,"Somia Plantation, Sambirano, 70hr C",773,2011,72.0,Belgium,3.75,Trinitario,madagascar,True,Premium
+Bernachon,Nature,797,2012,55.0,France,2.75,,,False,Poprawny
+Beschle (Felchlin),Madagascar,636,2011,64.0,Switzerland,3.0,Trinitario,madagascar,False,Poprawny
+Beschle (Felchlin),Maracaibo,636,2011,88.0,Switzerland,3.0,Criollo,,True,Poprawny
+Beschle (Felchlin),"Indigena Amazonia, Grand Cru, Quizas",636,2011,72.0,Switzerland,3.5,,,True,Premium
+Beschle (Felchlin),Ecuador,636,2011,72.0,Switzerland,4.0,,,True,Premium
+Beschle (Felchlin),"Carenero S., Barlovento, Grand Cru",508,2010,70.0,Switzerland,3.25,Trinitario,,True,Premium
+Beschle (Felchlin),"Porcelana, Premier Cru, Quizas No. 1",508,2010,74.0,Switzerland,3.25,Criollo (Porcelana),,True,Premium
+Beschle (Felchlin),"Java, Grand Cru",508,2010,64.0,Switzerland,3.5,,,False,Premium
+Beschle (Felchlin),"Ocumare, Premier Cru, Quizas No. 2",508,2010,72.0,Switzerland,3.5,,,True,Premium
+Bisou,"Nicaragua, American style",1482,2015,76.0,U.S.A.,2.5,,,True,Poprawny
+Bisou,"San Andres, American style",1486,2015,76.0,U.S.A.,2.5,,,True,Poprawny
+Bisou,"San Andres, silk",1486,2015,78.0,U.S.A.,2.5,,,True,Poprawny
+Bisou,Belize,1486,2015,86.0,U.S.A.,3.25,Trinitario,,True,Premium
+Bittersweet Origins,Ghana,963,2012,72.0,U.S.A.,3.5,Forastero,,True,Premium
+Bittersweet Origins,"Bali, Singaraja",478,2010,75.0,U.S.A.,3.25,,,True,Premium
+Bittersweet Origins,2009 Hapa Nibby,502,2010,70.0,U.S.A.,3.75,Blend,,True,Premium
+Bittersweet Origins,"Bali, Singaraja",558,2010,65.0,U.S.A.,2.75,,,False,Poprawny
+Bittersweet Origins,"Sambirano, 2009",565,2010,70.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Bittersweet Origins,"Ocumare, prototype",565,2010,78.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Bittersweet Origins,Puerto Plata,414,2009,75.0,U.S.A.,3.0,,,True,Poprawny
+Bittersweet Origins,Puerto Plata,414,2009,65.0,U.S.A.,3.5,,,False,Premium
+Bittersweet Origins,Sambirano,423,2009,75.0,U.S.A.,3.25,Trinitario,madagascar,True,Premium
+Bittersweet Origins,Sambirano,431,2009,65.0,U.S.A.,3.5,Trinitario,madagascar,False,Premium
+Bittersweet Origins,Sambirano,233,2008,71.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Bittersweet Origins,Bocas del Toro,233,2008,75.0,U.S.A.,3.5,,,True,Premium
+Bittersweet Origins,Puerto Plata,233,2008,68.0,U.S.A.,3.75,,,False,Premium
+Bittersweet Origins,Ankasa,256,2008,70.0,U.S.A.,3.0,Forastero,,True,Poprawny
+Black Mountain,La Red,256,2008,70.0,U.S.A.,2.75,,,True,Poprawny
+Black Mountain,Carenero Superior,256,2008,70.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Black Mountain,Matiguas,256,2008,70.0,U.S.A.,3.0,,,True,Poprawny
+Black River (A. Morin),Blue Mountain Region,1331,2014,70.0,U.K.,2.75,Trinitario,,True,Poprawny
+Blanxart,"Congo, Grand Cru",1046,2013,82.0,Spain,3.5,Forastero,,True,Premium
+Blanxart,Organic Dark,322,2009,72.0,Spain,2.75,,,True,Poprawny
+Blue Bandana,"Akesson's E., Sambirano V.",1740,2016,82.0,U.S.A.,3.5,Trinitario,madagascar,True,Premium
+Blue Bandana,Lachua,1752,2016,75.0,U.S.A.,2.75,,,True,Poprawny
+Blue Bandana,Kokoa Kamili,1752,2016,75.0,U.S.A.,3.5,,,True,Premium
+Blue Bandana,Zorzal Reserva,1756,2016,75.0,U.S.A.,3.0,,,True,Poprawny
+Blue Bandana,Guatemala,911,2012,70.0,U.S.A.,3.5,,,True,Premium
+Blue Bandana,Madagascar,911,2012,70.0,U.S.A.,3.75,Trinitario,madagascar,True,Premium
+Bonnat,Selva Maya,1912,2016,75.0,France,3.5,,,True,Premium
+Bonnat,Kaori,1339,2014,75.0,France,4.0,,,True,Premium
+Bonnat,"Los Colorados, Santo Domingo, Equateur",1418,2014,75.0,France,3.25,,,True,Premium
+Bonnat,Surfin,1418,2014,65.0,France,3.75,,,False,Premium
+Bonnat,Maragnam,1038,2013,75.0,France,3.5,,,True,Premium
+Bonnat,Gabon,1042,2013,75.0,France,3.25,,,True,Premium
+Bonnat,Cuba,629,2011,75.0,France,3.5,Trinitario,,True,Premium
+Bonnat,"Cusco, Cacao Cusco",629,2011,75.0,France,3.5,,,True,Premium
+Bonnat,Piura Blanco,629,2011,75.0,France,3.5,Forastero (Nacional),,True,Premium
+Bonnat,Libanio,629,2011,75.0,France,3.75,,,True,Premium
+Bonnat,Haiti,629,2011,75.0,France,4.0,,,True,Premium
+Bonnat,"Madagascar, 100% criollo",629,2011,75.0,France,4.0,Criollo,madagascar,True,Premium
+Bonnat,Juliana,672,2011,75.0,France,3.5,,,True,Premium
+Bonnat,Jamaique,761,2011,75.0,France,3.25,Trinitario,,True,Premium
+Bonnat,Ivory Coast,331,2009,75.0,France,3.0,,,True,Poprawny
+Bonnat,"Porcelana, Apotequil",336,2009,75.0,France,2.75,Criollo,,True,Poprawny
+Bonnat,"Porcelana, Tabasco, Marfil de Blanco",336,2009,75.0,France,3.0,Criollo,,True,Poprawny
+Bonnat,"Xoconusco, cacao Real",395,2009,75.0,France,3.0,Criollo,,True,Poprawny
+Bonnat,"Porcelana, Venezuela",199,2008,75.0,France,4.0,Criollo (Porcelana),,True,Premium
+Bonnat,Equateur,123,2007,75.0,France,2.5,Forastero (Arriba),,True,Poprawny
+Bonnat,Trinite,24,2006,75.0,France,3.75,Trinitario,,True,Premium
+Bonnat,"Ocumare, Puerto Cabello",32,2006,75.0,France,4.0,,,True,Premium
+Bonnat,"Maracaibo, El Rosario",48,2006,75.0,France,4.0,Criollo,,True,Premium
+Bonnat,Madagascar,75,2006,75.0,France,4.0,Trinitario,madagascar,True,Premium
+Bonnat,One Hundred,81,2006,100.0,France,1.5,,,True,Rozczarowujący
+Bonnat,Ceylan,81,2006,75.0,France,3.0,,,True,Poprawny
+Bonnat,Chuao,81,2006,75.0,France,4.0,Trinitario,,True,Premium
+Bouga Cacao (Tulicorp),"El Oro, Hacienda de Oro",316,2009,77.0,Ecuador,3.25,Forastero (Arriba),,True,Premium
+Bouga Cacao (Tulicorp),"El Oro, Hacienda de Oro",341,2009,100.0,Ecuador,1.5,Forastero (Arriba),,True,Rozczarowujący
+Bowler Man,Maya Mountain,1267,2014,70.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Bowler Man,Conacado,1271,2014,70.0,U.S.A.,2.75,,,True,Poprawny
+Brasstown aka It's Chocolate,"Guasare, Zulia Prov.",1868,2016,70.0,U.S.A.,3.5,Criollo,,True,Premium
+Brasstown aka It's Chocolate,"O'payo, Waslala",1868,2016,70.0,U.S.A.,3.75,,,True,Premium
+Brasstown aka It's Chocolate,Conacado,1462,2015,68.0,U.S.A.,3.75,,,False,Premium
+Brasstown aka It's Chocolate,Maya Mountain,1255,2014,70.0,U.S.A.,3.75,Trinitario,,True,Premium
+Brasstown aka It's Chocolate,Chuao,1355,2014,70.0,U.S.A.,4.0,Trinitario,,True,Premium
+Brasstown aka It's Chocolate,Cooproagro,1125,2013,72.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Brasstown aka It's Chocolate,"Camino Verde, Guayas",1125,2013,70.0,U.S.A.,3.25,,,True,Premium
+Brasstown aka It's Chocolate,Ghana,1129,2013,75.0,U.S.A.,3.5,Forastero,,True,Premium
+Brasstown aka It's Chocolate,"Chuao, Mantuano blend",1129,2013,85.0,U.S.A.,3.5,Trinitario,,True,Premium
+Brazen,Elvesia P.,1514,2015,60.0,U.S.A.,3.0,,,False,Poprawny
+Brazen,Elvesia P.,1514,2015,80.0,U.S.A.,3.25,,,True,Premium
+Brazen,"Alta Verapaz, 2014",1514,2015,70.0,U.S.A.,3.5,,,True,Premium
+Brazen,Ambolikapiky P.,1518,2015,80.0,U.S.A.,2.75,,madagascar,True,Poprawny
+Brazen,Maya Mountain,1518,2015,80.0,U.S.A.,3.25,Trinitario,,True,Premium
+Brazen,Ambolikapkly P.,1518,2015,60.0,U.S.A.,3.25,,madagascar,False,Premium
+Breeze Mill,Jamaica,1149,2013,70.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Bright,Somia Plantation,1231,2014,72.0,Australia,3.0,Trinitario,madagascar,True,Poprawny
+Bright,Marabel Farms,1231,2014,70.0,Australia,3.5,,,True,Premium
+Bright,"Camino Verde, Balao, Guayas",1231,2014,72.0,Australia,3.5,,,True,Premium
+Bright,Gran Couva,1235,2014,68.0,Australia,2.75,Trinitario,,False,Poprawny
+Britarev,Ecuador,1638,2015,70.0,Russia,3.25,,,True,Premium
+Bronx Grrl Chocolate,Dominican Republic,1181,2013,68.0,U.S.A.,2.75,,,False,Poprawny
+Burnt Fork Bend,Trinidad,1299,2014,72.0,U.S.A.,3.25,Trinitario,,True,Premium
+Burnt Fork Bend,Mindo,1299,2014,72.0,U.S.A.,3.5,,,True,Premium
+Burnt Fork Bend,Belize,1303,2014,72.0,U.S.A.,3.25,Trinitario,,True,Premium
+Burnt Fork Bend,Blend,1303,2014,72.0,U.S.A.,3.25,Blend,,True,Premium
+Burnt Fork Bend,"Ecuador, Bob Bar",1323,2014,60.0,U.S.A.,2.5,,,False,Poprawny
+Cacao Arabuco,Puerto Rico,1606,2015,70.0,Puerto Rico,2.5,,,True,Poprawny
+Cacao Atlanta,Tumbes,1215,2014,75.0,U.S.A.,2.5,Criollo,,True,Poprawny
+Cacao Atlanta,"Dominican Republic, ""Love Bar""",502,2010,75.0,U.S.A.,2.5,,,True,Poprawny
+Cacao Atlanta,Dominican Republic w/ nibs,502,2010,75.0,U.S.A.,2.75,,,True,Poprawny
+Cacao Atlanta,Patanemo,600,2010,75.0,U.S.A.,2.25,,,True,Poprawny
+Cacao Barry,Grand 'Anse,1716,2016,65.0,France,3.5,"Trinitario, Criollo",,False,Premium
+Cacao Barry,Santo Domingo,586,2010,70.0,France,3.0,,,True,Poprawny
+Cacao Barry,Tanzania,300,2008,75.0,France,2.0,,,True,Rozczarowujący
+Cacao Barry,Venezuela,141,2007,72.0,France,2.0,,,True,Rozczarowujący
+Cacao Barry,Mexico,147,2007,66.0,France,3.0,,,False,Poprawny
+Cacao de Origen,Chuao,1688,2015,77.0,Venezuela,3.5,Trinitario,,True,Premium
+Cacao de Origen,Rio Caribe,1692,2015,75.0,Venezuela,3.25,Trinitario,,True,Premium
+Cacao de Origen,Agua Fria; Sucre region,1391,2014,75.0,Venezuela,2.5,,,True,Poprawny
+Cacao de Origen,Macuare; Miranda; Chloe formula,1391,2014,74.0,Venezuela,3.25,,,True,Premium
+Cacao de Origen,"Chuao, Aragua region",1391,2014,75.0,Venezuela,3.5,Trinitario,,True,Premium
+Cacao de Origen,"Chuao, Aragua region",1395,2014,70.0,Venezuela,3.75,Trinitario,,True,Premium
+Cacao de Origen,Hacienda la Trinidad,1668,2015,74.0,Venezuela,3.25,,,True,Premium
+Cacao Hunters,Macondo,1816,2016,71.0,Colombia,3.75,,,True,Premium
+Cacao Hunters,Perla Negra,1816,2016,74.0,Colombia,3.75,,,True,Premium
+Cacao Hunters,Arhuacos,1662,2015,72.0,Colombia,3.75,,,True,Premium
+Cacao Hunters,Sierra Nevada,1430,2014,64.0,Colombia,3.5,,,False,Premium
+Cacao Hunters,Tumaco,1430,2014,70.0,Colombia,3.5,,,True,Premium
+Cacao Hunters,"Boyaca, Aprocampa Coop, Pauna",1434,2014,69.0,Colombia,2.75,,,False,Poprawny
+Cacao Hunters,Arauca,1434,2014,70.0,Colombia,3.25,,,True,Premium
+Cacao Market,"Jutiapa, lot 050916D",1860,2016,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Cacao Prieto,"Criollo, Dominican Republic",991,2012,72.0,U.S.A.,3.75,Criollo,,True,Premium
+Cacao Prieto,"Dominican Republicm, rustic",641,2011,72.0,U.S.A.,3.0,,,True,Poprawny
+Cacao Prieto,Dominican Republic,641,2011,66.0,U.S.A.,3.75,,,False,Premium
+Cacao Prieto,"Dominican Republic, rustic",647,2011,65.0,U.S.A.,3.25,,,False,Premium
+Cacao Sampaka,"Mahali, Kasai",1908,2016,70.0,Spain,3.5,Criollo,,True,Premium
+Cacao Sampaka,Madagascar,508,2010,71.0,Spain,3.5,Trinitario,madagascar,True,Premium
+Cacao Sampaka,Ecuador,523,2010,71.0,Spain,3.75,,,True,Premium
+Cacao Sampaka,Papua,523,2010,71.0,Spain,4.0,,,True,Premium
+Cacao Sampaka,Grenada,537,2010,71.0,Spain,3.25,Trinitario,,True,Premium
+Cacao Sampaka,Venezuela,537,2010,71.0,Spain,3.5,,,True,Premium
+Cacao Sampaka,Venezuela,537,2010,77.0,Spain,3.5,,,True,Premium
+Cacao Sampaka,"Porcelana, Tabasco, La Joya",336,2009,70.0,Spain,4.0,Criollo,,True,Premium
+Cacao Sampaka,"Xoconusco, Chiapas",346,2009,70.0,Spain,4.0,Criollo,,True,Premium
+Cacao Store,Madagascar,1684,2015,70.0,Japan,3.0,Trinitario,madagascar,True,Poprawny
+Cacao Store,Peru,1684,2015,70.0,Japan,3.25,,,True,Premium
+Cacao Store,Vietnam,1684,2015,70.0,Japan,3.5,Trinitario,,True,Premium
+Cacaosuyo (Theobroma Inversiones),Piura,1173,2013,70.0,Peru,3.25,,,True,Premium
+Cacaoyere (Ecuatoriana),Amazonia,237,2008,63.0,Ecuador,3.5,Forastero (Arriba),,False,Premium
+Cacaoyere (Ecuatoriana),Esmeraldas,237,2008,71.0,Ecuador,3.5,Forastero (Arriba),,True,Premium
+Cacaoyere (Ecuatoriana),Bolivar,245,2008,82.0,Ecuador,2.5,Forastero (Arriba),,True,Poprawny
+Cacaoyere (Ecuatoriana),Pichincha,259,2008,91.0,Ecuador,1.5,Forastero (Arriba),,True,Rozczarowujący
+Callebaut,Grenada,296,2008,60.0,Belgium,2.75,Trinitario,,False,Poprawny
+Callebaut,Baking,141,2007,70.0,Belgium,1.0,,,True,Nieprzyjemny
+C-Amaro,Cuba,1442,2014,75.0,Italy,2.5,,,True,Poprawny
+C-Amaro,Dominican Republic,1442,2014,72.0,Italy,3.0,,,True,Poprawny
+C-Amaro,"Lago di Como, Blu",1442,2014,70.0,Italy,3.5,Blend,,True,Premium
+C-Amaro,Ecuador,1185,2013,100.0,Italy,3.5,,,True,Premium
+C-Amaro,Venezuela,809,2012,80.0,Italy,3.0,,,True,Poprawny
+C-Amaro,Sao Tome,749,2011,78.0,Italy,2.25,Forastero,,True,Poprawny
+C-Amaro,Trinidad,765,2011,70.0,Italy,2.5,Trinitario,,True,Poprawny
+Cao,Porcelana,1804,2016,75.0,U.S.A.,2.5,Criollo,,True,Poprawny
+Cao,Tanzania,1804,2016,73.0,U.S.A.,2.75,,,True,Poprawny
+Cao,"Porcelana, Batch 5163",1804,2016,70.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Cao,Bolivia,1808,2016,75.0,U.S.A.,3.0,,,True,Poprawny
+Cao,Brazil,1808,2016,70.0,U.S.A.,3.25,Trinitario,,True,Premium
+Caoni (Tulicorp),Esmeraldas,237,2008,77.0,Ecuador,2.0,Forastero (Arriba),,True,Rozczarowujący
+Caoni (Tulicorp),Manabi,237,2008,77.0,Ecuador,2.5,Forastero (Arriba),,True,Poprawny
+Caoni (Tulicorp),Los Rios,245,2008,77.0,Ecuador,2.75,Forastero (Arriba),,True,Poprawny
+Caoni (Tulicorp),Manabi,266,2008,55.0,Ecuador,3.0,Forastero (Arriba),,False,Poprawny
+Caoni (Tulicorp),Los Rios,269,2008,55.0,Ecuador,3.25,Forastero (Arriba),,False,Premium
+Caoni (Tulicorp),Esmeraldas,269,2008,55.0,Ecuador,3.5,Forastero (Arriba),,False,Premium
+Captain Pembleton,"Saidor Estate, Madang P.",1263,2014,70.0,New Zealand,3.5,Trinitario,,True,Premium
+Captain Pembleton,Kulili Estate,1263,2014,70.0,New Zealand,3.75,,,True,Premium
+Caribeans,"Antigua, Special Reserve",1582,2015,72.0,Costa Rica,3.5,,,True,Premium
+Caribeans,"Talamanca, Raul-Kekoldo community",1586,2015,72.0,Costa Rica,3.25,,,True,Premium
+Caribeans,Anselmo Paraiso Estate,1586,2015,72.0,Costa Rica,3.5,,,True,Premium
+Caribeans,Costa Rica,841,2012,72.0,Costa Rica,3.0,Forastero,,True,Poprawny
+Caribeans,Costa Rica,845,2012,80.0,Costa Rica,2.75,Forastero,,True,Poprawny
+Carlotta Chocolat,Arauca,1884,2016,65.0,Colombia,3.0,Trinitario,,False,Poprawny
+Carlotta Chocolat,Tumaco,1888,2016,65.0,Colombia,3.25,Trinitario,,False,Premium
+Carlotta Chocolat,Cordoba,1888,2016,65.0,Colombia,3.25,Trinitario,,False,Premium
+Carlotta Chocolat,Huila,1888,2016,65.0,Colombia,3.5,Trinitario,,False,Premium
+Carlotta Chocolat,Cesar,1888,2016,65.0,Colombia,3.5,CCN51,,False,Premium
+Castronovo,"Maya Mtn, Batch 454, Heirloom",1724,2016,72.0,U.S.A.,4.0,Trinitario,,True,Premium
+Castronovo,"the lost city, gracias a dias, batch 362",1570,2015,72.0,U.S.A.,3.5,Trinitario,,True,Premium
+Castronovo,"Duarte, Batch 360",1570,2015,70.0,U.S.A.,3.75,"Criollo, Trinitario",,True,Premium
+Castronovo,"Piaroa, Amazonas, Batch 350",1574,2015,72.0,U.S.A.,3.5,,,True,Premium
+Castronovo,Sierra Nevada,1347,2014,72.0,U.S.A.,3.5,"Criollo, Trinitario",,True,Premium
+Castronovo,Arauca,1371,2014,76.0,U.S.A.,3.5,"Criollo, Trinitario",,True,Premium
+Castronovo,Elvesia P.,1407,2014,70.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Castronovo,Bolivia,1101,2013,70.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Castronovo,Conacado,1101,2013,73.0,U.S.A.,3.5,Trinitario,,True,Premium
+Castronovo,San Martin,1105,2013,70.0,U.S.A.,2.5,Criollo,,True,Poprawny
+Castronovo,"Guaniamo, Amazonas",1105,2013,70.0,U.S.A.,3.25,,,True,Premium
+Castronovo,Nicaragua,1109,2013,72.0,U.S.A.,3.25,Trinitario,,True,Premium
+Castronovo,Tumbes,1153,2013,70.0,U.S.A.,2.75,Criollo,,True,Poprawny
+Castronovo,Guaniamo,1153,2013,72.0,U.S.A.,3.0,,,True,Poprawny
+Cello,Ecuador,1247,2014,70.0,U.S.A.,2.5,,,True,Poprawny
+Cello,Peru,1247,2014,70.0,U.S.A.,2.75,,,True,Poprawny
+Cello,Venezuela,1251,2014,70.0,U.S.A.,2.75,,,True,Poprawny
+Cello,Bolivia,1251,2014,70.0,U.S.A.,3.0,,,True,Poprawny
+Cemoi,Equateur,404,2009,72.0,France,2.75,,,True,Poprawny
+Chaleur B,Uganda,1426,2014,70.0,Canada,2.75,Forastero,,True,Poprawny
+Charm School,Maya Mtn,1900,2016,70.0,U.S.A.,3.25,,,True,Premium
+Chchukululu (Tulicorp),Arriba,486,2010,55.0,Ecuador,2.75,Forastero (Arriba),,False,Poprawny
+Chchukululu (Tulicorp),Los Rios,252,2008,75.0,Ecuador,3.0,Forastero (Arriba),,True,Poprawny
+Chequessett,la Amistad,1235,2014,70.0,U.S.A.,3.5,,,True,Premium
+Chloe Chocolat,Blend No. 1,672,2011,70.0,France,3.5,,,True,Premium
+Chocablog,Ecuador,1454,2015,70.0,U.K.,3.25,,,True,Premium
+Choco Del Sol,Maya Mountain w/ nibs,1407,2014,75.0,Germany,3.0,Trinitario,,True,Poprawny
+Choco Del Sol,Maya Mountain,1407,2014,82.0,Germany,3.25,Trinitario,,True,Premium
+Choco Dong,"Mekong Delta, early 2014 Harvest",1696,2015,70.0,South Korea,2.75,Trinitario,,True,Poprawny
+Choco Dong,"Tawau, Oct. 2015 Harvest",1696,2015,70.0,South Korea,3.5,Trinitario,,True,Premium
+Chocolarder,Peru,1482,2015,65.0,U.K.,2.5,Criollo,,False,Poprawny
+Chocolarder,Peru + nibs,1482,2015,65.0,U.K.,2.75,Criollo,,False,Poprawny
+Chocolarder,Dominican Republic,1514,2015,80.0,U.K.,2.5,,,True,Poprawny
+Chocola'te,Madagascar,647,2011,70.0,U.S.A.,3.75,Trinitario,madagascar,True,Premium
+Chocola'te,Venezuela,647,2011,68.0,U.S.A.,3.75,,,False,Premium
+Chocolate Alchemist-Philly,"Tumbes, ""Zarumilla""",1772,2016,90.0,U.S.A.,2.5,,,True,Poprawny
+Chocolate Alchemist-Philly,"Philly Blend, 5 plantations",1772,2016,80.0,U.S.A.,2.5,,,True,Poprawny
+Chocolate Con Amor,Wild Bolivian,1760,2016,70.0,U.S.A.,2.5,,,True,Poprawny
+Chocolate Con Amor,Uganda,1760,2016,70.0,U.S.A.,2.75,,,True,Poprawny
+Chocolate Con Amor,Dominican Republic,1764,2016,60.0,U.S.A.,3.0,,,False,Poprawny
+Chocolate Con Amor,Dominican Republic,1764,2016,75.0,U.S.A.,3.0,,,True,Poprawny
+Chocolate Con Amor,Ocumare,1764,2016,80.0,U.S.A.,3.0,Criollo (Ocumare),,True,Poprawny
+Chocolate Con Amor,Ecuador,1764,2016,70.0,U.S.A.,3.25,,,True,Premium
+Chocolate Con Amor,Nicaragua,1768,2016,80.0,U.S.A.,2.75,,,True,Poprawny
+Chocolate Conspiracy,Peru,1259,2014,74.0,U.S.A.,2.75,,,True,Poprawny
+Chocolate Makers,Tres Hombres,1530,2015,75.0,Amsterdam,3.25,Trinitario,,True,Premium
+Chocolate Makers,"Congo, Gorilla bar",1530,2015,68.0,Amsterdam,3.5,Forastero,,False,Premium
+Chocolate Makers,"Peru, Awagum bar",1530,2015,80.0,Amsterdam,3.75,Criollo,,True,Premium
+"Chocolate Tree, The",Maranon,1582,2015,69.0,Scotland,3.75,Forastero (Nacional),,False,Premium
+"Chocolate Tree, The",Carenero Superior,1582,2015,80.0,Scotland,3.75,Trinitario,,True,Premium
+"Chocolate Tree, The",Peru,1121,2013,70.0,Scotland,3.75,Forastero (Nacional),,True,Premium
+"Chocolate Tree, The",Ecuador,919,2012,82.0,Scotland,2.5,Forastero (Arriba),,True,Poprawny
+"Chocolate Tree, The",Peru,919,2012,68.0,Scotland,2.75,Criollo,,False,Poprawny
+"Chocolate Tree, The",Madagascar,919,2012,72.0,Scotland,3.25,Criollo,madagascar,True,Premium
+Chocolats Privilege,Xoconusco,1219,2014,70.0,Canada,2.5,Criollo,,True,Poprawny
+ChocoReko,Patanemo,1454,2015,77.0,Japan,3.0,Criollo,,True,Poprawny
+Chocosol,"Chiapas, Lacandon Jungle, Oaxacom Mtn",682,2011,65.0,Canada,3.25,,,False,Premium
+Chocovic,Xoconusco,478,2010,71.0,Spain,3.25,Criollo,,True,Premium
+Chocovic,Sambirano,478,2010,71.0,Spain,3.5,Trinitario,madagascar,True,Premium
+Chocovic,Kendari,439,2009,60.0,Spain,3.25,,,False,Premium
+Chocovic,Tarakan,439,2009,75.0,Spain,3.25,,,True,Premium
+Chocovic,Ocumare,209,2008,71.0,Spain,3.5,Criollo,,True,Premium
+Chocovic,"Bolivar, Guaranda",117,2007,71.0,Spain,2.5,Forastero (Arriba),,True,Poprawny
+Chocovic,Guyave,117,2007,71.0,Spain,2.5,Trinitario,,True,Poprawny
+Chocovic,Maragda,117,2007,70.0,Spain,3.0,Blend,,True,Poprawny
+Chocovivo,Tabasco,1522,2015,65.0,U.S.A.,2.5,Trinitario,,False,Poprawny
+Chocovivo,Tabasco,1522,2015,75.0,U.S.A.,2.5,Trinitario,,True,Poprawny
+Choklat,Ocumare,377,2009,80.0,Canada,2.5,Criollo,,True,Poprawny
+Choklat,"Porcelana, Tabasco",377,2009,70.0,Canada,2.75,Criollo,,True,Poprawny
+Choklat,Brazilian,377,2009,70.0,Canada,3.0,,,True,Poprawny
+Choklat,Brazilian,377,2009,80.0,Canada,3.0,,,True,Poprawny
+Choklat,Ocumare,377,2009,70.0,Canada,3.0,Criollo,,True,Poprawny
+Chokolat Elot (Girard),Guadeloupe,1149,2013,42.0,Martinique,2.75,,,False,Poprawny
+Choocsol,"Chiapas, Lacandon Jungle, Oaxacom Mtn",1832,2016,75.0,Canada,3.25,,,True,Premium
+Christopher Morel (Felchlin),"Maranon Canyon, Fortunato No. 4",666,2011,68.0,Canada,3.75,Forastero (Nacional),,False,Premium
+Chuao Chocolatier,Choroni,445,2009,61.0,U.S.A.,3.0,Criollo,,False,Poprawny
+Chuao Chocolatier (Pralus),Chuao,486,2010,77.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Claudio Corallo,Terreiro Velho P.,470,2010,73.5,Sao Tome,3.75,Forastero,,True,Premium
+Claudio Corallo,Terreiro Velho P. w/ sugar crystals,209,2008,80.0,Sao Tome,3.0,Forastero,,True,Poprawny
+Claudio Corallo,Terreiro Velho P.,227,2008,75.0,Sao Tome,4.0,Forastero,,True,Premium
+Claudio Corallo,Principe,252,2008,100.0,Sao Tome,1.0,Forastero,,True,Nieprzyjemny
+Cloudforest,"Camino Verde P., Balao, Guayas, 2014",1486,2015,73.0,U.S.A.,3.5,,,True,Premium
+Coleman & Davis,Sambirano,1646,2015,75.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Compania de Chocolate (Salgado),Sur del Lago,579,2010,70.0,Argentina,3.25,,,True,Premium
+Compania de Chocolate (Salgado),Carenero Superior,292,2008,80.0,Argentina,2.75,Trinitario,,True,Poprawny
+Compania de Chocolate (Salgado),Moxos,292,2008,72.0,Argentina,3.25,,,True,Premium
+Compania de Chocolate (Salgado),Ocumare,292,2008,70.0,Argentina,3.75,Criollo,,True,Premium
+Compania de Chocolate (Salgado),Esmeraldas,296,2008,88.0,Argentina,2.75,Forastero (Nacional),,True,Poprawny
+Condor,Camino Verde,1630,2015,76.0,U.S.A.,3.5,,,True,Premium
+Confluence,"Tien Giang, 2015, batch 10-2-16",1916,2016,78.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Coppeneur,"Ecuador, Puristique",1169,2013,65.0,Germany,3.25,Forastero (Nacional),,False,Premium
+Coppeneur,Ghana Puristique,813,2012,85.0,Germany,3.5,Forastero,,True,Premium
+Coppeneur,Ecuador Puristique,817,2012,100.0,Germany,1.5,,,True,Rozczarowujący
+Coppeneur,Uba Budo,821,2012,72.0,Germany,3.75,Forastero,,True,Premium
+Coppeneur,Madagascar,959,2012,70.0,Germany,3.5,Trinitario,madagascar,True,Premium
+Coppeneur,Grenada,470,2010,72.0,Germany,3.25,Trinitario,,True,Premium
+Coppeneur,Chuao,478,2010,70.0,Germany,3.0,Trinitario,,True,Poprawny
+Coppeneur,"Los Rios, H. Iara",558,2010,72.0,Germany,2.5,Nacional,,True,Poprawny
+Coppeneur,Trinidad,558,2010,72.0,Germany,3.0,Trinitario,,True,Poprawny
+Coppeneur,Jamaica,558,2010,72.0,Germany,3.25,Trinitario,,True,Premium
+Coppeneur,Ocumare 61,558,2010,72.0,Germany,3.25,Criollo (Ocumare 61),,True,Premium
+Coppeneur,"Porcelana, Apotequil",341,2009,72.0,Germany,3.0,Criollo,,True,Poprawny
+Coppeneur,"Porcelana, Apotequil",445,2009,62.0,Germany,3.25,Criollo,,False,Premium
+Coppeneur,Chuao 100hr,451,2009,70.0,Germany,3.5,"Criollo, Trinitario",,True,Premium
+Coppeneur,Chuao 70hr,451,2009,70.0,Germany,3.75,"Criollo, Trinitario",,True,Premium
+Coppeneur,"Porcelana, Tabasco, Mexico",220,2008,72.0,Germany,3.0,Criollo,,True,Poprawny
+Coppeneur,"Porcelana, Venezuela",220,2008,72.0,Germany,3.0,Criollo (Porcelana),,True,Poprawny
+Coppeneur,"Sambirano, Menava P.",196,2007,72.0,Germany,3.0,Trinitario,madagascar,True,Poprawny
+Cote d' Or (Kraft),Sensations Intense,48,2006,70.0,Belgium,1.0,,,True,Nieprzyjemny
+Cravve,New Ireland,1283,2014,70.0,Australia,2.5,Forastero,,True,Poprawny
+Cravve,"Vanuatu, batch 2410",1335,2014,83.0,Australia,2.75,Trinitario,,True,Poprawny
+Cravve,"Tanzania, batch a1",971,2012,75.0,Australia,3.25,Forastero,,True,Premium
+Cravve,"Bahia, batch a1213",975,2012,65.0,Australia,3.25,Trinitario,,False,Premium
+Cravve,"Namau Village, N. Taileva P., batch a2812",975,2012,67.0,Australia,3.25,Trinitario,,False,Premium
+Cravve,Vanuatu,975,2012,64.0,Australia,3.25,Trinitario,,False,Premium
+Cravve,Djual Island,975,2012,75.0,Australia,3.5,Forastero,,True,Premium
+Creo,"""heirloom"", Arriba Nacional",1736,2016,85.0,U.S.A.,3.25,Forastero (Nacional),,True,Premium
+Creo,"""heirloom"", Arriba Nacional",1736,2016,73.0,U.S.A.,3.75,Forastero (Nacional),,True,Premium
+Daintree,Goodman Estate,1654,2015,70.0,Australia,2.75,,,True,Poprawny
+Daintree,"Daintree Estates, N. Queensland",785,2011,70.0,Australia,3.25,,,True,Premium
+Dalloway,"Dominican Republic, batch 7",1928,2017,72.0,U.S.A.,2.75,,,True,Poprawny
+Damson,Robson Estate,1610,2015,70.0,U.K.,3.0,Trinitario,,True,Poprawny
+Damson,Los Rios,1610,2015,70.0,U.K.,3.5,,,True,Premium
+Damson,Crayfish Bay aka Non Pariel Estate,1666,2015,70.0,U.K.,2.25,,,True,Poprawny
+Damson,O'Payo,1666,2015,70.0,U.K.,2.75,,,True,Poprawny
+Dandelion,"Zorzal Reserva, 2015 H., Kerchner",1816,2016,70.0,U.S.A.,3.75,,,True,Premium
+Dandelion,"Maya Mtn., Break Bar- Snark",1446,2015,70.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Dandelion,Maya Mountain,1219,2014,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Dandelion,"Camino Verde P., Balao, Guayas, 2013",1295,2014,70.0,U.S.A.,3.5,,,True,Premium
+Dandelion,Buto,1303,2014,70.0,U.S.A.,2.75,,,True,Poprawny
+Dandelion,"San Francisco de Macoris, Cibao region",1387,2014,70.0,U.S.A.,3.75,,,True,Premium
+Dandelion,"Cumboto, farmer Jose Lugo",1026,2013,70.0,U.S.A.,2.75,,,True,Poprawny
+Dandelion,Patanemo,1026,2013,70.0,U.S.A.,3.25,,,True,Premium
+Dandelion,"Mantuano, 2012",1085,2013,70.0,U.S.A.,3.5,,,True,Premium
+Dandelion,Papua New Guinea,1153,2013,70.0,U.S.A.,3.5,,,True,Premium
+Dandelion,Upala,805,2012,70.0,U.S.A.,3.0,,,True,Poprawny
+Dandelion,Colombian,805,2012,70.0,U.S.A.,3.25,,,True,Premium
+Dandelion,"Elvesia, 2011",915,2012,70.0,U.S.A.,3.75,,,True,Premium
+Dandelion,Dominican Republic,654,2011,70.0,U.S.A.,3.25,,,True,Premium
+Dandelion,Madagascar,654,2011,70.0,U.S.A.,3.25,Trinitario,madagascar,True,Premium
+Dandelion,Tanzania,654,2011,70.0,U.S.A.,3.25,,,True,Premium
+Danta,Los Ujuxtes,1223,2014,82.0,Guatemala,3.25,,,True,Premium
+Danta,Chuao,987,2012,75.0,Guatemala,3.0,Trinitario,,True,Poprawny
+Danta,Los Ujuxtes,987,2012,70.0,Guatemala,3.75,,,True,Premium
+Danta,Sambirano,987,2012,70.0,Guatemala,3.75,Trinitario,madagascar,True,Premium
+Danta,Las Acacias E.,987,2012,70.0,Guatemala,4.0,Criollo,,True,Premium
+Danta,"Oscuro, Finca Chimelb",991,2012,70.0,Guatemala,3.25,,,True,Premium
+Danta,Los Ujuxtes,661,2011,60.0,Guatemala,3.5,,,False,Premium
+Danta,Las Acacias E.,423,2009,75.0,Guatemala,3.0,Criollo,,True,Poprawny
+Danta,Las Acacias E.,423,2009,60.0,Guatemala,3.25,Criollo,,False,Premium
+DAR,"Venezuela, batch 122",1920,2016,72.0,U.S.A.,2.75,,,True,Poprawny
+DAR,Vietnam,1920,2016,72.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+DAR,"DUO, batch 002",1920,2016,70.0,U.S.A.,3.25,,,True,Premium
+Dark Forest,Bolivia,1708,2016,75.0,U.S.A.,3.25,,,True,Premium
+Dark Forest,Madagascar,1550,2015,70.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Dark Forest,Ocumare,1550,2015,70.0,U.S.A.,3.25,,,True,Premium
+Dark Forest,Tanzania,1554,2015,70.0,U.S.A.,3.0,,,True,Poprawny
+Dark Forest,Ecuador,1554,2015,70.0,U.S.A.,3.25,,,True,Premium
+Davis,Ghana,1093,2013,70.0,U.S.A.,2.5,Forastero,,True,Poprawny
+Davis,Rainforest,1093,2013,70.0,U.S.A.,2.75,,,True,Poprawny
+Davis,Venezuela,1093,2013,70.0,U.S.A.,2.75,,,True,Poprawny
+Davis,West Africa,907,2012,58.0,U.S.A.,3.25,Forastero,,False,Premium
+De Mendes,"Nativo, Varzea",1462,2015,72.0,Brazil,3.5,,,True,Premium
+De Mendes,"Selvagem, Jari",1462,2015,65.0,Brazil,3.5,,,False,Premium
+De Villiers,Bundibugyo District,1832,2016,70.0,South Africa,2.5,Forastero,,True,Poprawny
+De Villiers,"Sambirano Valley, batch 2477",1832,2016,70.0,South Africa,3.0,,madagascar,True,Poprawny
+Dean and Deluca (Belcolade),Madagascar,170,2007,66.0,U.S.A.,2.5,Trinitario,madagascar,False,Poprawny
+Dean and Deluca (Belcolade),Costa Rica,175,2007,64.0,U.S.A.,3.0,,,False,Poprawny
+Dean and Deluca (Belcolade),Ecuador,175,2007,71.0,U.S.A.,3.0,,,True,Poprawny
+Dean and Deluca (Belcolade),Ghana,175,2007,60.0,U.S.A.,3.0,Forastero,,False,Poprawny
+Dean and Deluca (Belcolade),Papua New Guinea,180,2007,64.0,U.S.A.,3.0,,,False,Poprawny
+Dean and Deluca (Belcolade),Peru,180,2007,64.0,U.S.A.,3.0,,,False,Poprawny
+Debauve & Gallais (Michel Cluizel),Papua New Guinea,423,2009,64.0,France,3.0,,,False,Poprawny
+Debauve & Gallais (Michel Cluizel),Venezuela,263,2008,66.0,France,3.75,,,False,Premium
+Desbarres,"Kilombero, batch 41",1916,2016,72.0,Canada,2.5,,,True,Poprawny
+DeVries,Bolivian,241,2008,80.0,U.S.A.,2.75,,,True,Poprawny
+DeVries,Costa Rica,166,2007,77.0,U.S.A.,3.5,Trinitario,,True,Premium
+DeVries,Dominican Republic,166,2007,77.0,U.S.A.,3.5,,,True,Premium
+Dick Taylor,Lanquin Estate,1952,2017,70.0,U.S.A.,3.75,,,True,Premium
+Dick Taylor,Tien Giang,1864,2016,78.0,U.S.A.,3.5,Trinitario,,True,Premium
+Dick Taylor,"Alto Beni, Wild Harvest, Limited Ed.",1634,2015,70.0,U.S.A.,3.75,,,True,Premium
+Dick Taylor,Elvesia,1235,2014,74.0,U.S.A.,3.5,,,True,Premium
+Dick Taylor,"Ecuador, Choc. Garage Exclusive",1034,2013,70.0,U.S.A.,3.25,,,True,Premium
+Dick Taylor,Camino Verde,1193,2013,76.0,U.S.A.,3.5,,,True,Premium
+Dick Taylor,Bolivia,895,2012,75.0,U.S.A.,2.75,,,True,Poprawny
+Dick Taylor,Belize,955,2012,72.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Dick Taylor,Sambirano,661,2011,80.0,U.S.A.,2.75,Trinitario,madagascar,True,Poprawny
+Dick Taylor,Sambirano,661,2011,72.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Dick Taylor,Mantuano,682,2011,75.0,U.S.A.,2.75,Criollo,,True,Poprawny
+Dick Taylor,La Red,769,2011,74.0,U.S.A.,3.0,,,True,Poprawny
+Dick Taylor,Ecuador,769,2011,70.0,U.S.A.,3.25,,,True,Premium
+Doble & Bignall,Puerto Cabello,1688,2015,85.0,U.K.,3.0,,,True,Poprawny
+Doble & Bignall,"Panama, Raven",1371,2014,72.0,U.K.,3.25,,,True,Premium
+Doble & Bignall,"Puerto Cabello, Mantuano",1371,2014,72.0,U.K.,3.25,Trinitario,,True,Premium
+Doble & Bignall,Johe,1407,2014,72.0,U.K.,3.5,"Criollo, Trinitario",,True,Premium
+Dole (Guittard),"O'ahu, N. Shore, Waialua Estate",311,2009,70.0,U.S.A.,3.75,,,True,Premium
+Dolfin (Belcolade),Africa,304,2008,88.0,Belgium,3.0,Forastero,,True,Poprawny
+Dolfin (Belcolade),Noir,63,2006,70.0,Belgium,1.5,,,True,Rozczarowujący
+Domori,Hacienda Victoria,1672,2015,70.0,Italy,3.75,,,True,Premium
+Domori,Ocumare 77,1672,2015,70.0,Italy,3.75,Criollo (Ocumare 77),,True,Premium
+Domori,"IL100, H. San Jose",1109,2013,100.0,Italy,3.0,Criollo,,True,Poprawny
+Domori,Morogoro,863,2012,70.0,Italy,3.5,,,True,Premium
+Domori,Guasare,863,2012,70.0,Italy,3.75,Criollo,,True,Premium
+Domori,"Canoabo, Hacienda San Jose",693,2011,70.0,Italy,3.5,Criollo,,True,Premium
+Domori,"Chuao, Hacienda San Jose",470,2010,70.0,Italy,3.0,Trinitario,,True,Poprawny
+Domori,"Carupano, H. San Jose",227,2008,70.0,Italy,3.0,Trinitario,,True,Poprawny
+Domori,Teyuna,272,2008,70.0,Italy,3.0,,,True,Poprawny
+Domori,Blend No. 1,272,2008,78.0,Italy,3.5,Blend,,True,Premium
+Domori,Ilblend,272,2008,70.0,Italy,3.75,Blend,,True,Premium
+Domori,Porcelana,111,2007,70.0,Italy,4.0,Criollo (Porcelana),,True,Premium
+Domori,"Ocumare 61, Puertomar",129,2007,75.0,Italy,3.25,Criollo (Ocumare 61),,True,Premium
+Domori,Granella,135,2007,60.0,Italy,3.25,Trinitario,,False,Premium
+Domori,Madagascar,135,2007,70.0,Italy,3.5,Trinitario,madagascar,True,Premium
+Domori,Madagared,192,2007,70.0,Italy,3.5,Criollo,madagascar,True,Premium
+Domori,"Java, Javablond",192,2007,70.0,Italy,3.75,Criollo,,True,Premium
+Domori,Ecuador,192,2007,70.0,Italy,4.0,Forastero (Arriba),,True,Premium
+Domori,"Ocumare 67, Puertofino",192,2007,70.0,Italy,4.0,Criollo (Ocumare 67),,True,Premium
+Domori,Sur del Lago Classificado,87,2006,70.0,Italy,3.0,Trinitario,,True,Poprawny
+Domori,Apurimac,87,2006,70.0,Italy,3.25,Trinitario,,True,Premium
+Domori,Carenero Superior,87,2006,70.0,Italy,3.5,Trinitario,,True,Premium
+Dormouse,Non Pariel Estate,1880,2016,75.0,U.K.,2.75,Trinitario,,True,Poprawny
+Dormouse,"Rio Caribe, Batch 7",1672,2015,70.0,U.K.,2.5,Trinitario,,True,Poprawny
+Dormouse,"Colombia, Batch 9",1676,2015,80.0,U.K.,2.75,"Criollo, Trinitario",,True,Poprawny
+Dormouse,"Madagascar, Batch 8",1676,2015,77.0,U.K.,2.75,"Criollo, Trinitario",madagascar,True,Poprawny
+Duffy's,"Rio Dulce, Xoco",1662,2015,70.0,U.K.,4.0,Criollo,,True,Premium
+Duffy's,"Chuno, Xoco",1331,2014,70.0,U.K.,3.5,Criollo,,True,Premium
+Duffy's,"Rico Rugoso, Xoco",1331,2014,76.0,U.K.,3.75,Criollo,,True,Premium
+Duffy's,Ocumare,923,2012,72.0,U.K.,3.75,,,True,Premium
+Duffy's,"Indio Rojo, Xoco",623,2011,72.0,U.K.,3.75,Criollo,,True,Premium
+Duffy's,Dominican Republic,661,2011,65.0,U.K.,3.5,,,False,Premium
+Duffy's,"Bocas del Toro, Tierra Oscura",697,2011,72.0,U.K.,3.0,,,True,Poprawny
+Duffy's,"Nicaliso, Xoco",697,2011,71.0,U.K.,3.25,Criollo,,True,Premium
+Duffy's,Ocumare,765,2011,71.0,U.K.,3.5,,,True,Premium
+Duffy's,Panama,516,2010,70.0,U.K.,3.5,,,True,Premium
+Duffy's,"Corazon del Ecuador, Calceta beans",516,2010,72.0,U.K.,3.75,,,True,Premium
+Duffy's,Star of Ecuador,523,2010,70.0,U.K.,2.5,,,True,Poprawny
+Duffy's,Star of Peru,523,2010,70.0,U.K.,3.75,,,True,Premium
+Dulcinea,Dominican Republic,1506,2015,70.0,U.S.A.,3.25,,,True,Premium
+Durand,Madagascar,841,2012,82.0,France,2.75,Trinitario,madagascar,True,Poprawny
+Durci,"Maranon, Joya Rara",1626,2015,70.0,U.S.A.,3.5,Forastero (Nacional),,True,Premium
+Durci,"Rio Caribe, Tepui Treasure",1626,2015,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Durci,Taino Secret,1630,2015,70.0,U.S.A.,3.25,,,True,Premium
+Durci,"Carenero, Empyrean Sabor",1630,2015,70.0,U.S.A.,3.25,Trinitario,,True,Premium
+Durci,Corona Arriba,1630,2015,70.0,U.S.A.,4.0,,,True,Premium
+East Van Roasters,Peru,1343,2014,70.0,Canada,3.25,,,True,Premium
+East Van Roasters,Madagascar,1343,2014,70.0,Canada,3.5,Trinitario,madagascar,True,Premium
+East Van Roasters,Dominican Republic,1343,2014,70.0,Canada,3.75,,,True,Premium
+Eau de Rose,Tumaco,1812,2016,70.0,Canada,3.25,,,True,Premium
+Eau de Rose,Arauca,1812,2016,70.0,Canada,3.25,,,True,Premium
+Eclat (Felchlin),"Maranon, Good & Evil, w/ nibs",919,2012,72.0,U.S.A.,2.75,Forastero (Nacional),,True,Poprawny
+Edelmond,Porcelana,1876,2016,68.0,Germany,3.0,Criollo,,False,Poprawny
+El Ceibo,"Alto Beni, Covendo Region",709,2011,75.0,Bolivia,3.75,,,True,Premium
+El Ceibo,Alto Beni,252,2008,71.0,Bolivia,2.75,,,True,Poprawny
+El Rey,San Joaquin,1662,2015,70.0,Venezuela,3.75,,,True,Premium
+El Rey,"Rio Caribe, Cariaco",439,2009,60.5,Venezuela,2.75,Trinitario,,False,Poprawny
+El Rey,"Rio Caribe, Macuro",439,2009,70.0,Venezuela,3.0,Trinitario,,True,Poprawny
+El Rey,"Carenero Superior, Apamate",206,2008,74.0,Venezuela,2.5,Criollo,,True,Poprawny
+El Rey,"Carenero Superior, Bucare",206,2008,58.0,Venezuela,2.5,Criollo,,False,Poprawny
+El Rey,"Carenero Superior, Mijao",206,2008,61.0,Venezuela,3.0,Criollo,,False,Poprawny
+El Rey,"Carenero Superior, Gran Saman",32,2006,70.0,Venezuela,2.75,Criollo,,True,Poprawny
+Emerald Estate,Emerald Estate,1137,2013,60.0,St. Lucia,2.75,,,False,Poprawny
+Emerald Estate,Emerald Estate,1137,2013,70.0,St. Lucia,3.25,,,True,Premium
+Emily's,Patanemo,1450,2015,79.0,Japan,3.0,,,True,Poprawny
+Emily's,Peru,1454,2015,78.0,Japan,3.5,Criollo,,True,Premium
+ENNA,"Wampusirpi, batch 007",1916,2016,75.0,U.S.A.,3.25,,,True,Premium
+Enric Rovira (Claudio Corallo),Terreiro Velho P.,565,2010,80.0,Spain,3.25,Forastero,,True,Premium
+Erithaj (A. Morin),Ben Tre,1205,2014,70.0,France,3.25,Trinitario,,True,Premium
+Erithaj (A. Morin),Ham Luong,1209,2014,80.0,France,3.0,Trinitario,,True,Poprawny
+Erithaj (A. Morin),Ba Lai,1209,2014,74.0,France,3.25,Trinitario,,True,Premium
+Escazu,Rio Caribe,903,2012,70.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Escazu,Guapiles,414,2009,65.0,U.S.A.,2.0,,,False,Rozczarowujący
+Escazu,Carenero Superior,423,2009,81.0,U.S.A.,3.5,Criollo,,True,Premium
+Escazu,"Carenero, Guapiles, Ocumare blend",431,2009,74.0,U.S.A.,2.75,,,True,Poprawny
+Escazu,Ocumare,252,2008,72.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Ethel's Artisan (Mars),"Peru, Madagascar",666,2011,55.0,U.S.A.,2.5,,,False,Poprawny
+Ethel's Artisan (Mars),Trinidad,666,2011,55.0,U.S.A.,2.5,Trinitario,,False,Poprawny
+Ethel's Artisan (Mars),Porcelana,666,2011,70.0,U.S.A.,2.5,Criollo (Porcelana),,True,Poprawny
+Ethel's Artisan (Mars),Red Vanilla,666,2011,62.0,U.S.A.,2.75,,,False,Poprawny
+Ethel's Artisan (Mars),"Venezuela, Trinidad",672,2011,62.0,U.S.A.,2.5,,,False,Poprawny
+Ethereal,Belize,1275,2014,80.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Ethereal,Ecuador,1275,2014,80.0,U.S.A.,3.5,,,True,Premium
+Ethereal,Dominican Republic,1275,2014,80.0,U.S.A.,3.75,,,True,Premium
+Fearless (AMMA),"Monte Alegre, D. Badaro, Raw, Organic",565,2010,75.0,U.S.A.,2.75,,,True,Poprawny
+Feitoria Cacao,Blue Mountain,1732,2016,76.0,Portugal,3.0,,,True,Poprawny
+Feitoria Cacao,Cuyagua,1736,2016,76.0,Portugal,2.5,,,True,Poprawny
+Feitoria Cacao,Maya Mountain,1736,2016,76.0,Portugal,2.75,Trinitario,,True,Poprawny
+Felchlin,Grenada,494,2010,58.0,Switzerland,3.5,Trinitario,,False,Premium
+Felchlin,Supremo- SF,105,2006,62.0,Switzerland,2.0,,,False,Rozczarowujący
+Felchlin,Elvesia P.,105,2006,74.0,Switzerland,3.0,"Trinitario, Criollo",,True,Poprawny
+Felchlin,"Madagascar, Grand Cru",48,2006,64.0,Switzerland,3.0,Criollo,madagascar,False,Poprawny
+Felchlin,Maracaibo Clasificado,48,2006,65.0,Switzerland,3.0,Criollo,,False,Poprawny
+Felchlin,Arriba,48,2006,72.0,Switzerland,3.5,Forastero (Arriba),,True,Premium
+Felchlin,"Alto Beni, Cru Savage",56,2006,68.0,Switzerland,4.0,Criollo (Wild),,False,Premium
+Finca,Puerto Rico,1283,2014,65.0,U.S.A.,2.25,,,False,Poprawny
+Finca,Dominican Republic,1283,2014,80.0,U.S.A.,3.0,,,True,Poprawny
+Finca,Dominican Republic,1283,2014,70.0,U.S.A.,3.25,,,True,Premium
+Finca,Dominican Republic,1287,2014,85.0,U.S.A.,2.5,,,True,Poprawny
+Forever Cacao,Rio Eni,1267,2014,72.0,U.K.,2.75,Criollo,,True,Poprawny
+Forteza (Cortes),Dominican Republic,1776,2016,70.0,Puerto Rico,2.75,,,True,Poprawny
+Forteza (Cortes),Puerto Rico,1776,2016,80.0,Puerto Rico,2.75,,,True,Poprawny
+Fossa,"Akesson's E., Sambirano V.",1772,2016,70.0,Singapore,2.75,,madagascar,True,Poprawny
+Fossa,"Camino Verde P., Balao, Guayas",1776,2016,75.0,Singapore,3.5,,,True,Premium
+Fossa,"Kokoa Kamili Coop, Kilombero",1776,2016,67.0,Singapore,3.75,Trinitario,,False,Premium
+Franceschi,Choroni,1355,2014,70.0,Venezuela,3.5,,,True,Premium
+Franceschi,Ocumare,1355,2014,70.0,Venezuela,3.75,,,True,Premium
+Franceschi,Canoabo,911,2012,70.0,Venezuela,3.75,,,True,Premium
+Franceschi,Sur del Lago,915,2012,60.0,Venezuela,3.5,,,False,Premium
+Frederic Blondeel,Costa Rica,1538,2015,70.0,Belgium,3.5,,,True,Premium
+Frederic Blondeel,Peru Brutus,1538,2015,75.0,Belgium,3.5,,,True,Premium
+Frederic Blondeel,Vietnam,1542,2015,80.0,Belgium,3.0,Trinitario,,True,Poprawny
+Frederic Blondeel,Ghana,1351,2014,60.0,Belgium,3.5,Forastero,,False,Premium
+Frederic Blondeel,Madagascar,1351,2014,65.0,Belgium,3.5,Trinitario,madagascar,False,Premium
+French Broad,"Norandino, batch 161208",1940,2017,70.0,U.S.A.,3.5,,,True,Premium
+French Broad,Guatemala,1634,2015,73.0,U.S.A.,3.5,,,True,Premium
+French Broad,San Andres,1209,2014,80.0,U.S.A.,3.0,,,True,Poprawny
+French Broad,Matagalpa,1295,2014,68.0,U.S.A.,3.25,,,False,Premium
+French Broad,"Palo Blanco, Chulucanas",1042,2013,66.0,U.S.A.,3.5,,,False,Premium
+French Broad,Tumbes Coop,883,2012,70.0,U.S.A.,2.5,Criollo,,True,Poprawny
+French Broad,"Palo Blanco, Chulucanas",883,2012,61.0,U.S.A.,3.5,,,False,Premium
+French Broad,"Palo Blanco w/ panela, Chulucanas",887,2012,81.0,U.S.A.,2.0,,,True,Rozczarowujący
+French Broad,"Maranon Canyon, Fortunato No. 4",781,2011,70.0,U.S.A.,3.5,Forastero (Nacional),,True,Premium
+French Broad,La Red,785,2011,65.0,U.S.A.,3.5,,,False,Premium
+Fresco,"Maranon, #228, MR, SC",1383,2014,70.0,U.S.A.,3.0,Forastero (Nacional),,True,Poprawny
+Fresco,"Maranon, #227, LR, MC",1383,2014,70.0,U.S.A.,3.5,Forastero (Nacional),,True,Premium
+Fresco,"Maranon, #229, MR, LC",1383,2014,70.0,U.S.A.,3.5,Forastero (Nacional),,True,Premium
+Fresco,"Maranon, #230, DR, LC",1387,2014,70.0,U.S.A.,3.5,Forastero (Nacional),,True,Premium
+Fresco,"Conacado, #223, MR, SC",1030,2013,72.0,U.S.A.,3.25,,,True,Premium
+Fresco,"Conacado, #224, MR, MC",1081,2013,72.0,U.S.A.,3.75,,,True,Premium
+Fresco,"San Martin, Bellavista Coop, #226, DR, MC",1117,2013,70.0,U.S.A.,3.75,,,True,Premium
+Fresco,"Bellavista Coop, #225, LR, MC, CG Exclusive",1149,2013,70.0,U.S.A.,4.0,Trinitario,,True,Premium
+Fresco,"Markham Valley, #219, LR, MC",899,2012,69.0,U.S.A.,3.5,,,False,Premium
+Fresco,"Markham Valley, #221, DR, MC",899,2012,69.0,U.S.A.,3.5,,,False,Premium
+Fresco,"Sambirano Valley, #216, MR, LC",915,2012,74.0,U.S.A.,4.0,Trinitario,madagascar,True,Premium
+Fresco,"Markham Valley, #220, MR, MC",927,2012,69.0,U.S.A.,4.0,Trinitario,,False,Premium
+Fresco,"Markham Valley, #222, LR, 0C",931,2012,69.0,U.S.A.,3.0,Trinitario,,False,Poprawny
+Fresco,"Ghana, #211, MR, MC",636,2011,74.0,U.S.A.,2.75,Forastero,,True,Poprawny
+Fresco,"Jamaica, #209, DR, SC",642,2011,70.0,U.S.A.,3.25,Trinitario,,True,Premium
+Fresco,"Conacado, #212, LR, SC",642,2011,72.0,U.S.A.,3.5,,,True,Premium
+Fresco,"Jamaica, #210, DR, MC",642,2011,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Fresco,"Sambirano Valley, #214, LR, MC",682,2011,74.0,U.S.A.,2.75,Trinitario,madagascar,True,Poprawny
+Fresco,"Conacado, #213, DR, -C",682,2011,72.0,U.S.A.,3.25,,,True,Premium
+Fresco,"Sambirano Valley, #215, MR, MC",688,2011,74.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Fresco,"Chuao, #218, MR, MC",745,2011,76.0,U.S.A.,3.25,Trinitario,,True,Premium
+Fresco,"Chuao, #217, DR, MC",745,2011,70.0,U.S.A.,4.0,Trinitario,,True,Premium
+Fresco,"Jamaica, #204, DR, SC",370,2009,80.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Fresco,"Jamaica, #206, DR, LC",370,2009,70.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Fresco,"Jamaica, #205, DR, MC",370,2009,70.0,U.S.A.,3.25,Trinitario,,True,Premium
+Fresco,"Carenero Superior, #203, MR, SC",370,2009,65.0,U.S.A.,3.5,Criollo,,False,Premium
+Friis Holm,"Rugoso, Bad Fermentation",1912,2016,70.0,Denmark,3.5,,,True,Premium
+Friis Holm (Bonnat),La Dalia,1680,2015,60.0,Denmark,3.0,,,False,Poprawny
+Friis Holm (Bonnat),La Dalia,1680,2015,85.0,Denmark,3.25,,,True,Premium
+Friis Holm (Bonnat),La Dalia,1259,2014,70.0,Denmark,3.5,,,True,Premium
+Friis Holm (Bonnat),"Barba, Xoco",1034,2013,70.0,Denmark,3.25,,,True,Premium
+Friis Holm (Bonnat),"Medagla, Xoco",1034,2013,70.0,Denmark,3.5,,,True,Premium
+Friis Holm (Bonnat),"Chuno, triple turned, Xoco",895,2012,70.0,Denmark,3.25,"Criollo, Trinitario",,True,Premium
+Friis Holm (Bonnat),"Red Mayan, Xoco",899,2012,70.0,Denmark,3.25,"Criollo, Trinitario",,True,Premium
+Friis Holm (Bonnat),"Chuno, double turned, Xoco",899,2012,70.0,Denmark,3.25,"Criollo, Trinitario",,True,Premium
+Friis Holm (Bonnat),"Rugoso, Xoco",923,2012,70.0,Denmark,3.75,,,True,Premium
+Friis Holm (Bonnat),"Johe, Xoco",623,2011,70.0,Denmark,3.25,"Criollo, Trinitario",,True,Premium
+Friis Holm (Bonnat),"Chuno, Xoco",623,2011,70.0,Denmark,3.5,"Criollo, Trinitario",,True,Premium
+Friis Holm (Bonnat),"Nicaliso, Xoco",623,2011,70.0,Denmark,3.5,"Criollo, Trinitario",,True,Premium
+Fruition,"Wild Bolivian, Batch 2",1780,2016,74.0,U.S.A.,3.75,Beniano,,True,Premium
+Fruition,"Coto Brus, Heirloom, Batch 1",1780,2016,74.0,U.S.A.,4.0,Amazon mix,,True,Premium
+Fruition,Gran Couva,1347,2014,70.0,U.S.A.,3.75,Trinitario,,True,Premium
+Fruition,Maranon,1359,2014,76.0,U.S.A.,3.0,Forastero (Nacional),,True,Poprawny
+Fruition,La Red,1046,2013,70.0,U.S.A.,3.75,,,True,Premium
+Fruition,Camino Verde,1185,2013,75.0,U.S.A.,3.0,,,True,Poprawny
+Fruition,Peru,863,2012,70.0,U.S.A.,2.5,,,True,Poprawny
+Fruition,Signature Blend,753,2011,66.0,U.S.A.,3.25,Trinitario,,False,Premium
+Fruition,Costa Rica,781,2011,70.0,U.S.A.,3.0,,,True,Poprawny
+Garden Island,"Kaua'I, Alea Estate +world",1367,2014,85.0,U.S.A.,2.5,Blend,,True,Poprawny
+Georgia Ramon,Akesson P.,1642,2015,65.0,Germany,3.25,Trinitario,madagascar,False,Premium
+Georgia Ramon,ABOCFA Coop,1642,2015,70.0,Germany,4.0,Forastero,,True,Premium
+Georgia Ramon,Conacado Coop,1646,2015,70.0,Germany,3.5,Trinitario,,True,Premium
+Georgia Ramon,Conacado Coop,1646,2015,80.0,Germany,3.5,Trinitario,,True,Premium
+Georgia Ramon,Akesson P.,1646,2015,75.0,Germany,3.5,Trinitario,madagascar,True,Premium
+Glennmade,"Toledo District, 2015 Harvest",1848,2016,70.0,U.S.A.,3.5,,,True,Premium
+Glennmade,Bahia,1672,2015,66.0,U.S.A.,3.0,"Trinitario, Forastero",,False,Poprawny
+Goodnow Farms,"Almendra Blanca, batch 1004",1924,2016,77.0,U.S.A.,2.75,,,True,Poprawny
+Goodnow Farms,"El Carmen, batch 1003",1924,2016,77.0,U.S.A.,3.25,,,True,Premium
+Goodnow Farms,"Asochivite, batch 1005",1924,2016,77.0,U.S.A.,3.25,,,True,Premium
+Grand Place,"Ben Tre, Dong Nai",741,2011,72.0,Vietnam,3.0,Trinitario,,True,Poprawny
+Green & Black's (ICAM),Dark,15,2006,70.0,U.K.,2.5,,,True,Poprawny
+Green Bean to Bar,Madagascar,1896,2016,70.0,Japan,3.5,,madagascar,True,Premium
+Grenada Chocolate Co.,Grenada,494,2010,82.0,Grenada,3.25,Trinitario,,True,Premium
+Grenada Chocolate Co.,Grenada,363,2009,60.0,Grenada,2.75,Trinitario,,False,Poprawny
+Grenada Chocolate Co.,Grenada,241,2008,71.0,Grenada,2.5,Trinitario,,True,Poprawny
+Guido Castagna,Arriba,355,2009,64.0,Italy,3.0,Forastero (Arriba) ASS,,False,Poprawny
+Guido Castagna,Ghana,355,2009,64.0,Italy,3.0,Forastero,,False,Poprawny
+Guido Castagna,Trinidad & Tobago,355,2009,64.0,Italy,3.0,,,False,Poprawny
+Guido Castagna,Lacri Blend,355,2009,76.0,Italy,3.0,,,True,Poprawny
+Guido Castagna,Blend,355,2009,64.0,Italy,3.25,,,False,Premium
+Guittard,"Epique, Blend No. 49",1602,2015,70.0,U.S.A.,3.75,,,True,Premium
+Guittard,Haiti,1053,2013,65.0,U.S.A.,2.75,,,False,Poprawny
+Guittard,Nicaragua,1053,2013,65.0,U.S.A.,2.75,,,False,Poprawny
+Guittard,Jamaica,1053,2013,65.0,U.S.A.,3.25,Trinitario,,False,Premium
+Guittard,Ecuador,1053,2013,65.0,U.S.A.,3.5,,,False,Premium
+Guittard,Coucher du Soleil,654,2011,72.0,U.S.A.,2.75,,,True,Poprawny
+Guittard,Lever du Soleil,654,2011,61.0,U.S.A.,3.25,,,False,Premium
+Guittard,Onyx,654,2011,72.0,U.S.A.,3.25,,,True,Premium
+Guittard,Trinidad,552,2010,65.0,U.S.A.,3.0,Trinitario,,False,Poprawny
+Guittard,"O'ahu, N. Shore, Waialua E., Kakoleka",316,2009,55.0,U.S.A.,3.0,,,False,Poprawny
+Guittard,Nocturne,387,2009,91.0,U.S.A.,3.0,,,True,Poprawny
+Guittard,Complexite,387,2009,70.0,U.S.A.,3.5,Blend,,True,Premium
+Guittard,Machu Pichu,259,2008,65.0,U.S.A.,3.0,,,False,Poprawny
+Guittard,Special Maker Reserve,276,2008,64.0,U.S.A.,3.0,,,False,Poprawny
+Guittard,Ocumare,276,2008,65.0,U.S.A.,3.5,,,False,Premium
+Guittard,Quetzalcoatl,147,2007,72.0,U.S.A.,3.5,Blend,,True,Premium
+Guittard,Chucuri,15,2006,65.0,U.S.A.,3.0,Trinitario,,False,Poprawny
+Guittard,Sur del Lago,87,2006,65.0,U.S.A.,2.5,"Trinitario, Criollo",,False,Poprawny
+Guittard,"Sambirano, Ambanja",87,2006,65.0,U.S.A.,3.5,"Criollo, +",madagascar,False,Premium
+Guittard,"Los Rios, Quevedo",93,2006,65.0,U.S.A.,3.5,Forastero (Arriba),,False,Premium
+Guittard,Tsaranta,93,2006,61.0,U.S.A.,3.5,Blend,,False,Premium
+Guittard,Semisweet,99,2006,61.0,U.S.A.,3.0,Blend,,False,Poprawny
+Habitual,Papua New Guinea,1197,2014,80.0,Canada,2.75,,,True,Poprawny
+Habitual,Campesino w/ nibs,1197,2014,74.0,Canada,2.75,,,True,Poprawny
+Habitual,Dominican Republic,1197,2014,75.0,Canada,3.25,,,True,Premium
+Habitual,Trinitario,1197,2014,70.0,Canada,3.5,Trinitario,,True,Premium
+Habitual,Downtown London,1201,2014,65.0,Canada,2.75,,,False,Poprawny
+Habitual,Africa meets Latina,1201,2014,70.0,Canada,3.0,,,True,Poprawny
+Habitual,Amazonas,1201,2014,80.0,Canada,3.0,,,True,Poprawny
+Habitual,Sharkey,1201,2014,66.0,Canada,3.25,,,False,Premium
+Habitual,one hundred,1205,2014,100.0,Canada,2.0,,,True,Rozczarowujący
+Hachez,Arriba,166,2007,77.0,Germany,2.5,Forastero (Arriba),,True,Poprawny
+Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,55.0,Ecuador,2.75,Trinitario,,False,Poprawny
+Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,70.0,Ecuador,3.0,Trinitario,,True,Poprawny
+Haigh,South America and Africa,701,2011,70.0,Australia,3.0,,,True,Poprawny
+Harper Macaw,"Vale do Juliana, w/ nibs",1808,2016,85.0,U.S.A.,3.25,,,True,Premium
+Harper Macaw,Brazil Blend,1696,2015,67.0,U.S.A.,3.0,,,False,Poprawny
+Harper Macaw,"Tome Acu E., Amazon Rainforest",1700,2015,77.0,U.S.A.,3.5,,,True,Premium
+Harper Macaw,"Vale do Juliana E., Atlantic Forest",1700,2015,74.0,U.S.A.,3.5,,,True,Premium
+Heilemann,Peru,1876,2016,64.0,Germany,2.75,,,False,Poprawny
+Heirloom Cacao Preservation (Brasstown),"Maya Mtn, Moho R., Toledo D., 2015",1748,2016,70.0,U.S.A.,3.25,Amazon,,True,Premium
+Heirloom Cacao Preservation (Fruition),"Cota Brus, Terciopelo, 2015",1748,2016,74.0,U.S.A.,3.5,Amazon mix,,True,Premium
+Heirloom Cacao Preservation (Guittard),"Alto Beni, Upper Rio Beni, 2014",1239,2014,67.0,U.S.A.,3.5,"Amazon, ICS",,False,Premium
+Heirloom Cacao Preservation (Guittard),"Wild Beni, Lower Rio Beni, Tranquilidad, 2014",1243,2014,67.0,U.S.A.,3.0,Beniano,,False,Poprawny
+Heirloom Cacao Preservation (Guittard),"Los Rios, Hacienda Limon, Orecao, 2014",1243,2014,67.0,U.S.A.,3.75,EET,,False,Premium
+Heirloom Cacao Preservation (Guittard),"Maunawili, O'ahu, Agri Research C., 2014",1243,2014,67.0,U.S.A.,3.75,,,False,Premium
+Heirloom Cacao Preservation (Manoa),"Maunawili, O'ahu, Agri Research C., 2015",1744,2016,72.0,U.S.A.,3.5,,,True,Premium
+Heirloom Cacao Preservation (Millcreek),"Los Rios, Hacienda Limon, Orecao, 2015",1744,2016,70.0,U.S.A.,3.5,EET,,True,Premium
+Heirloom Cacao Preservation (Mindo),"Pinchincha, Mindo, Coop Nueva Esper., 2015",1748,2016,77.0,U.S.A.,3.5,EET,,True,Premium
+Heirloom Cacao Preservation (Zokoko),"Alto Beni, Upper Rio Beni, 2015",1744,2016,68.0,U.S.A.,3.75,"Amazon, ICS",,False,Premium
+Heirloom Cacao Preservation (Zokoko),"Wild Beni, Lower Rio Beni, Tranquilidad, 2015",1744,2016,72.0,U.S.A.,4.0,Beniano,,True,Premium
+hello cocoa,Uganda,1458,2015,57.0,U.S.A.,2.75,Forastero,,False,Poprawny
+hello cocoa,Venezuela,1462,2015,74.0,U.S.A.,3.5,Criollo,,True,Premium
+hexx,Tanzania,1546,2015,70.0,U.S.A.,2.75,,,True,Poprawny
+hexx,Madagascar,1546,2015,74.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+hexx,Venezuela,1546,2015,70.0,U.S.A.,3.0,,,True,Poprawny
+hexx,Ecuador,1550,2015,73.0,U.S.A.,3.25,,,True,Premium
+hexx,Peru,1550,2015,70.0,U.S.A.,3.25,,,True,Premium
+Hogarth,Akesson's Estate,1712,2016,70.0,New Zealand,2.75,Trinitario,madagascar,True,Poprawny
+Hogarth,Carenero Superior,1712,2016,72.0,New Zealand,2.75,Trinitario,,True,Poprawny
+Hogarth,Conacado,1712,2016,75.0,New Zealand,3.25,Trinitario,,True,Premium
+Hogarth,Gran Blanco,1712,2016,66.0,New Zealand,3.5,Criollo,,False,Premium
+Hoja Verde (Tulicorp),Arriba,414,2009,80.0,Ecuador,2.0,Forastero (Arriba) ASS,,True,Rozczarowujący
+Hoja Verde (Tulicorp),Manabi,414,2009,80.0,Ecuador,2.5,Forastero (Arriba) ASS,,True,Poprawny
+Hoja Verde (Tulicorp),Arriba,414,2009,72.0,Ecuador,3.0,Forastero (Arriba) ASS,,True,Poprawny
+Hoja Verde (Tulicorp),Arriba,414,2009,58.0,Ecuador,3.25,Forastero (Arriba) ASS,,False,Premium
+Hoja Verde (Tulicorp),Manabi,414,2009,58.0,Ecuador,3.5,Forastero (Arriba) ASS,,False,Premium
+Holy Cacao,Maranon,1872,2016,70.0,Israel,2.75,,,True,Poprawny
+Holy Cacao,"Camino Verde P., Balao, Guayas",1466,2015,70.0,Israel,3.5,,,True,Premium
+Holy Cacao,Sambirano,1466,2015,70.0,Israel,3.5,Trinitario,madagascar,True,Premium
+Holy Cacao,Gran Couva,1466,2015,70.0,Israel,3.5,Trinitario,,True,Premium
+Holy Cacao,Mara,1466,2015,70.0,Israel,3.5,,,True,Premium
+Holy Cacao,Ivory Coast,431,2009,70.0,Israel,2.5,,,True,Poprawny
+Holy Cacao,Hispaniola,431,2009,70.0,Israel,2.75,,,True,Poprawny
+Holy Cacao,San Martin,431,2009,70.0,Israel,3.5,,,True,Premium
+Holy Cacao,Hispaniola w/ nibs,431,2009,75.0,Israel,3.75,,,True,Premium
+Honest,"Ecuador, w/ nibs",1327,2014,72.0,South Africa,2.5,,,True,Poprawny
+Hotel Chocolat,"Pepiniere, single Cote",1654,2015,70.0,U.K.,2.75,,,True,Poprawny
+Hotel Chocolat,"Marcial, single Cote, 2012",1030,2013,70.0,U.K.,4.0,Trinitario,,True,Premium
+Hotel Chocolat,"Island Growers, 2012, 120hr c.",1113,2013,100.0,U.K.,1.75,Trinitario,,True,Rozczarowujący
+Hotel Chocolat (Coppeneur),Trinidad,1038,2013,75.0,U.K.,3.0,Trinitario,,True,Poprawny
+Hotel Chocolat (Coppeneur),Mekong Delta & Dong Nai,1038,2013,80.0,U.K.,3.5,Trinitario,,True,Premium
+Hotel Chocolat (Coppeneur),"Los Rios, H. Iara",1065,2013,90.0,U.K.,3.0,Forastero (Nacional),,True,Poprawny
+Hotel Chocolat (Coppeneur),"Somia Plantation, Akesson, 2012",1065,2013,72.0,U.K.,3.0,Trinitario,madagascar,True,Poprawny
+Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 2012",1065,2013,82.0,U.K.,3.5,Forastero (Nacional),,True,Premium
+Hotel Chocolat (Coppeneur),"Chanchamayo, Pichanadi, 2012, 60hr c.",1109,2013,100.0,U.K.,2.75,,,True,Poprawny
+Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 2012, 120hr c.",1113,2013,100.0,U.K.,2.5,Forastero (Nacional),,True,Poprawny
+Hotel Chocolat (Coppeneur),"Conacado, 2012, 120hr c.",1113,2013,100.0,U.K.,2.75,,,True,Poprawny
+Hotel Chocolat (Coppeneur),Sambirano,809,2012,66.0,U.K.,3.5,"Trinitario, Criollo",madagascar,False,Premium
+Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 96hr c.",623,2011,80.0,U.K.,3.0,Forastero (Nacional),,True,Poprawny
+Hotel Chocolat (Coppeneur),"Island Growers, 120hr c.",623,2011,65.0,U.K.,3.0,Trinitario,,False,Poprawny
+Hotel Chocolat (Coppeneur),"Island Growers, 96hr c.",623,2011,65.0,U.K.,3.25,Trinitario,,False,Premium
+Hotel Chocolat (Coppeneur),Ecuador,552,2010,70.0,U.K.,2.75,,,True,Poprawny
+Hotel Chocolat (Coppeneur),Santo Domingo,552,2010,70.0,U.K.,3.0,,,True,Poprawny
+Hotel Chocolat (Coppeneur),Chuao,600,2010,70.0,U.K.,2.75,Trinitario,,True,Poprawny
+Hotel Chocolat (Coppeneur),St. Lucia,245,2008,72.0,U.K.,3.0,,,True,Poprawny
+Hotel Chocolat (Coppeneur),Uganda,296,2008,80.0,U.K.,2.5,Forastero,,True,Poprawny
+Hotel Chocolat (Coppeneur),Tanzania,296,2008,75.0,U.K.,2.75,,,True,Poprawny
+Hotel Chocolat (Coppeneur),Uba Budo,300,2008,72.0,U.K.,3.0,Forastero,,True,Poprawny
+Hummingbird,Lam Dong,1542,2015,70.0,Canada,3.5,Trinitario,,True,Premium
+Hummingbird,Bolivia,1307,2014,70.0,Canada,3.0,"Criollo, Trinitario",,True,Poprawny
+Hummingbird,"Bolivia, Bo-nib-ia, w/ nibs",1311,2014,70.0,Canada,3.0,"Criollo, Trinitario",,True,Poprawny
+Hummingbird,Momotombo,1311,2014,70.0,Canada,3.0,Trinitario,,True,Poprawny
+Hummingbird,Hispaniola,1311,2014,70.0,Canada,3.75,Trinitario,,True,Premium
+Hummingbird,Zorzal Reserva w/ Charles Kerchner,1387,2014,70.0,Canada,3.5,,,True,Premium
+Hummingbird,"Ocumare, Cumboto",1097,2013,70.0,Canada,3.25,"Trinitario, Criollo",,True,Premium
+Hummingbird,Amazonas,1097,2013,70.0,Canada,3.75,Forastero,,True,Premium
+Idilio (Felchlin),"Chuao, Venezuela",1085,2013,72.0,Switzerland,3.75,Trinitario,,True,Premium
+Idilio (Felchlin),Coopertiva Amazona,725,2011,72.0,Switzerland,3.75,Criollo,,True,Premium
+Idilio (Felchlin),"Sur del Lago, Amiari Meridena, Zulia, 48hr c.",725,2011,72.0,Switzerland,3.75,,,True,Premium
+Idilio (Felchlin),"Choroni, Finca Torres, 48hr c.",729,2011,72.0,Switzerland,3.25,Criollo,,True,Premium
+Idilio (Felchlin),"Ocumare, H. Cata, 48hr c.",733,2011,72.0,Switzerland,3.75,Criollo,,True,Premium
+Idilio (Felchlin),"Porcelana, Zulia",733,2011,74.0,Switzerland,4.0,Criollo,,True,Premium
+Idilio (Felchlin),"Ocumare, H. Cata, w/ nibs",737,2011,72.0,Switzerland,3.5,Criollo,,True,Premium
+Idilio (Felchlin),"Carenero Superior, Urrutia, Barlovento",737,2011,70.0,Switzerland,4.0,Trinitario,,True,Premium
+Idilio (Felchlin),Coopertiva Amazona w/ nibs,737,2011,72.0,Switzerland,4.0,Criollo,,True,Premium
+Idilio (Felchlin),"Sur del Lago, Amiari Meridena, Zulia, w/ nibs",737,2011,72.0,Switzerland,4.0,,,True,Premium
+Indah,India (south),1788,2016,61.0,India,2.5,,,False,Poprawny
+Indaphoria,La Red,821,2012,70.0,U.S.A.,3.25,,,True,Premium
+Indaphoria,"Conacado, Manifesto",907,2012,70.0,U.S.A.,2.75,,,True,Poprawny
+Indi,Honduras,1255,2014,77.0,U.S.A.,3.0,,,True,Poprawny
+iQ Chocolate,"Satipo region, white label",943,2012,72.0,Scotland,2.75,Criollo,,True,Poprawny
+iQ Chocolate,black label,943,2012,72.0,Scotland,3.0,,,True,Poprawny
+Isidro,Madagascar,1275,2014,72.0,U.S.A.,3.5,Trinitario,madagascar,True,Premium
+Isidro,Peru,1279,2014,72.0,U.S.A.,2.25,,,True,Poprawny
+Isidro,Belize,1279,2014,72.0,U.S.A.,3.25,Trinitario,,True,Premium
+Isidro,Dominican Republic,1279,2014,72.0,U.S.A.,3.25,,,True,Premium
+Izard,"Maya Mountain, Toledo, Batch 29",1542,2015,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Izard,"Elvesia P., Batch 32",1546,2015,70.0,U.S.A.,2.75,,,True,Poprawny
+Jacque Torres,Trinatario Treasure,5,2006,71.0,U.S.A.,2.0,Trinitario,,True,Rozczarowujący
+Jordis,Madagascar,1534,2015,63.0,Czech Republic,2.75,Trinitario,madagascar,False,Poprawny
+Just Good Chocolate,Belize,1375,2014,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Just Good Chocolate,Madagascar,1375,2014,70.0,U.S.A.,3.5,Trinitario,madagascar,True,Premium
+Just Good Chocolate,Peru,1375,2014,70.0,U.S.A.,4.0,,,True,Premium
+Kah Kow,"Rizek Cacao, Cibao Valley, Domin. Rep.",1061,2013,70.0,Domincan Republic,3.5,,,True,Premium
+Kah Kow,"Rizek Cacao, Domin. Rep.",1069,2013,82.0,Domincan Republic,3.0,,,True,Poprawny
+Kah Kow,"Rizek Cacao, Domin. Rep.",1069,2013,55.0,Domincan Republic,3.25,,,False,Premium
+Kah Kow,"Rizek Cacao, Domin. Rep.",1073,2013,62.0,Domincan Republic,3.25,,,False,Premium
+Kakao,Peru,837,2012,64.0,Germany,2.5,,,False,Poprawny
+Kakao,Vanuatu,387,2009,65.0,Germany,3.75,Trinitario,,False,Premium
+Kallari (Ecuatoriana),Sisa 36hr/ W. F. blend prototype,241,2008,70.0,Ecuador,3.0,,,True,Poprawny
+Kallari (Ecuatoriana),Sisa's Secret/ original micro,241,2008,70.0,Ecuador,3.5,,,True,Premium
+Kallari (Ecuatoriana),Roberto,245,2008,75.0,Ecuador,2.75,,,True,Poprawny
+Kallari (Ecuatoriana),Diego/ original micro,248,2008,85.0,Ecuador,2.5,,,True,Poprawny
+Kallari (Ecuatoriana),Diego 48hr/ W.F. blend prototype,248,2008,85.0,Ecuador,2.75,,,True,Poprawny
+Kallari (Ecuatoriana),Diego 60hr/ W.F. blend prototype,248,2008,85.0,Ecuador,3.0,,,True,Poprawny
+Kallari (Ecuatoriana),Cacao Nacional W.F.,263,2008,75.0,Ecuador,2.5,,,True,Poprawny
+Kallari (Ecuatoriana),Cacao Nacional W.F.,269,2008,85.0,Ecuador,3.0,,,True,Poprawny
+Kaoka (Cemoi),Noir,404,2009,70.0,France,2.75,,,True,Poprawny
+Kaoka (Cemoi),Ecuador,423,2009,80.0,France,2.75,,,True,Poprawny
+Kerchner,"La Red, Project Reserva, Guaconejo",1133,2013,70.0,U.S.A.,3.75,,,True,Premium
+Ki' Xocolatl,Dark,431,2009,72.0,Mexico,2.0,,,True,Rozczarowujący
+Kiskadee,"La Red, Guanconjeco",1251,2014,60.0,U.S.A.,3.0,Trinitario,,False,Poprawny
+Kto,San Martin,1422,2014,72.0,U.S.A.,2.5,,,True,Poprawny
+Kto,Ocumare,1422,2014,72.0,U.S.A.,2.75,,,True,Poprawny
+Kto,Belize,1422,2014,72.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Kto,Sambirano Valley,1422,2014,72.0,U.S.A.,3.25,Trinitario,madagascar,True,Premium
+Kto,Belize,1426,2014,90.0,U.S.A.,3.25,Trinitario,,True,Premium
+Kto,Elvesia,1426,2014,72.0,U.S.A.,3.25,,,True,Premium
+Kto,ROIG,1426,2014,72.0,U.S.A.,3.25,,,True,Premium
+K'ul,"Kafupbo, Petit Bourg, De Borgnes",1840,2016,70.0,U.S.A.,3.25,,,True,Premium
+K'ul,"Maranon, Fortunato No. 4",1852,2016,70.0,U.S.A.,2.75,Forastero (Nacional),,True,Poprawny
+K'ul,"Los Rios, Hacienda Limon, Heirloom",1852,2016,70.0,U.S.A.,3.75,,,True,Premium
+K'ul,"Bahia, Fazenda Camboa",1852,2016,70.0,U.S.A.,3.75,Forastero,,True,Premium
+Kyya,Uganda,1359,2014,72.5,U.S.A.,2.5,Forastero,,True,Poprawny
+Kyya,Hispaniola,1359,2014,72.5,U.S.A.,3.0,,,True,Poprawny
+Kyya,Ecuador,1363,2014,72.5,U.S.A.,2.5,,,True,Poprawny
+Kyya,Madagascar,1363,2014,72.5,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+L.A. Burdick (Felchlin),Peru,891,2012,74.0,U.S.A.,3.25,,,True,Premium
+L.A. Burdick (Felchlin),Brazil,891,2012,70.0,U.S.A.,4.0,,,True,Premium
+L.A. Burdick (Felchlin),Chuao,927,2012,68.0,U.S.A.,3.75,Trinitario,,False,Premium
+L.A. Burdick (Felchlin),Quito,682,2011,74.0,U.S.A.,3.75,,,True,Premium
+L.A. Burdick (Felchlin),Grenada,576,2010,75.0,U.S.A.,3.25,Trinitario,,True,Premium
+L.A. Burdick (Felchlin),Dominican Republic,576,2010,74.0,U.S.A.,3.75,,,True,Premium
+L.A. Burdick (Felchlin),Venezuela,597,2010,71.0,U.S.A.,3.0,,,True,Poprawny
+L.A. Burdick (Felchlin),Madagascar,431,2009,64.0,U.S.A.,3.5,Trinitario,madagascar,False,Premium
+L.A. Burdick (Felchlin),Bolivian,451,2009,68.0,U.S.A.,3.0,,,False,Poprawny
+La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 6, brown sugar",1892,2016,70.0,Japan,2.25,"Trinitario, Criollo",,True,Poprawny
+La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 7",1892,2016,70.0,Japan,2.5,"Trinitario, Criollo",,True,Poprawny
+La Chocolaterie Nanairo,"Tumbes, 2013 Harvest, Batch 8",1892,2016,70.0,Japan,3.0,Criollo,,True,Poprawny
+La Chocolaterie Nanairo,"Belize, 2014 Harvest, Batch 9",1892,2016,70.0,Japan,3.0,"Trinitario, Criollo",,True,Poprawny
+La Maison du Chocolat (Valrhona),"Cuana, 2013",1121,2013,74.0,France,2.75,,,True,Poprawny
+La Maison du Chocolat (Valrhona),Tobago,1145,2013,60.0,France,3.25,,,False,Premium
+La Maison du Chocolat (Valrhona),"Acarigua, w/ nibs",1189,2013,56.0,France,3.25,,,False,Premium
+La Maison du Chocolat (Valrhona),Loma Sotavento,891,2012,66.0,France,3.5,,,False,Premium
+La Maison du Chocolat (Valrhona),Grenada,741,2011,68.0,France,3.5,Trinitario,,False,Premium
+La Maison du Chocolat (Valrhona),Akosombo,346,2009,68.0,France,3.25,Forastero,,False,Premium
+La Maison du Chocolat (Valrhona),"Porcelana, Pariguan",346,2009,69.0,France,3.5,Criollo (Porcelana),,False,Premium
+La Maison du Chocolat (Valrhona),Kuruba,439,2009,60.0,France,3.0,,,False,Poprawny
+La Maison du Chocolat (Valrhona),Orinoco,445,2009,60.0,France,3.75,,,False,Premium
+La Maison du Chocolat (Valrhona),"Cuana, 2008",230,2008,74.0,France,3.5,Blend,,True,Premium
+La Oroquidea,Peruvian Amazon,721,2011,72.0,Peru,2.5,,,True,Poprawny
+La Pepa de Oro,Vinces,713,2011,60.0,Ecuador,3.25,,,False,Premium
+Laia aka Chat-Noir,"Madagascar, Batch 59/100",1590,2015,75.0,France,2.75,Trinitario,madagascar,True,Poprawny
+Laia aka Chat-Noir,"Vietnam, Batch 50/100",1590,2015,75.0,France,2.75,Trinitario,,True,Poprawny
+Laia aka Chat-Noir,"Cuba, Batch 59/100",1590,2015,75.0,France,3.0,,,True,Poprawny
+Laia aka Chat-Noir,"Peru, Batch 51/100",1590,2015,75.0,France,3.25,,,True,Premium
+Laia aka Chat-Noir,"Ivory Coast, Batch 56/100",1594,2015,75.0,France,3.0,,,True,Poprawny
+Laia aka Chat-Noir,"Sao Tome, Batch 151",1638,2015,75.0,France,3.5,Forastero,,True,Premium
+Laia aka Chat-Noir,"Bahia, Batch 148",1642,2015,75.0,France,3.25,,,True,Premium
+Laia aka Chat-Noir,"Lam Dong, Batch 153",1642,2015,75.0,France,3.75,Trinitario,,True,Premium
+Laia aka Chat-Noir,Cuba,1434,2014,70.0,France,2.75,,,True,Poprawny
+Laia aka Chat-Noir,Trinidad & Tobago,1438,2014,68.0,France,2.75,,,False,Poprawny
+Lajedo do Ouro,Catongo,927,2012,70.0,Brazil,3.5,Forastero (Catongo),,True,Premium
+Lake Champlain (Callebaut),Tanzania,327,2009,75.0,U.S.A.,2.5,,,True,Poprawny
+L'Amourette,Rugoso,1784,2016,80.0,U.S.A.,3.5,Trinitario,,True,Premium
+L'Amourette,Carenero Superior,833,2012,75.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+L'Amourette,Rio Caribe,833,2012,75.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+L'Amourette,Blend,853,2012,72.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Letterpress,"La Masica, Batch 7, FHIA",1952,2017,70.0,U.S.A.,3.5,,,True,Premium
+Letterpress,"Maya Mtn, Batch 18, Heirloom",1952,2017,70.0,U.S.A.,3.25,,,True,Premium
+Letterpress,Liberia,1728,2016,70.0,U.S.A.,3.25,,,True,Premium
+Letterpress,Beniamo,1562,2015,70.0,U.S.A.,3.25,,,True,Premium
+Letterpress,"San Juan Estate, Gran Couva",1562,2015,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Letterpress,San Andres,1566,2015,70.0,U.S.A.,3.0,,,True,Poprawny
+Letterpress,"La Red, Guaconejo",1566,2015,70.0,U.S.A.,3.25,,,True,Premium
+Letterpress,Kokoa Kamili,1566,2015,70.0,U.S.A.,3.5,,,True,Premium
+Letterpress,Maranura,1371,2014,70.0,U.S.A.,3.5,Forastero (Nacional),,True,Premium
+Levy,Sambirano,1231,2014,71.0,Finland,3.5,Criollo,madagascar,True,Premium
+Lilla,Madagascar,1856,2016,70.0,Finland,3.0,Trinitario,madagascar,True,Poprawny
+Lillie Belle,Perfect Illusion,855,2012,65.0,U.S.A.,3.5,Criollo,,False,Premium
+Lillie Belle,"Bolivia, Wild Thing",903,2012,68.0,U.S.A.,3.5,Criollo,,False,Premium
+Lillie Belle,La Selva,903,2012,68.0,U.S.A.,3.75,,,False,Premium
+Lillie Belle,Purple Haze,947,2012,75.0,U.S.A.,2.75,,,True,Poprawny
+Lillie Belle,"The Other One, Grand Cru",947,2012,74.0,U.S.A.,3.0,,,True,Poprawny
+Lillie Belle,Wild Thing,947,2012,68.0,U.S.A.,3.5,Criollo,,False,Premium
+Lindt & Sprungli,Excellence (US Version),157,2007,85.0,Switzerland,3.0,,,True,Poprawny
+Loiza,Puerto Rico,1049,2013,65.0,Puerto Rico,2.5,,,False,Poprawny
+Lonohana,"Haleiwa, O'ahu; Lonohana E., Kanahiku",1383,2014,70.0,U.S.A.,3.75,,,True,Premium
+Lonohana,"Haleiwa E, O'ahu, 2014",1395,2014,65.0,U.S.A.,3.25,,,False,Premium
+Lonohana,"Haleiwa E, O'ahu, 2014",1395,2014,75.0,U.S.A.,3.75,,,True,Premium
+Lonohana,"Opaeula Estate, O'ahu, Nene, CG Exclusive",1093,2013,71.0,U.S.A.,3.0,,,True,Poprawny
+Lonohana,"Opaeula Estate, O'ahu, Ele'ele",1097,2013,72.0,U.S.A.,3.0,,,True,Poprawny
+Lonohana,"Hawaiian Crown, Kona Vanilla",1097,2013,70.0,U.S.A.,3.5,,,True,Premium
+Love Bar,Nicaragua,1502,2015,75.0,U.S.A.,2.0,,,True,Rozczarowujący
+Luker,Selva,552,2010,46.0,Colombia,2.75,,,False,Poprawny
+Luker,Macondo,552,2010,60.0,Colombia,3.0,,,False,Poprawny
+Luker,Misterio,552,2010,58.0,Colombia,3.0,,,False,Poprawny
+Luker,Santander,552,2010,65.0,Colombia,3.5,,,False,Premium
+Machu Picchu Trading Co.,Peru,721,2011,70.0,Peru,1.5,,,True,Rozczarowujący
+Machu Picchu Trading Co.,Peru,552,2010,55.0,Peru,2.25,,,False,Poprawny
+Madecasse (Cinagra),Madagascar,284,2008,67.0,Madagascar,3.5,Trinitario,madagascar,False,Premium
+Madecasse (Cinagra),Madagascar,284,2008,70.0,Madagascar,3.75,Trinitario,madagascar,True,Premium
+Madecasse (Cinagra),Madagascar,284,2008,63.0,Madagascar,4.0,Trinitario,madagascar,False,Premium
+Madecasse (Cinagra),Madagascar,288,2008,75.0,Madagascar,3.5,Trinitario,madagascar,True,Premium
+Madre,Guadalcanal,1940,2017,73.0,U.S.A.,3.5,,,True,Premium
+Madre,Puerto Rico,1085,2013,70.0,U.S.A.,2.75,,,True,Poprawny
+Madre,Brazil,1085,2013,70.0,U.S.A.,3.5,,,True,Premium
+Madre,"Choobua, Kona",1089,2013,70.0,U.S.A.,2.75,,,True,Poprawny
+Madre,"Xocunusco, Chiapas, Pichucalco",1089,2013,70.0,U.S.A.,2.75,,,True,Poprawny
+Madre,"Hamakua Coast, Kokoleka",991,2012,70.0,U.S.A.,3.25,,,True,Premium
+Madre,"Criollo, Hawaii",995,2012,70.0,U.S.A.,3.25,Criollo,,True,Premium
+Madre,Kaua'i,995,2012,70.0,U.S.A.,3.5,,,True,Premium
+Madre,Dominican,672,2011,70.0,U.S.A.,2.5,,,True,Poprawny
+Madre,Upala,693,2011,70.0,U.S.A.,2.75,,,True,Poprawny
+Madre,"Chiapas, Triple Cacao",607,2010,72.0,U.S.A.,2.75,,,True,Poprawny
+Maglio,Africa,300,2008,75.0,Italy,2.0,,,True,Rozczarowujący
+Maglio,Ecuador,308,2008,70.0,Italy,3.0,Forastero (Nacional),,True,Poprawny
+Maglio,Cuba,308,2008,70.0,Italy,3.25,Criollo,,True,Premium
+Maglio,Santo Domingo,308,2008,70.0,Italy,3.75,"Blend-Forastero,Criollo",,True,Premium
+Majani,Ecuador,531,2010,70.0,Italy,2.0,,,True,Rozczarowujący
+Malagasy (Chocolaterie Robert),Sambirano 2006,184,2007,75.0,Madagascar,2.75,Trinitario,madagascar,True,Poprawny
+Malagasy (Chocolaterie Robert),Mora Mora 2006,184,2007,73.0,Madagascar,3.5,Trinitario,madagascar,True,Premium
+Malagos,"Davao, Mt. Talamo foothills",1121,2013,65.0,Philippines,3.5,Trinitario,,False,Premium
+Malie Kai (Guittard),"O'ahu, N. Shore, Waialua Estate w/ nibs",502,2010,55.0,U.S.A.,3.5,,,False,Premium
+Malie Kai (Guittard),"O'ahu, N. Shore, Waialua Estate",311,2009,55.0,U.S.A.,2.75,Blend,,False,Poprawny
+Malmo,Chuao,1856,2016,70.0,Sweden,3.0,,,True,Poprawny
+Mana,Ecuador,1446,2015,74.0,U.S.A.,2.5,,,True,Poprawny
+Mana,Peru,1219,2014,74.0,U.S.A.,2.5,,,True,Poprawny
+Mana,Venezuela,1219,2014,74.0,U.S.A.,2.75,,,True,Poprawny
+Mana,Conacado,821,2012,74.0,U.S.A.,3.75,,,True,Premium
+Manifesto Cacao,Colombia,1331,2014,70.0,Colombia,2.75,,,True,Poprawny
+Manoa,Markham Valley,1522,2015,72.0,U.S.A.,3.5,,,True,Premium
+Manoa,Coto Brus,1522,2015,72.0,U.S.A.,3.75,,,True,Premium
+Manoa,"Waiahole, O'ahu",1089,2013,72.0,U.S.A.,3.75,,,True,Premium
+Manoa,"Liberia, #174",1003,2012,72.0,U.S.A.,3.25,,,True,Premium
+Manoa,"Hamakua, Hawaiian Crown, #176",1007,2012,72.0,U.S.A.,2.75,,,True,Poprawny
+Manoa,Piura,1007,2012,72.0,U.S.A.,3.0,,,True,Poprawny
+Manoa,"Oahu, Winward, #151, Maunawili district",1007,2012,72.0,U.S.A.,3.25,,,True,Premium
+Manufaktura Czekolady,Johe,1844,2016,70.0,Poland,3.75,,,True,Premium
+Manufaktura Czekolady,Peru,1848,2016,70.0,Poland,3.5,,,True,Premium
+Manufaktura Czekolady,Porcelana,1255,2014,70.0,Poland,3.75,Criollo,,True,Premium
+Manufaktura Czekolady,Kolumbia,1279,2014,85.0,Poland,3.5,,,True,Premium
+Manufaktura Czekolady,Grand Cru Dominican Republic,871,2012,70.0,Poland,3.25,,,True,Premium
+Manufaktura Czekolady,Grand Cru Ghana,871,2012,70.0,Poland,3.5,Forastero,,True,Premium
+Manufaktura Czekolady,Grand Cru Ecuador,875,2012,70.0,Poland,3.25,,,True,Premium
+Map Chocolate,"Ben Tre, Surprise Valley",1896,2016,75.0,U.S.A.,3.25,Trinitario,,True,Premium
+Map Chocolate,"ROIG, 2014",1474,2015,70.0,U.S.A.,3.5,"Criollo, Trinitario",,True,Premium
+Map Chocolate,"Maranon, 2014",1474,2015,62.0,U.S.A.,3.5,Forastero (Nacional),,False,Premium
+Map Chocolate,Ecuador,1478,2015,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Map Chocolate,"San Juan Estate, Cherry Blossoms at Night",1606,2015,70.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Map Chocolate,"A case of the Xerces Blues, triple roast",1606,2015,70.0,U.S.A.,3.5,,,True,Premium
+Map Chocolate,"Tumbes, Dear Mr. Finley, 2014",1606,2015,68.0,U.S.A.,3.5,Criollo,,False,Premium
+Map Chocolate,Colombia,1610,2015,75.0,U.S.A.,2.75,,,True,Poprawny
+Map Chocolate,"Kakoa Kamili, Both Man & Bird & Beast",1610,2015,72.0,U.S.A.,3.0,,,True,Poprawny
+Map Chocolate,Le Chocolat Chaud,1634,2015,78.0,U.S.A.,3.5,,,True,Premium
+Marana,Piura,1872,2016,70.0,Peru,3.0,,,True,Poprawny
+Marana,Cusco,1884,2016,70.0,Peru,2.75,,,True,Poprawny
+Marana,San Martin,1884,2016,70.0,Peru,3.0,,,True,Poprawny
+Marigold's Finest,Cacao Nib Crunch,1808,2016,75.0,Canada,3.25,,,True,Premium
+Marou,"Tan Phu Dong Island, Heart of Darkness",1650,2015,85.0,Vietnam,3.25,Trinitario,,True,Premium
+Marou,Ben Tre,1650,2015,68.0,Vietnam,3.5,Trinitario,,False,Premium
+Marou,"Dak Lak, Batch 2451",1650,2015,70.0,Vietnam,3.75,Trinitario,,True,Premium
+Marou,"Tan Phu Dong, Treasure Island",1149,2013,75.0,Vietnam,3.5,Trinitario,,True,Premium
+Marou,Ba Ria,845,2012,76.0,Vietnam,3.5,Trinitario,,True,Premium
+Marou,Dong Nai,845,2012,72.0,Vietnam,3.5,Trinitario,,True,Premium
+Marou,"Tien Giang, Gao Co-op",845,2012,70.0,Vietnam,3.5,Trinitario,,True,Premium
+Marou,Ben Tre,849,2012,78.0,Vietnam,3.5,Trinitario,,True,Premium
+Marou,Tien Giang,895,2012,80.0,Vietnam,3.0,Trinitario,,True,Poprawny
+Marou,Lam Dong,955,2012,74.0,Vietnam,3.5,Trinitario,,True,Premium
+Mars,"Matina 1-6, prototype",537,2010,65.0,U.S.A.,3.0,,,False,Poprawny
+Mars,Ivory Coast,544,2010,65.0,U.S.A.,3.0,,,False,Poprawny
+Mars,Nigeria,544,2010,65.0,U.S.A.,3.25,,,False,Premium
+Mars,"Ghana, prototype",544,2010,65.0,U.S.A.,3.5,Forastero,,False,Premium
+Marsatta,Dominican Republic,1189,2013,74.0,U.S.A.,2.25,,,True,Poprawny
+Marsatta,Dominican Republic,1189,2013,89.0,U.S.A.,2.5,,,True,Poprawny
+Martin Mayer,Alto Beni,1836,2016,76.0,Austria,2.75,,,True,Poprawny
+Martin Mayer,Pisa,1836,2016,82.0,Austria,3.0,,,True,Poprawny
+Martin Mayer,Tumaco,1836,2016,74.0,Austria,3.25,,,True,Premium
+Mast Brothers,Guatemala,1450,2015,76.0,U.S.A.,3.0,,,True,Poprawny
+Mast Brothers,Tanzania,1450,2015,74.0,U.S.A.,3.25,,,True,Premium
+Mast Brothers,French Laundry 20th Anniversary,1359,2014,75.0,U.S.A.,3.75,Blend,,True,Premium
+Mast Brothers,Shake Shack,959,2012,73.0,U.S.A.,3.5,Blend,,True,Premium
+Mast Brothers,Chuao,999,2012,73.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Mast Brothers,Brooklyn Blend,672,2011,72.0,U.S.A.,3.5,,,True,Premium
+Mast Brothers,"Chuao, Med. Roast",701,2011,76.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Mast Brothers,"Chuao, Dark Roast",709,2011,70.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Mast Brothers,"Chuao, Light Roast",713,2011,81.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Mast Brothers,Moho River,773,2011,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Mast Brothers,Papua New Guinea,777,2011,71.0,U.S.A.,2.75,,,True,Poprawny
+Mast Brothers,San Martin,777,2011,75.0,U.S.A.,3.0,,,True,Poprawny
+Mast Brothers,Conacado,777,2011,73.0,U.S.A.,3.25,,,True,Premium
+Mast Brothers,"La Red de Guanconejo, N. Highlands coop",777,2011,74.0,U.S.A.,3.75,,,True,Premium
+Mast Brothers,Patanemo,572,2010,81.0,U.S.A.,2.75,Criollo,,True,Poprawny
+Mast Brothers,Ocumare de la Costa,572,2010,75.0,U.S.A.,3.0,,,True,Poprawny
+Mast Brothers,"Dominican Republic, Coop",572,2010,70.0,U.S.A.,3.25,,,True,Premium
+Matale,"Malekula P., 2013",1177,2013,72.0,Australia,3.5,Trinitario,,True,Premium
+Matale,"Somia, 2013",1177,2013,68.0,Australia,4.0,Trinitario,madagascar,False,Premium
+Matale,"Kulili P., 2013",1177,2013,74.0,Australia,4.0,Trinitario,,True,Premium
+Matale,Blend,1181,2013,70.0,Australia,3.75,Trinitario,,True,Premium
+Maverick,Maya Mountain,1367,2014,70.0,U.S.A.,3.25,Trinitario,,True,Premium
+Maverick,Elvesia,1367,2014,70.0,U.S.A.,3.25,,,True,Premium
+Maverick,Tumbes,1430,2014,82.0,U.S.A.,3.25,Criollo,,True,Premium
+Maverick,"Morropon, Norandiono Coop, Piura",1430,2014,63.0,U.S.A.,3.5,Criollo,,False,Premium
+Mayacama,Hispaniola,1728,2016,72.0,U.S.A.,3.0,,,True,Poprawny
+Meadowlands,Bolivia,1287,2014,70.0,U.S.A.,2.5,,,True,Poprawny
+Meadowlands,Venezuela,1287,2014,70.0,U.S.A.,2.75,,,True,Poprawny
+Meadowlands,Belize,1287,2014,70.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Meadowlands,"Nicaragua, w/ inbs",1291,2014,70.0,U.S.A.,3.0,,,True,Poprawny
+Meadowlands,Dominican Republic,1291,2014,70.0,U.S.A.,3.5,,,True,Premium
+Menakao (aka Cinagra),Madagascar,837,2012,80.0,Madagascar,2.5,Trinitario,madagascar,True,Poprawny
+Menakao (aka Cinagra),Madagascar,841,2012,72.0,Madagascar,2.5,Trinitario,madagascar,True,Poprawny
+Mesocacao,El Salvador,1494,2015,80.0,Honduras,2.75,,,True,Poprawny
+Mesocacao,El Salvador,1494,2015,70.0,Honduras,3.0,,,True,Poprawny
+Mesocacao,Honduras,1347,2014,80.0,Honduras,3.25,,,True,Premium
+Mesocacao,Honduras,1347,2014,70.0,Honduras,3.5,,,True,Premium
+Mesocacao,"La Tronca, Matagalpa",1351,2014,70.0,Honduras,3.25,,,True,Premium
+Mesocacao,"La Tronca, Matagalpa",1351,2014,80.0,Honduras,3.5,,,True,Premium
+Metiisto,"Fazenda Sempre Firme P., Bahia",1267,2014,70.0,Sweden,3.0,,,True,Poprawny
+Metiisto,Akesson Estate,1267,2014,72.0,Sweden,3.5,Trinitario,madagascar,True,Premium
+Metropolitan,South America,1688,2015,70.0,Amsterdam,3.5,Trinitario,,True,Premium
+Michel Cluizel,"Chiapas, Mokaya P.",963,2012,66.0,France,3.75,,,False,Premium
+Michel Cluizel,"Carenero Superior, Concepcion",117,2007,66.0,France,3.5,Trinitario,,False,Premium
+Michel Cluizel,Vila Gracinda,135,2007,67.0,France,3.5,Forastero,,False,Premium
+Michel Cluizel,Carre Amer,24,2006,60.0,France,2.0,,,False,Rozczarowujący
+Michel Cluizel,Carre Grand Noir,24,2006,85.0,France,2.0,,,True,Rozczarowujący
+Michel Cluizel,Tamarina,24,2006,70.0,France,3.0,Forastero,,True,Poprawny
+Michel Cluizel,Los Ancones P.,24,2006,67.0,France,4.0,,,False,Premium
+Michel Cluizel,Mangaro P.,24,2006,65.0,France,4.0,Trinitario,madagascar,False,Premium
+Michel Cluizel,Maralumi P.,24,2006,64.0,France,4.0,,,False,Premium
+Michel Cluizel,Noir Infini,81,2006,99.0,France,2.0,,,True,Rozczarowujący
+Middlebury,Maya Mountain,1490,2015,80.0,U.S.A.,3.5,Trinitario,,True,Premium
+Middlebury,San Juan Estate,1490,2015,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Middlebury,Oko Caribe,1490,2015,75.0,U.S.A.,3.75,,,True,Premium
+Middlebury,"Patanemo, Epoch, Donaldo",1490,2015,75.0,U.S.A.,3.75,,,True,Premium
+Middlebury,Kokoa Kamili,1538,2015,75.0,U.S.A.,3.25,,,True,Premium
+Middlebury,"Matagalpa, Cacao Bisiesto",1538,2015,70.0,U.S.A.,3.5,,,True,Premium
+Middlebury,La Red,1117,2013,75.0,U.S.A.,2.5,,,True,Poprawny
+Middlebury,Belize,1117,2013,80.0,U.S.A.,3.25,Trinitario,,True,Premium
+Middlebury,Houseblend,887,2012,65.0,U.S.A.,1.5,,,False,Rozczarowujący
+Middlebury,Alto Beni,887,2012,75.0,U.S.A.,2.0,Criollo,,True,Rozczarowujący
+Middlebury,"Balinese, Java",887,2012,70.0,U.S.A.,2.5,Criollo,,True,Poprawny
+Millcreek Cacao Roasters,Ecuador,1073,2013,70.0,U.S.A.,2.5,Forastero (Nacional),,True,Poprawny
+Millcreek Cacao Roasters,Ecuador,825,2012,70.0,U.S.A.,3.5,,,True,Premium
+Mindo,Ecuador,607,2010,67.0,U.S.A.,2.75,,,False,Poprawny
+Mindo,Ecuador,607,2010,77.0,U.S.A.,2.75,,,True,Poprawny
+Minimal,"Acul-du-Nord, 2015",1920,2016,70.0,Japan,3.5,"Criollo, Trinitario",,True,Premium
+Mission,"Fazenda Camboa, Bahia",1880,2016,75.0,Brazil,3.75,,,True,Premium
+Mission,"Bahia, Fazenda Venturosa",1626,2015,70.0,Brazil,3.5,Forastero (Parazinho),,True,Premium
+Mita,Tumaco,955,2012,65.0,Colombia,2.5,,,False,Poprawny
+Moho,"Toledo District, w/ nibs",1026,2013,73.0,U.S.A.,3.25,Trinitario,,True,Premium
+Moho,Toledo District,1030,2013,72.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Moho,"Umoho R., Toledo District, San Felipe",607,2010,67.0,U.S.A.,2.75,Trinitario,,False,Poprawny
+Molucca,La Red,1614,2015,70.0,U.S.A.,3.0,,,True,Poprawny
+Molucca,Indonesia,1618,2015,70.0,U.S.A.,2.75,,,True,Poprawny
+Molucca,Peru,1618,2015,70.0,U.S.A.,3.25,,,True,Premium
+Momotombo,Matagalpa,661,2011,70.0,Nicaragua,2.75,,,True,Poprawny
+Momotombo,Mombacho,661,2011,70.0,Nicaragua,2.75,,,True,Poprawny
+Momotombo,Oscuro,772,2011,70.0,Nicaragua,3.25,,,True,Premium
+Monarque,Oko Caribe,1812,2016,72.0,Canada,3.5,,,True,Premium
+Monsieur Truffe,Papua New Guinea,1391,2014,70.0,Australia,3.25,,,True,Premium
+Montecristi,Manabi,1654,2015,70.0,Ecuador,3.25,,,True,Premium
+Montecristi,Manabi,1654,2015,63.0,Ecuador,3.5,,,False,Premium
+Montecristi,Manabi,1658,2015,85.0,Ecuador,3.5,,,True,Premium
+Muchomas (Mesocacao),Nicaragua,1462,2015,70.0,U.S.A.,3.5,,,True,Premium
+Muchomas (Mesocacao),Nicaragua,1462,2015,80.0,U.S.A.,3.5,,,True,Premium
+Mutari,"Kokoa Kamili, batch 1 SRB",1896,2016,68.0,U.S.A.,2.75,,,False,Poprawny
+Mutari,"Oko Caribe, batch 1 SRB",1896,2016,71.0,U.S.A.,2.75,,,True,Poprawny
+Mutari,"Ambanja, batch 1 SRB",1900,2016,68.0,U.S.A.,2.75,,madagascar,False,Poprawny
+Mutari,"Tien Giang, batch 1 SRB",1900,2016,80.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Nahua,"Costa Rica, Oscuro",1049,2013,58.0,Costa Rica,2.5,,,False,Poprawny
+Nahua,"Costa Rica, Oscuro",1049,2013,70.0,Costa Rica,3.0,,,True,Poprawny
+Naive,Trinidad & Tobago,1046,2013,70.0,Lithuania,3.75,,,True,Premium
+Naive,"Maranon Canyon, Fortunato No. 4",1133,2013,78.0,Lithuania,3.75,Forastero (Nacional),,True,Premium
+Naive,Grenada,867,2012,71.0,Lithuania,2.5,Trinitario,,True,Poprawny
+Na�ve,Nicaragua,1379,2014,70.0,Lithuania,3.25,Criollo,,True,Premium
+Na�ve,Chuao,1399,2014,75.0,Lithuania,2.75,Trinitario,,True,Poprawny
+Na�ve,Barinas,1399,2014,70.0,Lithuania,3.0,,,True,Poprawny
+Nanea,Criollo Blend,1007,2013,85.0,U.S.A.,3.5,,,True,Premium
+Nathan Miller,Peru,1403,2014,72.0,U.S.A.,2.25,,,True,Poprawny
+Nathan Miller,Hispaniola,1403,2014,70.0,U.S.A.,2.5,,,True,Poprawny
+Nathan Miller,Madagascar,1403,2014,73.5,U.S.A.,2.5,Trinitario,madagascar,True,Poprawny
+Nathan Miller,Ghana,1403,2014,70.0,U.S.A.,3.5,Forastero,,True,Premium
+Neuhaus (Callebaut),Papua New Guinea,531,2010,70.0,Belgium,2.5,Criollo,,True,Poprawny
+Neuhaus (Callebaut),Manickchand Estate,230,2008,67.0,Belgium,3.75,Trinitario,,False,Premium
+Neuhaus (Callebaut),Dark,135,2007,73.0,Belgium,1.0,,,True,Nieprzyjemny
+Neuhaus (Callebaut),West Africa,15,2006,73.0,Belgium,2.0,Forastero,,True,Rozczarowujący
+Neuhaus (Callebaut),Sao Tome,15,2006,75.0,Belgium,2.75,Forastero,,True,Poprawny
+Neuhaus (Callebaut),Ocumare,24,2006,71.0,Belgium,3.0,Criollo,,True,Poprawny
+Nibble,Patanemo,1526,2015,72.0,U.S.A.,2.25,Criollo,,True,Poprawny
+Nibble,Elvesia P.,1526,2015,72.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Nibble,"Ambanja, Sambirano Valley",1526,2015,72.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Nibble,Tumbes,1526,2015,72.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Night Owl,Peru,1022,2013,75.0,U.S.A.,2.75,,,True,Poprawny
+Night Owl,Ecuador,1022,2013,75.0,U.S.A.,3.5,,,True,Premium
+Noble Bean aka Jerjobo,Ghana,1295,2014,75.0,U.S.A.,3.0,Forastero,,True,Poprawny
+Noble Bean aka Jerjobo,Moho Valley,1299,2014,75.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Noble Bean aka Jerjobo,Maranon Canyon,1299,2014,75.0,U.S.A.,3.25,Forastero (Nacional),,True,Premium
+Noir d' Ebine,Venezuela,837,2012,70.0,U.S.A.,3.0,,,True,Poprawny
+Noir d' Ebine,Ecuador,841,2012,70.0,U.S.A.,3.0,,,True,Poprawny
+Nova Monda,"La Patriota, cacao Indio, purple label",931,2012,70.0,Nicaragua,3.0,,,True,Poprawny
+Nova Monda,"La Dalia, Matagalpa,cacao Bisesto,green label",935,2012,75.0,Nicaragua,2.75,,,True,Poprawny
+Nova Monda,"Punta Galera, cacao Nacional, gold label",935,2012,80.0,Nicaragua,3.25,Forastero (Nacional),,True,Premium
+Nuance,"Ghana, 2013",1454,2015,70.0,U.S.A.,3.75,Forastero,,True,Premium
+Nuance,"Ecuador, 2013",1458,2015,70.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Nuance,"Canoabo, 2013",1458,2015,70.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Nuance,"Sambirano Valley, 2012",1458,2015,70.0,U.S.A.,3.5,Trinitario,madagascar,True,Premium
+Nuance,La Red,1470,2015,70.0,U.S.A.,3.75,,,True,Premium
+Nugali,Fazenda Leolinda,1876,2016,70.0,Brazil,3.5,Trinitario (Scavina),,True,Premium
+Oakland Chocolate Co.,Jamaica,478,2010,70.0,U.S.A.,2.5,Trinitario,,True,Poprawny
+Obolo,Pangoa,1638,2015,70.0,Chile,3.75,Criollo,,True,Premium
+Obolo,"Pangoa, w/ nibs",1638,2015,70.0,Chile,3.75,Criollo,,True,Premium
+Ocelot,Virunga,1558,2015,70.0,Scotland,3.75,Forastero,,True,Premium
+Ocelot,Piura,1558,2015,75.0,Scotland,4.0,Criollo,,True,Premium
+Ocho,Sang Yum Coop,1760,2016,100.0,New Zealand,2.75,,,True,Poprawny
+Ocho,Sang Yum Coop,1760,2016,70.0,New Zealand,3.5,,,True,Premium
+Ocho,"PNG, Devotion",1411,2014,66.0,New Zealand,2.75,,,False,Poprawny
+Ocho,"PNG, Revolution",1411,2014,70.0,New Zealand,3.0,,,True,Poprawny
+Ocho,"PNG, Voodoo",1411,2014,88.0,New Zealand,3.25,,,True,Premium
+Ocho,"PNG, Nib Bar",1411,2014,74.0,New Zealand,3.5,,,True,Premium
+Ohiyo,"San Juan Estate, Gran Couva",1594,2015,70.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Ohiyo,Tanzania,1598,2015,70.0,U.S.A.,3.0,,,True,Poprawny
+Oialla by Bojessen (Malmo),"Sylvestre, Oialla",761,2011,70.0,Germany,3.5,Criollo,,True,Premium
+Olive and Sinclair,Dominican Republic prototype,486,2010,72.0,U.S.A.,3.0,,,True,Poprawny
+Olive and Sinclair,Ghana prototype,486,2010,72.0,U.S.A.,3.0,Forastero,,True,Poprawny
+Olive and Sinclair,Dark 67,457,2009,67.0,U.S.A.,2.75,,,False,Poprawny
+Olive and Sinclair,Dark 75,457,2009,75.0,U.S.A.,3.0,,,True,Poprawny
+Olivia,Carribean-Raw,688,2011,76.0,Canada,2.0,,,True,Rozczarowujący
+Olivia,Carribean,688,2011,76.0,Canada,2.75,,,True,Poprawny
+Olivia,Carribean,688,2011,85.0,Canada,2.75,,,True,Poprawny
+Olivia,Carribean-Raw,688,2011,85.0,Canada,3.0,,,True,Poprawny
+Omanhene,Ghana,693,2011,80.0,Ghana,2.75,Forastero,,True,Poprawny
+Omnom,"Kakao Kamili, Kilombero Valley",1816,2016,70.0,Iceland,3.75,Trinitario,,True,Premium
+Omnom,Papua New Guinea,1247,2014,70.0,Iceland,3.0,,,True,Poprawny
+Omnom,Madagascar,1247,2014,66.0,Iceland,3.5,Trinitario,madagascar,False,Premium
+organicfair,Maya Mountain,1161,2013,74.0,Canada,2.75,Trinitario,,True,Poprawny
+organicfair,La Red,1165,2013,72.0,Canada,2.75,,,True,Poprawny
+organicfair,Nicaragua,1165,2013,72.0,Canada,2.75,Trinitario,,True,Poprawny
+organicfair,Caribe,1165,2013,72.0,Canada,3.0,,,True,Poprawny
+organicfair,Mindo,1165,2013,72.0,Canada,3.0,Trinitario,,True,Poprawny
+Original Beans (Felchlin),Papua Kerafat,1438,2014,68.0,Switzerland,2.75,,,False,Poprawny
+Original Beans (Felchlin),"Grand Cru Blend No.1, 5 yr. Anniversary Ed",1442,2014,80.0,Switzerland,3.25,Blend,,True,Premium
+Original Beans (Felchlin),"Alto Beni, Wild Harvest, Itenez R. 24hr c.",733,2011,66.0,Switzerland,3.75,,,False,Premium
+Original Beans (Felchlin),"D.R. Congo, Cru Virunga",331,2009,70.0,Switzerland,3.0,Forastero,,True,Poprawny
+Original Beans (Felchlin),"Piura, Apotequil, ""Porcelana"" 72hr c.",341,2009,75.0,Switzerland,3.0,Criollo,,True,Poprawny
+Original Beans (Felchlin),"Alto Beni, Wild Harvest, Itenez R., 60hr c.",341,2009,68.0,Switzerland,3.25,,,False,Premium
+Original Hawaiin Chocolate Factory,"Hawai'i, Kona Grand Cru E.",316,2009,60.0,U.S.A.,3.0,Criollo,,False,Poprawny
+Original Hawaiin Chocolate Factory,"Hawai'i, Kona Estate Grown",24,2006,60.0,U.S.A.,3.0,,,False,Poprawny
+Orquidea,Peru,859,2012,65.0,Peru,3.0,,,False,Poprawny
+Orquidea,Peru,859,2012,72.0,Peru,3.0,,,True,Poprawny
+Pacari,"Sierra Nevada, Tutu Iku",1848,2016,70.0,Ecuador,4.0,,,True,Premium
+Pacari,Garaua,1415,2014,70.0,Ecuador,3.25,,,True,Premium
+Pacari,Cumbia,1415,2014,70.0,Ecuador,3.5,,,True,Premium
+Pacari,Montubia,1415,2014,70.0,Ecuador,3.75,,,True,Premium
+Pacari,Tangara,1415,2014,70.0,Ecuador,4.0,,,True,Premium
+Pacari,"Ecuador, raw",817,2012,85.0,Ecuador,2.75,,,True,Poprawny
+Pacari,Piura,863,2012,70.0,Ecuador,4.0,,,True,Premium
+Pacari,Nube- prototype,721,2011,70.0,Ecuador,3.5,,,True,Premium
+Pacari,Esmeraldas,224,2008,60.0,Ecuador,2.5,Forastero (Arriba),,False,Poprawny
+Pacari,Manabi,224,2008,65.0,Ecuador,2.75,Forastero (Arriba),,False,Poprawny
+Pacari,Los Rios,224,2008,72.0,Ecuador,3.0,Forastero (Arriba),,True,Poprawny
+Pacari,Raw,266,2008,100.0,Ecuador,2.0,Forastero (Arriba),,True,Rozczarowujący
+Pacari,Raw,266,2008,70.0,Ecuador,3.5,Forastero (Arriba),,True,Premium
+Palette de Bine,Lachua,1720,2016,70.0,Canada,2.75,,,True,Poprawny
+Palette de Bine,Maya Mtn,1720,2016,72.0,Canada,3.0,Trinitario,,True,Poprawny
+Palette de Bine,"Silvestre, La Paz, Beni",1570,2015,70.0,Canada,3.25,,,True,Premium
+Palette de Bine,"San Juan Estate, Gran Couva",1570,2015,70.0,Canada,3.25,Trinitario,,True,Premium
+Palette de Bine,Kokoa Kamili,1574,2015,72.0,Canada,3.5,,,True,Premium
+Palette de Bine,Lam Dong,1574,2015,72.0,Canada,3.75,Trinitario,,True,Premium
+Palette de Bine,"Alto Beni, Palos Blancos",1239,2014,72.0,Canada,2.75,,,True,Poprawny
+Palette de Bine,Sambirano,1239,2014,78.0,Canada,3.75,Trinitario,madagascar,True,Premium
+Palette de Bine,"Camino Verde P., Balao, Guayas",1303,2014,75.0,Canada,2.75,,,True,Poprawny
+Palette de Bine,Duo- Gran Couva & Camino Verde,1399,2014,75.0,Canada,3.5,Blend,,True,Premium
+Palette de Bine,Gran Couva,1399,2014,70.0,Canada,3.75,Trinitario,,True,Premium
+Pangea,Matasawalevu,1860,2016,76.0,Spain,3.0,,,True,Poprawny
+Park 75,South America,1363,2014,65.0,U.S.A.,3.5,,,False,Premium
+Parliament,Kilombero Valley,1856,2016,70.0,U.S.A.,3.25,,,True,Premium
+Parliament,"Lachua, Q'egchi families",1542,2015,70.0,U.S.A.,3.5,,,True,Premium
+Parliament,Alto Beni,1251,2014,70.0,U.S.A.,3.0,,,True,Poprawny
+Parliament,Oko Caribe,1255,2014,70.0,U.S.A.,3.5,,,True,Premium
+Pascha,Peru,1137,2013,55.0,Peru,2.5,,,False,Poprawny
+Pascha,Peru,1137,2013,70.0,Peru,2.75,,,True,Poprawny
+Patric,Signature Blend,636,2011,70.0,U.S.A.,3.75,Blend,,True,Premium
+Patric,Madagascar,331,2009,75.0,U.S.A.,4.0,Trinitario,madagascar,True,Premium
+Patric,Madagascar,439,2009,67.0,U.S.A.,3.5,Trinitario,madagascar,False,Premium
+Patric,"Rio Caribe, Paria Penninsula",439,2009,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Patric,Madagascar,196,2007,70.0,U.S.A.,4.0,Trinitario,madagascar,True,Premium
+Patric,"Piura, Choc. Garage Exclusive",1034,2013,67.0,U.S.A.,4.0,,,False,Premium
+Paul Young,"Madagascar, w/ shell",1271,2014,73.0,U.K.,2.25,Trinitario,madagascar,True,Poprawny
+Paul Young,"Madagascar, w/ shell",1271,2014,64.0,U.K.,2.75,Trinitario,madagascar,False,Poprawny
+Peppalo,Dominican Republic,1454,2015,82.0,U.S.A.,3.0,,,True,Poprawny
+Pierre Marcolini,"Haut Penja, w/ nibs",1658,2015,70.0,Belgium,3.25,Forastero,,True,Premium
+Pierre Marcolini,Chuao,478,2010,75.0,Belgium,3.0,Criollo,,True,Poprawny
+Pierre Marcolini,Trinite,478,2010,75.0,Belgium,3.25,Trinitario,,True,Premium
+Pierre Marcolini,"Baracoa, Cuba",516,2010,78.0,Belgium,3.75,"Criollo, Forastero",,True,Premium
+Pierre Marcolini,"Peru, Las Pampas P.",531,2010,85.0,Belgium,3.0,Criollo,,True,Poprawny
+Pierre Marcolini,"Bahia Brazil, Fazenda Sao Pedro",414,2009,72.0,Belgium,3.0,Forastero,,True,Poprawny
+Pierre Marcolini,"Porcelana, Tabasco, Finca La Joya",445,2009,72.0,Belgium,3.0,Criollo,,True,Poprawny
+Pierre Marcolini,Cabosse,111,2007,70.0,Belgium,4.0,Blend,,True,Premium
+Pierre Marcolini,"Los Rios, Puerto Romero, Equateur",129,2007,72.0,Belgium,3.75,Forastero (Nacional),,True,Premium
+Pierre Marcolini,"Sambirano, Ambanja, Madagascar",141,2007,72.0,Belgium,4.0,Trinitario,madagascar,True,Premium
+Pierre Marcolini,Fleur de Cacao,166,2007,85.0,Belgium,3.5,Blend,,True,Premium
+Pierre Marcolini,"Porcelana, Tabasco, Limited Ed.",81,2006,72.0,Belgium,4.0,Criollo,,True,Premium
+Pierre Marcolini,"Kendem Lembu, Java",93,2006,72.0,Belgium,3.0,Criollo,,True,Poprawny
+Pierre Marcolini,"Ocumare, Puerto Cabello, Venezuela",93,2006,72.0,Belgium,4.0,Criollo,,True,Premium
+Pinellas,Wampusirpi Region,1772,2016,80.0,U.S.A.,2.5,,,True,Poprawny
+Pitch Dark,Tenor,1506,2015,62.0,U.S.A.,2.5,,,False,Poprawny
+Pitch Dark,Johe,1506,2015,80.0,U.S.A.,2.75,,,True,Poprawny
+Pitch Dark,Chuno,1510,2015,80.0,U.S.A.,2.75,"Criollo, Trinitario",,True,Poprawny
+Pitch Dark,Nicalizo,1510,2015,80.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Pitch Dark,Rugoso,1510,2015,80.0,U.S.A.,3.25,,,True,Premium
+Pitch Dark,Akesson Estate,1311,2014,73.0,U.S.A.,3.25,Trinitario,madagascar,True,Premium
+Pitch Dark,Namau Village,1315,2014,73.0,U.S.A.,2.5,Trinitario,,True,Poprawny
+Pitch Dark,"Camino Verde P., Balao, Guayas, ""Fruity""",1319,2014,73.0,U.S.A.,3.25,,,True,Premium
+Pitch Dark,"Camino Verde P., Balao, Guayas, ""Floral""",1319,2014,73.0,U.S.A.,3.5,,,True,Premium
+Pomm (aka Dead Dog),"La Red, 2011",829,2012,76.0,U.S.A.,2.5,,,True,Poprawny
+Pomm (aka Dead Dog),Peru,829,2012,82.0,U.S.A.,2.75,Criollo,,True,Poprawny
+Potomac,"Oko Caribe, Duarte Province, 2016 H.",1820,2016,70.0,U.S.A.,3.75,,,True,Premium
+Potomac,"Cuyagua, 2013",1387,2014,70.0,U.S.A.,3.75,,,True,Premium
+Potomac,Upala w/ nibs,647,2011,70.0,U.S.A.,3.5,Matina,,True,Premium
+Potomac,"Upala, Batch 18",654,2011,70.0,U.S.A.,3.0,Matina,,True,Poprawny
+Potomac,"San Martin, Amazonian Highlands",789,2011,70.0,U.S.A.,2.75,,,True,Poprawny
+Potomac,Bahia,789,2011,70.0,U.S.A.,3.5,,,True,Premium
+Potomac,"Upala, Batch 12",607,2010,82.0,U.S.A.,3.75,Matina,,True,Premium
+Pralus,Peru,1446,2015,75.0,France,3.25,,,True,Premium
+Pralus,"Porcelana, S. of Lake Maracaibo",717,2011,75.0,France,3.25,Criollo (Porcelana),,True,Premium
+Pralus,Chuao,486,2010,75.0,France,3.5,Trinitario,,True,Premium
+Pralus,Cuyagua,451,2009,75.0,France,2.0,,,True,Rozczarowujący
+Pralus,Papouasie,199,2008,75.0,France,3.0,Trinitario,,True,Poprawny
+Pralus,"Sambirano Valley, Le 100%",202,2008,100.0,France,3.0,Criollo,madagascar,True,Poprawny
+Pralus,Dominican Republic-Organic,280,2008,75.0,France,2.0,,,True,Rozczarowujący
+Pralus,"Monte Alegre, Diego Badero",280,2008,75.0,France,3.5,,,True,Premium
+Pralus,Claudio Corallo w/ nibs,162,2007,75.0,France,4.0,Forastero,,True,Premium
+Pralus,"Monte Alegre (Itacare), Brazil",105,2006,75.0,France,3.0,Forastero,,True,Poprawny
+Pralus,Tanzania,105,2006,75.0,France,3.5,Criollo,,True,Premium
+Pralus,Sao Tome & Principe,5,2006,75.0,France,3.5,Forastero,,True,Premium
+Pralus,Trinidad,5,2006,75.0,France,3.5,Trinitario,,True,Premium
+Pralus,"Madagascar, Nosy Be Isle.",5,2006,75.0,France,3.75,Criollo,madagascar,True,Premium
+Pralus,"Java, Indonesie",32,2006,75.0,France,3.5,Criollo,,True,Premium
+Pralus,"Barlovento, Venezuela",32,2006,75.0,France,3.5,Trinitario,,True,Premium
+Pralus,Jamaique,32,2006,75.0,France,4.0,Trinitario,,True,Premium
+Pralus,Equateur,40,2006,75.0,France,3.0,Trinitario,,True,Poprawny
+Pralus,Vanuatu,40,2006,75.0,France,3.0,Trinitario,,True,Poprawny
+Pralus,Ghana,40,2006,75.0,France,3.25,Forastero,,True,Premium
+Pralus,Colombie,40,2006,75.0,France,3.5,Trinitario,,True,Premium
+Pralus,Fortissima,93,2006,80.0,France,4.0,"Criollo, Trinitario",,True,Premium
+Pralus,Cuba,99,2006,75.0,France,3.0,Trinitario,,True,Poprawny
+Pralus,"Caracas, Venezuela and Ghana",99,2006,75.0,France,3.0,"Trinitario, Forastero",,True,Poprawny
+Pralus,"Djakarta, Java and Ghana",99,2006,75.0,France,3.5,"Criollo, Forastero",,True,Premium
+Pump Street Bakery,"Chocoan Rainforest, Teroro Escondido, ESM",1872,2016,77.0,U.K.,3.5,,,True,Premium
+Pump Street Bakery,"Crayfish Bay Estate, 2014",1502,2015,70.0,U.K.,3.5,Trinitario,,True,Premium
+Pump Street Bakery,"Akesson's, batch 4411",1530,2015,74.0,U.K.,3.5,Criollo,madagascar,True,Premium
+Pump Street Bakery,Honduras,1688,2015,80.0,U.K.,2.75,,,True,Poprawny
+Pump Street Bakery,"Patanemo Vil., Carabobo State, Tisano family",1223,2014,75.0,U.K.,2.75,Trinitario,,True,Poprawny
+Pump Street Bakery,Guantupi River,1223,2014,75.0,U.K.,3.0,Forastero (Nacional),,True,Poprawny
+Pump Street Bakery,"Akessons Estate, Sambirano, Ambanja",1223,2014,72.0,U.K.,3.25,Trinitario,madagascar,True,Premium
+Pump Street Bakery,Guantupi River,1227,2014,85.0,U.K.,2.75,Forastero (Nacional),,True,Poprawny
+Pura Delizia,Venezuela,931,2012,73.0,Italy,2.75,,,True,Poprawny
+Q Chocolate,Brazil,1057,2013,75.0,Brazil,3.25,,,True,Premium
+Q Chocolate,Brazil,1057,2013,85.0,Brazil,3.5,,,True,Premium
+Q Chocolate,Brazil,1069,2013,55.0,Brazil,2.75,,,False,Poprawny
+Q Chocolate,Brazil,1069,2013,80.0,Brazil,3.25,,,True,Premium
+Q Chocolate,Brazil,935,2012,60.0,Brazil,3.0,,,False,Poprawny
+Q Chocolate,Brazil,935,2012,65.0,Brazil,3.25,,,False,Premium
+Quetzalli (Wolter),"Mexico, Lot 28022016",1796,2016,70.0,Mexico,2.75,Criollo,,True,Poprawny
+Quetzalli (Wolter),"Uranga, Lot 22032016",1800,2016,74.0,Mexico,3.0,Trinitario,,True,Poprawny
+Raaka,Amazon Basin Blend,1788,2016,70.0,U.S.A.,3.0,,,True,Poprawny
+Raaka,Virunga,1708,2015,75.0,U.S.A.,2.75,Forastero,,True,Poprawny
+Raaka,Madagascar,959,2012,75.0,U.S.A.,3.25,Trinitario,madagascar,True,Premium
+Raaka,La Red,785,2011,85.0,U.S.A.,3.5,,,True,Premium
+Rain Republic,Suchitepequez E.,470,2010,70.0,Guatemala,2.75,,,True,Poprawny
+Rancho San Jacinto,Ecuador,565,2010,75.0,Ecuador,3.0,"Forastero(Arriba, CCN)",,True,Poprawny
+Ranger,"San Martin, Batch 2",1558,2015,70.0,U.S.A.,2.5,,,True,Poprawny
+Ranger,"Chulucanas, Batch 1",1562,2015,80.0,U.S.A.,3.25,,,True,Premium
+Ranger,"Tumbes, Batch 2",1562,2015,73.0,U.S.A.,3.5,Criollo,,True,Premium
+Raoul Boulanger,Piura,1872,2016,75.0,France,3.25,Criollo,,True,Premium
+Raw Cocoa,Raw,867,2012,70.0,Poland,2.5,Criollo,,True,Poprawny
+Republica del Cacao (aka Confecta),Esmeraldas,494,2010,75.0,Ecuador,3.25,,,True,Premium
+Republica del Cacao (aka Confecta),"Los Rios, Vinces",439,2009,75.0,Ecuador,2.5,Forastero (Arriba),,True,Poprawny
+Republica del Cacao (aka Confecta),Manabi,147,2007,75.0,Ecuador,3.0,Forastero (Arriba),,True,Poprawny
+Republica del Cacao (aka Confecta),El Oro,147,2007,67.0,Ecuador,3.5,Forastero (Arriba),,False,Premium
+Republica del Cacao (aka Confecta),Los Rios,170,2007,75.0,Ecuador,3.75,Forastero (Arriba),,True,Premium
+Ritual,"Camino Verde P., Balao, 2015 harvest, batch8",1860,2016,75.0,U.S.A.,3.75,,,True,Premium
+Ritual,"Camino Verde P., Balao, Guayas, 2014",1466,2015,85.0,U.S.A.,3.5,,,True,Premium
+Ritual,"Mid Mountain, 2014",1466,2015,70.0,U.S.A.,3.5,Blend,,True,Premium
+Ritual,"Toledo District, Maya",1089,2013,75.0,U.S.A.,3.75,Trinitario,,True,Premium
+Ritual,"Maranon, Cajamarca",1181,2013,75.0,U.S.A.,3.0,Forastero (Nacional),,True,Poprawny
+Ritual,Sambirano,891,2012,75.0,U.S.A.,4.0,Trinitario,madagascar,True,Premium
+Ritual,"Camino Verde P., 2012, Balao, Guayas",967,2012,75.0,U.S.A.,3.25,Nacional (Arriba),,True,Premium
+Ritual,Gran Couva,979,2012,75.0,U.S.A.,3.5,Trinitario,,True,Premium
+Ritual,Costa Rica,745,2011,75.0,U.S.A.,3.5,,,True,Premium
+Roasting Masters,"La Dorado, light roast",1844,2016,70.0,South Korea,3.25,,,True,Premium
+Roasting Masters,"Tapanti, light roast",1844,2016,70.0,South Korea,3.25,,,True,Premium
+Roasting Masters,Maleku,1844,2016,70.0,South Korea,3.25,,,True,Premium
+Robert (aka Chocolaterie Robert),Madagascar,1061,2013,75.0,Madagascar,3.25,Trinitario,madagascar,True,Premium
+Robert (aka Chocolaterie Robert),Madagascar w/ nibs,1061,2013,68.0,Madagascar,3.25,Trinitario,madagascar,False,Premium
+Rococo (Grenada Chocolate Co.),"Gru Grococo, St. Andrews",923,2012,66.0,U.K.,3.5,Trinitario,,False,Premium
+Rogue,"La Masica, Batch 1, FHIA Research Center",1748,2016,75.0,U.S.A.,3.75,,,True,Premium
+Rogue,"Caranero, Choc. Garage Exclusive",1446,2015,70.0,U.S.A.,3.75,,,True,Premium
+Rogue,"Tranquilidad, Batch 1",1566,2015,75.0,U.S.A.,3.25,,,True,Premium
+Rogue,Porcelana,1209,2014,80.0,U.S.A.,3.75,Criollo,,True,Premium
+Rogue,"Akessons Estate, Sambirano, 2013",1038,2013,70.0,U.S.A.,3.5,Trinitario,madagascar,True,Premium
+Rogue,"Hispaniola, 2013",1081,2013,70.0,U.S.A.,3.5,,,True,Premium
+Rogue,"Silvestre, Batch 7, 2013",1081,2013,75.0,U.S.A.,4.0,,,True,Premium
+Rogue,"Bachelor's Hall E., St. Thomas Parish",1193,2013,75.0,U.S.A.,3.75,Trinitario,,True,Premium
+Rogue,"Camino Verde P., Balao, Guayas",979,2012,75.0,U.S.A.,3.75,Nacional (Arriba),,True,Premium
+Rogue,"Silvestre, Batch 1, 2011",793,2011,75.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Rogue,Piura,565,2010,75.0,U.S.A.,3.75,,,True,Premium
+Rogue,Rio Caribe,327,2009,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Rogue,"Hispaniola, 2008",213,2008,70.0,U.S.A.,2.75,,,True,Poprawny
+Rogue,Jamaica,213,2008,70.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Rogue,"Sambirano, 2008",213,2008,70.0,U.S.A.,2.75,Trinitario,madagascar,True,Poprawny
+Rogue,Trinidad,213,2008,70.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Rozsavolgyi,Sur del Lago,809,2012,84.0,Hungary,2.5,,,True,Poprawny
+Rozsavolgyi,"Rio Caribe Superior, Paria Penninsula",871,2012,76.0,Hungary,2.25,Trinitario,,True,Poprawny
+Rozsavolgyi,"Sambirano, Akesson Estate",871,2012,72.0,Hungary,2.5,Trinitario,madagascar,True,Poprawny
+Rozsavolgyi,Carenero Superior,713,2011,73.0,Hungary,3.5,Criollo,,True,Premium
+Rozsavolgyi,Porcelana,717,2011,71.0,Hungary,2.5,,,True,Poprawny
+Rozsavolgyi,"Aragua, Trincheras",717,2011,70.0,Hungary,3.5,,,True,Premium
+Rozsavolgyi,Principe,765,2011,77.0,Hungary,2.75,Forastero,,True,Poprawny
+S.A.I.D.,Malgascio,607,2010,64.0,Italy,3.5,Trinitario,madagascar,False,Premium
+S.A.I.D.,100 percent,615,2010,100.0,Italy,1.5,,,True,Rozczarowujący
+S.A.I.D.,Samana,615,2010,70.0,Italy,3.0,,,True,Poprawny
+S.A.I.D.,Arawak,615,2010,72.0,Italy,3.5,,,True,Premium
+S.A.I.D.,Latino,615,2010,72.0,Italy,3.5,,,True,Premium
+Sacred,Midnight,813,2012,83.0,U.S.A.,2.75,,,True,Poprawny
+Sacred,Twilight,813,2012,69.0,U.S.A.,3.25,,,False,Premium
+Salgado,Bahia Superior,288,2008,70.0,Argentina,3.5,Forastero,,True,Premium
+Salgado,Esmeraldas,288,2008,70.0,Argentina,3.5,Forastero (Nacional),,True,Premium
+Salgado,Carenero Superior,288,2008,70.0,Argentina,3.5,Trinitario,,True,Premium
+Salgado,Rio Arriba,292,2008,70.0,Argentina,3.5,Forastero (Arriba) ASS,,True,Premium
+Santander (Compania Nacional),Colombian 2008,404,2009,75.0,Colombia,2.75,Forastero (Nacional),,True,Poprawny
+Santander (Compania Nacional),Colombian w/ nibs,414,2009,70.0,Colombia,3.0,Forastero (Nacional),,True,Poprawny
+Santander (Compania Nacional),Colombian Semi Dark,32,2006,53.0,Colombia,2.0,Forastero (Nacional),,False,Rozczarowujący
+Santander (Compania Nacional),Colombian,32,2006,65.0,Colombia,3.0,Forastero (Nacional),,False,Poprawny
+Santander (Compania Nacional),Colombian Dark,32,2006,70.0,Colombia,4.0,Forastero (Nacional),,True,Premium
+Santome,Sao Tome,761,2011,70.0,France,2.75,Forastero,,True,Poprawny
+Scharffen Berger,San Juan de Cheni,959,2012,78.0,U.S.A.,4.0,,,True,Premium
+Scharffen Berger,Markham Valley,781,2011,68.0,U.S.A.,3.75,,,False,Premium
+Scharffen Berger,Camahogne,464,2010,68.0,U.S.A.,3.5,Trinitario,,False,Premium
+Scharffen Berger,Amina,464,2010,65.0,U.S.A.,3.75,"Trinitario, Criollo",madagascar,False,Premium
+Scharffen Berger,Tome Acu,336,2009,68.0,U.S.A.,3.75,,,False,Premium
+Scharffen Berger,Asante,336,2009,65.0,U.S.A.,4.0,Forastero,,False,Premium
+Scharffen Berger,Ben Tre,445,2009,72.0,U.S.A.,3.75,Trinitario,,True,Premium
+Scharffen Berger,Finisterra,227,2008,72.0,U.S.A.,3.0,Blend,,True,Poprawny
+Scharffen Berger,Las Islas,117,2007,72.0,U.S.A.,3.0,Blend,,True,Poprawny
+Scharffen Berger,Nibby,135,2007,62.0,U.S.A.,3.0,,,False,Poprawny
+Scharffen Berger,Cuyagua,135,2007,75.0,U.S.A.,3.75,,,True,Premium
+Scharffen Berger,Antilles (Trin/Gren/DR/Ven),188,2007,75.0,U.S.A.,3.0,Blend,,True,Poprawny
+Scharffen Berger,Extra Dark,15,2006,82.0,U.S.A.,2.0,,,True,Rozczarowujący
+Scharffen Berger,Bittersweet,15,2006,70.0,U.S.A.,3.5,Blend,,True,Premium
+Scharffen Berger,Kumasi Sambirano,40,2006,68.0,U.S.A.,2.0,Blend,,False,Rozczarowujący
+Scharffen Berger,Jamaica a l'ancienne,56,2006,70.0,U.S.A.,2.0,Trinitario,,True,Rozczarowujący
+Scharffen Berger,Semisweet,56,2006,62.0,U.S.A.,3.0,Blend,,False,Poprawny
+Seaforth,Dominican Republic,1658,2015,70.0,U.K.,2.75,,,True,Poprawny
+Seaforth,Grenada,1658,2015,70.0,U.K.,2.75,,,True,Poprawny
+Shark Mountain,Jamaica,1450,2015,72.0,U.S.A.,3.25,Trinitario,,True,Premium
+Shark Mountain,Papua New Guinea,1450,2015,73.0,U.S.A.,3.5,Forastero,,True,Premium
+Shark Mountain,Cuyagua,1466,2015,77.0,U.S.A.,2.75,Criollo,,True,Poprawny
+Shark Mountain,ROIG,1466,2015,74.0,U.S.A.,3.5,"Criollo, Trinitario",,True,Premium
+Shark Mountain,Ecuador,1335,2014,75.0,U.S.A.,3.0,Trinitario,,True,Poprawny
+Shark Mountain,"Belize, 2013",1335,2014,72.0,U.S.A.,3.25,"Criollo, Trinitario",,True,Premium
+Shark's,Hilo,713,2011,73.0,U.S.A.,2.0,,,True,Rozczarowujący
+Shark's,"Hilo, w/ added cocoa butter",721,2011,73.0,U.S.A.,2.5,,,True,Poprawny
+Shattel,Tingo Maria,1884,2016,70.0,Peru,3.25,,,True,Premium
+Shattell,Porcelana,757,2011,75.0,Peru,3.5,Criollo,,True,Premium
+Sibu,Oro,1586,2015,82.0,Costa Rica,3.25,,,True,Premium
+Sibu,Oscuro,1586,2015,70.0,Costa Rica,3.5,,,True,Premium
+Sibu Sura,Peru,911,2012,70.0,U.S.A.,2.5,,,True,Poprawny
+Silvio Bessone,Maya Belize,717,2011,67.0,Italy,3.0,Criollo,,False,Poprawny
+Silvio Bessone,"Trintade, Sao Tome",725,2011,65.0,Italy,3.25,Forastero,,False,Premium
+Silvio Bessone,"Bahia, Scavina",729,2011,60.0,Italy,3.25,Trinitario,,False,Premium
+Silvio Bessone,"Porcelana, Colombia, Amazonas",741,2011,68.0,Italy,3.0,"Criollo, Trinitario",,False,Poprawny
+Sirene,Wild Bolivia,1788,2016,73.0,Canada,3.5,,,True,Premium
+Sirene,Kokoa Kamili Coop,1856,2016,73.0,Canada,3.5,,,True,Premium
+Sirene,"Esmeraldas, Salazar Farm",1860,2016,73.0,Canada,3.75,,,True,Premium
+Sirene,"Somia Plantation, 2012",1502,2015,100.0,Canada,3.0,Trinitario,madagascar,True,Poprawny
+Sirene,"Camino Verde P., Balao, Guayas, 2012",1506,2015,100.0,Canada,3.0,,,True,Poprawny
+Sirene,Lachua w/ cane sugar,1614,2015,73.0,Canada,3.0,,,True,Poprawny
+Sirene,"Lachua w/ maple sugar, batch 5",1614,2015,73.0,Canada,3.25,,,True,Premium
+Sirene,Pisa,1650,2015,73.0,Canada,3.25,,,True,Premium
+Sirene,"Somia Plantation, 2012",1339,2014,67.0,Canada,3.75,Trinitario,madagascar,False,Premium
+Sirene,"Somia Plantation, 2012",1339,2014,73.0,Canada,3.75,Trinitario,madagascar,True,Premium
+Sirene,"Camino Verde P., Balao, Guayas",1343,2014,73.0,Canada,3.75,,,True,Premium
+Sjolinds,Ghana,1454,2015,70.0,U.S.A.,2.75,Forastero,,True,Poprawny
+Sjolinds,Nicaragua,1462,2015,72.0,U.S.A.,3.0,,,True,Poprawny
+"Smooth Chocolator, The","Oko Caribe, DOR005",1940,2017,70.0,Australia,3.5,,,True,Premium
+"Smooth Chocolator, The","Guasare, La Sierra de Perija, batch gua001",1740,2016,70.0,Australia,3.75,Criollo,,True,Premium
+"Smooth Chocolator, The","Porcelana, Sorotaima,Machiques,batch pcl001",1740,2016,70.0,Australia,4.0,Criollo,,True,Premium
+"Smooth Chocolator, The","Maya Mtn, Moho R., Toledo D.",1756,2016,70.0,Australia,3.75,,,True,Premium
+"Smooth Chocolator, The",Tien Giang,1864,2016,70.0,Australia,3.0,Trinitario,,True,Poprawny
+"Smooth Chocolator, The",Australia,1864,2016,67.0,Australia,3.75,,,False,Premium
+"Smooth Chocolator, The","Chimelb, Lanquin, Alta Verapaz, b-GUA001",1908,2016,70.0,Australia,3.25,,,True,Premium
+"Smooth Chocolator, The",Akesson's Estate,1618,2015,65.0,Australia,3.25,Trinitario,madagascar,False,Premium
+"Smooth Chocolator, The",Akesson's Estate,1622,2015,70.0,Australia,3.5,Trinitario,madagascar,True,Premium
+"Smooth Chocolator, The",Kokoa Kamili,1622,2015,67.0,Australia,3.75,,,False,Premium
+"Smooth Chocolator, The",San Juan Estate,1622,2015,70.0,Australia,3.75,Trinitario,,True,Premium
+"Smooth Chocolator, The",Camino Verde,1622,2015,72.0,Australia,4.0,,,True,Premium
+"Smooth Chocolator, The",Bolivia,1626,2015,72.0,Australia,2.75,,,True,Poprawny
+"Smooth Chocolator, The","Papua New Guinea, triple roast, batch 1",1662,2015,65.0,Australia,3.5,,,False,Premium
+"Smooth Chocolator, The","Maranon, batch 2",1666,2015,67.0,Australia,3.0,Forastero (Nacional),,False,Poprawny
+"Smooth Chocolator, The","Chuao, batch 3",1666,2015,70.0,Australia,3.75,Trinitario,,True,Premium
+Snake & Butterfly,Ghana,693,2011,67.0,U.S.A.,1.5,Forastero,,False,Rozczarowujący
+Snake & Butterfly,Madagascar,502,2010,68.0,U.S.A.,3.0,Trinitario,madagascar,False,Poprawny
+Snake & Butterfly,Ecuador,502,2010,68.0,U.S.A.,3.25,,,False,Premium
+Sol Cacao,"Ecuador, Batch 1",1812,2016,70.0,U.S.A.,3.5,,,True,Premium
+Sol Cacao,Madagascar,1518,2015,72.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Solkiki,"Maranon, Fortunato No. 4",1840,2016,68.0,U.K.,2.75,Forastero (Nacional),,False,Poprawny
+Solkiki,"Castillo, Hispaniola, unroasted",1840,2016,85.0,U.K.,2.75,,,True,Poprawny
+Solomons Gold,Solomon Island,1792,2016,70.0,New Zealand,3.25,,,True,Premium
+Solomons Gold,Solomon Island w/ nibs,1796,2016,75.0,New Zealand,3.25,,,True,Premium
+Solstice,Bundibugyo,1335,2014,70.0,U.S.A.,3.0,"Forastero, Trinitario",,True,Poprawny
+Solstice,Sambirano,1157,2013,70.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Solstice,Amazonas,1157,2013,70.0,U.S.A.,3.0,,,True,Poprawny
+Solstice,Bolivia,1161,2013,70.0,U.S.A.,3.25,,,True,Premium
+Solstice,San Martin,1161,2013,70.0,U.S.A.,3.25,,,True,Premium
+Solstice,Wasatch,1161,2013,70.0,U.S.A.,3.5,Blend,,True,Premium
+Soma,"Oko Caribe, Duarte P., Collab w Chocosol",1820,2016,62.0,Canada,3.5,,,False,Premium
+Soma,"Sambirano Valley, Black Science, B-60307.0",1820,2016,70.0,Canada,3.5,Trinitario,madagascar,True,Premium
+Soma,"Bahia Black, batch bra50722.1",1828,2016,70.0,Canada,3.5,Forastero (Parazinho),,True,Premium
+Soma,"Abstract S. w/ Jamaica nibs,batch abs60323.0",1828,2016,75.0,Canada,3.75,,,True,Premium
+Soma,"Chuno, San Jose de Bocay, Pantasma R.,B.S.",1828,2016,70.0,Canada,3.75,Trinitario,,True,Premium
+Soma,"Tien Giang, Black S., batch VIT60420.0",1828,2016,70.0,Canada,4.0,Trinitario,,True,Premium
+Soma,"Camino Verde, Black S., batch cvu6030.0",1832,2016,70.0,Canada,3.25,,,True,Premium
+Soma,CSB Chama,1594,2015,70.0,Canada,3.5,Criollo,,True,Premium
+Soma,Porcelana,1594,2015,75.0,Canada,4.0,,,True,Premium
+Soma,"La Tronca, Matagalpa",1227,2014,70.0,Canada,3.5,,,True,Premium
+Soma,Maranon Canyon,1259,2014,70.0,Canada,3.75,Forastero (Nacional),,True,Premium
+Soma,La Dalia,1307,2014,70.0,Canada,3.25,Trinitario,,True,Premium
+Soma,"Camino Verde P., Balao, Guayas",1307,2014,80.0,Canada,3.5,Forastero (Nacional),,True,Premium
+Soma,"Espiritu Santo, 'Smoke Monster'",1307,2014,70.0,Canada,3.75,Forastero (Amelonado),,True,Premium
+Soma,Little Big Man,1339,2014,70.0,Canada,3.25,Blend,,True,Premium
+Soma,"Rizek Cacao, Domin. Rep.",1019,2013,77.0,Canada,3.75,Trinitario,,True,Premium
+Soma,Java,1030,2013,70.0,Canada,3.25,Criollo,,True,Premium
+Soma,"Apurimac, El Quinacho Co-op",1073,2013,70.0,Canada,2.75,Criollo,,True,Poprawny
+Soma,"Sangre Grande P., Trinidad",1073,2013,70.0,Canada,3.75,Trinitario,,True,Premium
+Soma,Chef's Blend,1077,2013,70.0,Canada,3.25,,,True,Premium
+Soma,Patanemo,1077,2013,70.0,Canada,3.75,Criollo,,True,Premium
+Soma,Crazy 88,1077,2013,88.0,Canada,4.0,,,True,Premium
+Soma,"Maracaibo, El Vigia",1077,2013,70.0,Canada,4.0,Criollo,,True,Premium
+Soma,Equator,1081,2013,67.0,Canada,4.0,,,False,Premium
+Soma,Orinoco,1173,2013,70.0,Canada,3.25,Forastero,,True,Premium
+Soma,"Bachelor's Hall E., St. Thomas Parish",1177,2013,70.0,Canada,4.0,Trinitario,,True,Premium
+Soma,Noula Coop,817,2012,70.0,Canada,3.25,,,True,Premium
+Soma,O'ahu,833,2012,70.0,Canada,3.75,,,True,Premium
+Soma,"Dual Origins, Sambirano, Elvesia",867,2012,70.0,Canada,4.0,Blend,,True,Premium
+Soma,"Dancing in Your Head, 5 bean blend",867,2012,70.0,Canada,4.0,Blend,,True,Premium
+Soma,Cahabon Region,951,2012,70.0,Canada,3.5,Trinitario,,True,Premium
+Soma,Carenero Superior,951,2012,70.0,Canada,3.75,Trinitario,,True,Premium
+Soma,Eastern Promises,967,2012,70.0,Canada,3.5,Blend,,True,Premium
+Soma,Papua New Guinea,983,2012,85.0,Canada,3.5,Trinitario,,True,Premium
+Soma,"Grenada, Black Science",676,2011,70.0,Canada,2.75,Trinitario,,True,Poprawny
+Soma,"Alto Beni, Wild Bolivian",676,2011,70.0,Canada,3.5,Nacional,,True,Premium
+Soma,Peruvian,676,2011,64.0,Canada,4.0,,,False,Premium
+Soma,"Elvesia P., Black Science",682,2011,70.0,Canada,3.75,Forastero,,True,Premium
+Soma,Chuao,688,2011,70.0,Canada,3.5,Criollo,,True,Premium
+Soma,Black Science Blend 1,607,2010,70.0,Canada,3.75,"Trinitario, Nacional",,True,Premium
+Soma,Hispaniola,377,2009,70.0,Canada,3.0,Forastero,,True,Poprawny
+Soma,Africa,377,2009,70.0,Canada,3.5,Forastero,,True,Premium
+Soma,Conacado,387,2009,70.0,Canada,3.0,Trinitario,,True,Poprawny
+Soma,Papua New Guinea,387,2009,70.0,Canada,3.5,Trinitario,,True,Premium
+Soma,Madagascar,387,2009,70.0,Canada,3.75,Criollo,madagascar,True,Premium
+Soma,Ocumare,387,2009,70.0,Canada,3.75,Criollo,,True,Premium
+Somerville,Nicaragua,1367,2014,70.0,U.S.A.,3.25,,,True,Premium
+Somerville,"Hawaiian, Big Island",1395,2014,70.0,U.S.A.,3.5,,,True,Premium
+Soul,Dominican Republic,1932,2017,70.0,Canada,3.25,,,True,Premium
+Soul,Madagascar,1936,2017,70.0,Canada,3.5,,madagascar,True,Premium
+Soul,Venezuela,1936,2017,75.0,Canada,3.5,,,True,Premium
+Soul,Ecuador,1936,2017,75.0,Canada,3.25,,,True,Premium
+Soul,Papua New Guinea,1936,2017,77.0,Canada,3.25,,,True,Premium
+Soul,Tanzania,1940,2017,80.0,Canada,3.5,,,True,Premium
+Spagnvola,AgroCriso Plantation,793,2012,70.0,U.S.A.,3.0,,,True,Poprawny
+Spagnvola,AgroCriso Plantation,793,2012,80.0,U.S.A.,3.0,,,True,Poprawny
+Spagnvola,AgroCriso Plantation,793,2012,75.0,U.S.A.,3.25,,,True,Premium
+Spencer,Dominican Republic,1932,2017,70.0,U.S.A.,3.75,,,True,Premium
+Spencer,Ecuador,1932,2017,70.0,U.S.A.,3.5,,,True,Premium
+Spencer,Peru,1932,2017,70.0,U.S.A.,2.75,,,True,Poprawny
+Spencer,"Dominican Republic, lot D82R",1792,2016,70.0,Australia,3.5,,,True,Premium
+Spencer,"Ecuador, lot E432314L",1792,2016,70.0,Australia,3.75,,,True,Premium
+Spencer,"Madagascar, lot M0403R",1792,2016,70.0,Australia,3.75,,madagascar,True,Premium
+Spencer,Malekula Island,1434,2014,72.0,Australia,2.75,Trinitario,,True,Poprawny
+Sprungli (Felchlin),Alto Beni,1057,2013,70.0,Switzerland,3.0,Criollo,,True,Poprawny
+SRSLY,Dominican Republic,1113,2013,70.0,U.S.A.,3.0,,,True,Poprawny
+SRSLY,Dominican Republic,1121,2013,84.0,U.S.A.,2.25,,,True,Poprawny
+Starchild,"Bolivar, Arriba",1634,2015,70.0,U.S.A.,3.0,Forastero (Nacional),,True,Poprawny
+Starchild,Hispaniola,1692,2015,70.0,U.S.A.,3.0,,,True,Poprawny
+Starchild,Cacao Verapaz,1692,2015,70.0,U.S.A.,3.0,,,True,Poprawny
+Starchild,Rio Tuma,1692,2015,70.0,U.S.A.,3.0,Trinitario (Amelonado),,True,Poprawny
+Starchild,Sambirano Valley,1696,2015,70.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Stella (aka Bernrain),"Bahia, Agri-Forestal Plantation, 2010",859,2012,68.0,Switzerland,2.75,Trinitario,,False,Poprawny
+Stella (aka Bernrain),India,729,2011,72.0,Switzerland,3.25,,,True,Premium
+Stone Grindz,"Ecuador, Midnight Dark",1291,2014,84.0,U.S.A.,3.5,,,True,Premium
+Stone Grindz,"Ecuador, Twilght Dark",1291,2014,70.0,U.S.A.,3.5,,,True,Premium
+StRita Supreme,"Samar, East Visayas region",939,2012,65.0,U.S.A.,2.5,,,False,Poprawny
+StRita Supreme,"Samar, East Visayas region",943,2012,70.0,U.S.A.,2.5,,,True,Poprawny
+StRita Supreme,"Samar, East Visayas region",943,2012,75.0,U.S.A.,2.75,,,True,Poprawny
+Sublime Origins,Sambirano,1157,2013,67.0,U.S.A.,2.75,Trinitario,madagascar,False,Poprawny
+Sublime Origins,Moho Valley,1157,2013,78.0,U.S.A.,3.25,Trinitario,,True,Premium
+Summerbird,Peru,1800,2016,61.0,Denmark,2.5,"Criollo, Trinitario",,False,Poprawny
+Summerbird,Peru,1800,2016,71.0,Denmark,3.0,"Criollo, Trinitario",,True,Poprawny
+Suruca Chocolate,Venezuela,1796,2016,70.0,Venezuela,2.75,,,True,Poprawny
+Suruca Chocolate,Venezuela,1796,2016,60.0,Venezuela,3.0,,,False,Poprawny
+Svenska Kakaobolaget,Sri Lanka,1618,2015,70.0,Sweden,2.75,"Criollo, Trinitario",,True,Poprawny
+Szanto Tibor,Nacional,1668,2015,70.0,Hungary,3.25,,,True,Premium
+Szanto Tibor,Baracoa,1704,2015,88.0,Hungary,3.25,Trinitario,,True,Premium
+Szanto Tibor,Ambolikapiky,1704,2015,70.0,Hungary,3.25,Trinitario,madagascar,True,Premium
+Szanto Tibor,"Winak, Sumaco",1704,2015,70.0,Hungary,3.75,Forastero (Nacional),,True,Premium
+Szanto Tibor,"Ben Tre, Mekong Delta",1708,2015,70.0,Hungary,3.25,Trinitario,,True,Premium
+Szanto Tibor,"Fazenda Sempre Firme, Bahia",1708,2015,70.0,Hungary,3.5,Forastero (Parazinho),,True,Premium
+Szanto Tibor,Porcelana,1263,2014,70.0,Hungary,3.5,Criollo,,True,Premium
+Szanto Tibor,Baracoa,1263,2014,70.0,Hungary,3.75,Trinitario,,True,Premium
+Szanto Tibor,"Autumn, Primary Harvest, 2012",1185,2013,70.0,Hungary,3.5,Criollo,madagascar,True,Premium
+Szanto Tibor,"Spring, Secondary Harvest, 2012",1185,2013,70.0,Hungary,3.5,Criollo,madagascar,True,Premium
+Szanto Tibor,Cacao Blanco,1193,2013,70.0,Hungary,3.25,,,True,Premium
+Szanto Tibor,Santo Domingo,939,2012,70.0,Hungary,3.25,,,True,Premium
+Szanto Tibor,Millot Plantation,939,2012,70.0,Hungary,3.25,,madagascar,True,Premium
+Szanto Tibor,"Ayacucho, ""El Guinacho""",939,2012,70.0,Hungary,3.75,,,True,Premium
+Szanto Tibor,Crudo,761,2011,70.0,Hungary,3.0,,,True,Poprawny
+Tabal,Costa Rica,1101,2013,70.0,U.S.A.,2.75,,,True,Poprawny
+Tabal,Dominican Republic,1101,2013,70.0,U.S.A.,2.75,,,True,Poprawny
+Tabal,"Chiapas, Lacandon Jungle",1105,2013,70.0,U.S.A.,2.5,,,True,Poprawny
+Tabal,Peru,1105,2013,70.0,U.S.A.,3.0,,,True,Poprawny
+Tablette (aka Vanillabeans),Colombia,1450,2015,70.0,Japan,3.0,,,True,Poprawny
+Tablette (aka Vanillabeans),Papua,1450,2015,62.0,Japan,3.25,,,False,Premium
+Tablette (aka Vanillabeans),Vietnam,1450,2015,60.0,Japan,3.25,Trinitario,,False,Premium
+Tablette (aka Vanillabeans),Trinidad,1680,2015,77.0,Japan,2.75,Trinitario,,True,Poprawny
+Tan Ban Skrati,"Paramaribo, batch 20160043-01",1868,2016,70.0,Suriname,3.25,Trinitario,,True,Premium
+Taza,Belize,1271,2014,68.0,U.S.A.,3.0,Trinitario,,False,Poprawny
+Taza,Alto Beni,785,2011,87.0,U.S.A.,3.25,,,True,Premium
+Taza,Chiapas,451,2009,75.0,U.S.A.,2.75,,,True,Poprawny
+Taza,"Dark, Stone Ground",180,2007,70.0,U.S.A.,3.0,,,True,Poprawny
+TCHO,West Africa,1716,2016,62.0,U.S.A.,2.0,Forastero,,False,Rozczarowujący
+TCHO,Peru- Ecuador,915,2012,99.0,U.S.A.,3.25,,,True,Premium
+TCHO,TCHOPro 60.5,387,2009,60.0,U.S.A.,2.75,,,False,Poprawny
+TCHO,TCHOPro 68,387,2009,68.0,U.S.A.,3.0,,,False,Poprawny
+TCHO,Chocolatey-beta,199,2008,70.0,U.S.A.,2.5,Forastero,,True,Poprawny
+TCHO,Fruity-beta,280,2008,70.0,U.S.A.,2.5,,,True,Poprawny
+TCHO,Citrus-beta,280,2008,70.0,U.S.A.,2.75,,madagascar,True,Poprawny
+TCHO,Nutty-beta,284,2008,70.0,U.S.A.,2.5,,,True,Poprawny
+Tejas,Concepcion,801,2012,70.0,U.S.A.,2.75,,madagascar,True,Poprawny
+Tejas,Bayou Blend,801,2012,70.0,U.S.A.,3.0,Blend,,True,Poprawny
+Tejas,Aranama,805,2012,70.0,U.S.A.,3.0,,,True,Poprawny
+Tejas,Presidio,805,2012,70.0,U.S.A.,3.5,,,True,Premium
+Tejas,"La Bahia, w/ cane juice",817,2012,70.0,U.S.A.,3.25,,,True,Premium
+Tejas,Capistrano,821,2012,70.0,U.S.A.,2.0,,,True,Rozczarowujący
+Tejas,"La Bahia, w/ cane sugar",825,2012,70.0,U.S.A.,3.25,,,True,Premium
+Tejas,San Jose,829,2012,70.0,U.S.A.,2.75,,,True,Poprawny
+Tejas,Capistrano*,829,2012,70.0,U.S.A.,3.0,,madagascar,True,Poprawny
+Tejas,Espada,833,2012,70.0,U.S.A.,3.25,,,True,Premium
+Tejas,Espada,967,2012,70.0,U.S.A.,2.75,,,True,Poprawny
+Tejas,Concepcion*,971,2012,80.0,U.S.A.,3.0,,,True,Poprawny
+Tejas,San Jose,971,2012,67.0,U.S.A.,3.25,,,False,Premium
+Tejas,"Bahia, Floresta Azul,Good Friends Reserve#3",971,2012,70.0,U.S.A.,3.5,Forastero (Parazinho),,True,Premium
+Terroir,Peru,1478,2015,70.0,U.S.A.,2.75,,,True,Poprawny
+Terroir,Belize,1478,2015,70.0,U.S.A.,3.75,Trinitario,,True,Premium
+Terroir,Madagascar,1478,2015,70.0,U.S.A.,3.75,Trinitario,madagascar,True,Premium
+Terroir,Ecuador,1482,2015,70.0,U.S.A.,3.25,,,True,Premium
+Terroir,Oko Caribe,1554,2015,70.0,U.S.A.,3.5,,,True,Premium
+Terroir,Guatemala,1558,2015,70.0,U.S.A.,3.75,Trinitario,,True,Premium
+Terroir,Ecuador,1323,2014,77.0,U.S.A.,3.25,,,True,Premium
+Terroir,Madagascar,1323,2014,67.0,U.S.A.,3.75,Trinitario,madagascar,False,Premium
+Terroir,Uganda,1323,2014,73.0,U.S.A.,3.75,Forastero,,True,Premium
+The Barn,Peru,1614,2015,70.0,Sweden,3.0,,,True,Poprawny
+Theo,Congo w/ nibs,903,2012,65.0,U.S.A.,3.25,Forastero,,False,Premium
+Theo,Madagascar,162,2007,65.0,U.S.A.,3.5,Trinitario,madagascar,False,Premium
+Theo,Ivory Coast,184,2007,75.0,U.S.A.,2.5,,,True,Poprawny
+Theo,"Ghana, Kumasi",184,2007,84.0,U.S.A.,3.0,Forastero,,True,Poprawny
+Theo,"Venezuela; Barinos, Merida, Tachron",188,2007,91.0,U.S.A.,2.0,Blend,,True,Rozczarowujący
+Theo,"Ghana, Panama, Ecuador",188,2007,75.0,U.S.A.,3.0,Blend,,True,Poprawny
+Theobroma,"Piura Select, Cacao Blanc",1684,2015,70.0,Japan,3.25,,,True,Premium
+Timo A. Meyer,"Belize, med roast",1836,2016,72.0,Germany,3.75,"Trinitario, TCGA",,True,Premium
+To'ak (Ecuatoriana),Manabi,1418,2014,81.0,Ecuador,3.25,Forastero (Nacional),,True,Premium
+Tobago Estate (Pralus),"Roxborough, Tobago",895,2012,70.0,France,4.0,Trinitario,,True,Premium
+Tocoti,"Wild Bolivian, Jungle Love",927,2012,77.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Tocoti,Venezuela,789,2011,72.0,U.S.A.,2.75,,,True,Poprawny
+Tocoti,Dominican Republic,789,2011,74.0,U.S.A.,3.0,,,True,Poprawny
+Treehouse,Conacado,1239,2014,72.0,U.S.A.,3.0,,,True,Poprawny
+Tsara (Cinagra),"Ambanja, Tsara Valley",753,2011,72.0,Madagascar,3.5,,madagascar,True,Premium
+twenty-four blackbirds,Oko Caribe,1700,2015,75.0,U.S.A.,2.75,,,True,Poprawny
+twenty-four blackbirds,"Cedeno, lot 271",1700,2015,75.0,U.S.A.,3.5,,,True,Premium
+twenty-four blackbirds,Madagascar,1235,2014,75.0,U.S.A.,3.5,Trinitario,madagascar,True,Premium
+twenty-four blackbirds,Dominican Republic,1022,2013,68.0,U.S.A.,3.25,,,False,Premium
+twenty-four blackbirds,Palos Blancos,1026,2013,75.0,U.S.A.,2.5,,,True,Poprawny
+twenty-four blackbirds,Dominican Republic,753,2011,73.0,U.S.A.,2.75,,,True,Poprawny
+Two Ravens,Peru,1740,2016,60.0,U.S.A.,3.0,Criollo,,False,Poprawny
+Un Dimanche A Paris,Dominican Republic,709,2011,63.0,France,3.75,,,False,Premium
+Undone,Matagalpa,1438,2014,74.0,U.S.A.,2.75,,,True,Poprawny
+Undone,Nourish,1438,2014,70.0,U.S.A.,3.0,,,True,Poprawny
+Upchurch,"Madagascar, Sassy Bar",1752,2016,72.0,U.S.A.,3.0,Trinitario,madagascar,True,Poprawny
+Upchurch,"Tanzania, Party Bar",1752,2016,72.0,U.S.A.,3.25,,,True,Premium
+Urzi,"Sur del Lago, Merida",1327,2014,65.0,Italy,3.25,Trinitario,,False,Premium
+Valrhona,"Piura, Illanka, Quemazon",1510,2015,63.0,France,4.0,,,False,Premium
+Valrhona,"Andoa, Grand Cru blend",1145,2013,70.0,France,3.5,,,True,Premium
+Valrhona,"Loma Sotavento, 2013",1153,2013,64.0,France,3.5,,,False,Premium
+Valrhona,"Otucan, Grand Cru",931,2012,69.0,France,4.0,,,False,Premium
+Valrhona,Caraque,709,2011,56.0,France,3.25,,,False,Premium
+Valrhona,"Porcelana, Pedegral",757,2011,64.0,France,4.0,Criollo,,False,Premium
+Valrhona,Tainori,327,2009,64.0,France,3.75,,,False,Premium
+Valrhona,Alpaco,370,2009,66.0,France,3.75,,,False,Premium
+Valrhona,Nyangbo,395,2009,68.0,France,3.5,Forastero,,False,Premium
+Valrhona,Araguani,117,2007,72.0,France,3.0,Blend,,True,Poprawny
+Valrhona,Chuao 2002 P.,129,2007,65.0,France,3.75,Trinitario,,False,Premium
+Valrhona,Manjari,129,2007,64.0,France,4.0,"Criollo, Trinitario",madagascar,False,Premium
+Valrhona,Le Noir Extra Amer,147,2007,85.0,France,1.5,,,True,Rozczarowujący
+Valrhona,Abinao,153,2007,85.0,France,2.5,Forastero,,True,Poprawny
+Valrhona,Le Noir Amer,157,2007,71.0,France,2.75,Forastero,,True,Poprawny
+Valrhona,"Porcelana, Maracaibo, Palmira P. 2006",162,2007,64.0,France,3.25,Criollo (Porcelana),,False,Premium
+Valrhona,Caraibe,63,2006,66.0,France,3.0,Trinitario,,False,Poprawny
+Valrhona,Guanaja,63,2006,70.0,France,4.0,"Criollo, Trinitario",,True,Premium
+Valrhona,Gran Couva 2005 P.,75,2006,64.0,France,2.5,Trinitario,,False,Poprawny
+Valrhona,"Porcelana, Maracaibo, Palmira P. 2005",75,2006,64.0,France,3.0,Criollo (Porcelana),,False,Poprawny
+Valrhona,"Sambirano, Ampamakia 2005, Millot P.",75,2006,64.0,France,3.5,Trinitario,madagascar,False,Premium
+Vanleer (Barry Callebaut),Manhattan,963,2012,72.0,U.S.A.,2.5,Forastero,,True,Poprawny
+Vanleer (Barry Callebaut),Napa,963,2012,65.0,U.S.A.,2.75,Forastero,,False,Poprawny
+Vao Vao (Chocolaterie Robert),Madagascar,404,2009,72.0,Madagascar,2.75,Trinitario,madagascar,True,Poprawny
+Vao Vao (Chocolaterie Robert),Madagascar,404,2009,76.0,Madagascar,2.75,Trinitario,madagascar,True,Poprawny
+Vao Vao (Chocolaterie Robert),Madagascar,404,2009,80.0,Madagascar,2.75,Trinitario,madagascar,True,Poprawny
+Vao Vao (Chocolaterie Robert),Madagascar,404,2009,70.0,Madagascar,3.0,Trinitario,madagascar,True,Poprawny
+Vao Vao (Chocolaterie Robert),Madagascar w/ nibs,404,2009,68.0,Madagascar,3.0,Trinitario,madagascar,False,Poprawny
+Vao Vao (Chocolaterie Robert),Madagascar,404,2009,64.0,Madagascar,3.25,Trinitario,madagascar,False,Premium
+Vicuna,Palos Blancos,1470,2015,70.0,U.S.A.,3.25,,,True,Premium
+Vicuna,Palos Blancos + nibs,1470,2015,70.0,U.S.A.,3.25,,,True,Premium
+Videri,Dominican Republic,1211,2014,90.0,U.S.A.,3.25,,,True,Premium
+Videri,Trinidad,1211,2014,75.0,U.S.A.,3.5,Trinitario,,True,Premium
+Videri,Mindo,1227,2014,75.0,U.S.A.,3.5,,,True,Premium
+Videri,Dark,1117,2013,90.0,U.S.A.,3.75,,,True,Premium
+Videri,Classic,991,2012,70.0,U.S.A.,3.25,,,True,Premium
+Vietcacao (A. Morin),"Ben Tre, Mekong Delta, MoCay",951,2012,70.0,France,3.5,Trinitario,,True,Premium
+Vintage Plantations,San Martin,1205,2014,75.0,U.S.A.,3.0,,,True,Poprawny
+Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,100.0,U.S.A.,2.0,Forastero (Arriba),,True,Rozczarowujący
+Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,90.0,U.S.A.,2.0,Forastero (Arriba),,True,Rozczarowujący
+Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,75.0,U.S.A.,3.0,Forastero (Arriba),,True,Poprawny
+Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2007",153,2007,65.0,U.S.A.,3.0,Forastero (Arriba),,False,Poprawny
+Violet Sky,Sambirano Valley,1458,2015,77.0,U.S.A.,2.75,Trinitario,madagascar,True,Poprawny
+Violet Sky,Moho River Valley,1458,2015,77.0,U.S.A.,3.0,"Criollo, Trinitario",,True,Poprawny
+Violet Sky,Cuyagua,1458,2015,77.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Violet Sky,Peru,1458,2015,77.0,U.S.A.,3.25,"Criollo, Trinitario",,True,Premium
+Violet Sky,Cahabon,1502,2015,77.0,U.S.A.,2.75,Trinitario,,True,Poprawny
+Vivra,Peru,1720,2016,70.0,U.S.A.,2.5,,,True,Poprawny
+Vivra,Ocumare,1720,2016,70.0,U.S.A.,2.5,,,True,Poprawny
+Vivra,Dominican Republic,1724,2016,70.0,U.S.A.,3.0,,,True,Poprawny
+Wellington Chocolate Factory,Conacado,1756,2016,70.0,New Zealand,3.5,Trinitario,,True,Premium
+Wellington Chocolate Factory,"Piura Blanco, Norandino",1756,2016,70.0,New Zealand,3.5,,,True,Premium
+Whittakers,Ghana,733,2011,72.0,New Zealand,2.5,Forastero,,True,Poprawny
+Wilkie's Organic,Amazonas,1169,2013,75.0,Ireland,2.5,Criollo,,True,Poprawny
+Wilkie's Organic,Amazonas,1169,2013,89.0,Ireland,2.75,Criollo,,True,Poprawny
+Wilkie's Organic,Tumbes,1169,2013,75.0,Ireland,3.25,Criollo,,True,Premium
+Wilkie's Organic,Amazonas w/ nibs,1173,2013,75.0,Ireland,2.75,Criollo,,True,Poprawny
+Willie's Cacao,Los Llanos,1848,2016,70.0,U.K.,4.0,,,True,Premium
+Willie's Cacao,Los Llanos,1227,2014,88.0,U.K.,3.0,Trinitario,,True,Poprawny
+Willie's Cacao,"Java, Indonesian Black",1109,2013,100.0,U.K.,2.25,,,True,Poprawny
+Willie's Cacao,Sambirano,593,2010,71.0,U.K.,3.0,Trinitario,madagascar,True,Poprawny
+Willie's Cacao,Hacienda Las Trincheras,593,2010,72.0,U.K.,3.5,,,True,Premium
+Willie's Cacao,Java,593,2010,69.0,U.K.,3.75,,,False,Premium
+Willie's Cacao,San Martin,457,2009,70.0,U.K.,3.0,,,True,Poprawny
+Willie's Cacao,Rio Caribe,457,2009,72.0,U.K.,3.25,Trinitario,,True,Premium
+Wm,"Guasare, Zulia Prov., 2015, batch 124",1912,2016,74.0,U.S.A.,3.0,Criollo,,True,Poprawny
+Wm,"Wild Beniano, 2016, batch 128, Heirloom",1912,2016,76.0,U.S.A.,3.5,,,True,Premium
+Wm,"Ghana, 2013, batch 129",1916,2016,75.0,U.S.A.,3.75,,,True,Premium
+Woodblock,"Maranon, Cajamarca",1243,2014,70.0,U.S.A.,3.0,Forastero (Nacional),,True,Poprawny
+Woodblock,"Camino Verde P., Balao, Guayas",1042,2013,70.0,U.S.A.,3.25,,,True,Premium
+Woodblock,Gran Couva,1042,2013,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Woodblock,Ecuador,825,2012,70.0,U.S.A.,2.5,,,True,Poprawny
+Woodblock,Costa Rica,825,2012,70.0,U.S.A.,3.0,,,True,Poprawny
+Woodblock,Sambirano,951,2012,70.0,U.S.A.,3.25,Trinitario,madagascar,True,Premium
+Woodblock,Ocumare,741,2011,70.0,U.S.A.,4.0,,,True,Premium
+Woodblock,La Red,769,2011,70.0,U.S.A.,3.5,,,True,Premium
+Xocolat,Hispaniola,1057,2013,66.0,Domincan Republic,3.0,,,False,Poprawny
+Xocolla,"Sambirano, batch 170102",1948,2017,70.0,U.S.A.,2.75,,madagascar,True,Poprawny
+Xocolla,"Hispaniola, batch 170104",1948,2017,70.0,U.S.A.,2.5,,,True,Poprawny
+Zak's,"Papua New Guinea, Batch 2",1574,2015,70.0,U.S.A.,3.0,,,True,Poprawny
+Zak's,"Dominican Republic, Batch D2",1578,2015,70.0,U.S.A.,3.25,,,True,Premium
+Zak's,"Madagascar, Batch 2",1578,2015,70.0,U.S.A.,3.25,Trinitario,madagascar,True,Premium
+Zak's,"Peru, Batch 1",1578,2015,70.0,U.S.A.,3.25,,,True,Premium
+Zak's,"Belize, Batch 2",1578,2015,70.0,U.S.A.,3.5,Trinitario,,True,Premium
+Zak's,"House Blend, Batch 2",1582,2015,60.0,U.S.A.,3.0,,,False,Poprawny
+Zart Pralinen,"Millot P., Ambanja",1820,2016,70.0,Austria,3.5,"Criollo, Trinitario",madagascar,True,Premium
+Zart Pralinen,UNOCACE,1824,2016,70.0,Austria,2.75,Nacional (Arriba),,True,Poprawny
+Zart Pralinen,San Juan Estate,1824,2016,85.0,Austria,2.75,Trinitario,,True,Poprawny
+Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,85.0,Austria,3.0,"Criollo, Trinitario",,True,Poprawny
+Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,70.0,Austria,3.5,"Criollo, Trinitario",,True,Premium
+Zart Pralinen,"San Juan Estate, Gran Couva",1880,2016,78.0,Austria,3.5,Trinitario,,True,Premium
+Zokoko,Guadalcanal,1716,2016,78.0,Australia,3.75,,,True,Premium
+Zokoko,Goddess Blend,1780,2016,65.0,Australia,3.25,,,False,Premium
+Zokoko,Alto Beni,697,2011,68.0,Australia,3.5,,,False,Premium
+Zokoko,Tokiala,701,2011,66.0,Australia,3.5,Trinitario,,False,Premium
+Zokoko,"Tranquilidad, Baures",701,2011,72.0,Australia,3.75,,,True,Premium
+Zotter,Raw,1205,2014,80.0,Austria,2.75,,,True,Poprawny
+Zotter,"Bocas del Toro, Cocabo Co-op",801,2012,72.0,Austria,3.5,,,True,Premium
+Zotter,Amazonas Frucht,801,2012,65.0,Austria,3.5,,,False,Premium
+Zotter,"Satipo Pangoa region, 16hr conche",875,2012,70.0,Austria,3.0,Criollo (Amarru),,True,Poprawny
+Zotter,"Satipo Pangoa region, 20hr conche",875,2012,70.0,Austria,3.5,Criollo (Amarru),,True,Premium
+Zotter,"Loma Los Pinos, Yacao region, D.R.",875,2012,62.0,Austria,3.75,,,False,Premium
+Zotter,El Oro,879,2012,75.0,Austria,3.0,Forastero (Nacional),,True,Poprawny
+Zotter,Huiwani Coop,879,2012,75.0,Austria,3.0,"Criollo, Trinitario",,True,Poprawny
+Zotter,El Ceibo Coop,879,2012,90.0,Austria,3.25,,,True,Premium
+Zotter,Santo Domingo,879,2012,70.0,Austria,3.75,,,True,Premium
+Zotter,"Kongo, Highlands",883,2012,68.0,Austria,3.25,Forastero,,False,Premium
+Zotter,"Indianer, Raw",883,2012,58.0,Austria,3.5,,,False,Premium
+Zotter,Peru,647,2011,70.0,Austria,3.75,,,True,Premium
+Zotter,Congo,749,2011,65.0,Austria,3.0,Forastero,,False,Poprawny
+Zotter,Kerala State,749,2011,65.0,Austria,3.5,Forastero,,False,Premium
+Zotter,Kerala State,781,2011,62.0,Austria,3.25,,,False,Premium
+Zotter,"Brazil, Mitzi Blue",486,2010,65.0,Austria,3.0,,,False,Poprawny
